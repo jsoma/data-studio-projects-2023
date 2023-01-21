@@ -4,7 +4,9 @@ from urllib.parse import urlparse
 from PIL import Image
 import time
 
-from playwright.sync_api import sync_playwright
+import asyncio
+from asyncio_pool import AioPool
+from playwright.async_api import async_playwright
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
@@ -14,8 +16,7 @@ SIZES = {"mobile": 400, "medium": 900, "wide": 1300}
 
 
 class Website:
-    def __init__(self, page, url):
-        self.page = page
+    def __init__(self, url):
         self.url = url
 
         pieces = urlparse(url)
@@ -26,12 +27,13 @@ class Website:
             self.urlpath = pieces.path.strip("/") + "/index.html"
         self.urlpath = self.urlpath.strip("/")
 
-    def load(self):
+    async def load(self, page):
         """Load the web page"""
         logger.info(f"{self.url}: Loading")
 
+        self.page = page
         try:
-            response = self.page.goto(self.url, timeout=30000)
+            response = await self.page.goto(self.url, timeout=30000)
         except:
             # Exit early if fails to load
             self.successful_request = False
@@ -42,43 +44,46 @@ class Website:
         else:
             self.successful_request = False
         time.sleep(1)
-        self.page.evaluate(
+        await self.page.evaluate(
             "window.scrollTo({ top: document.body.scrollHeight, behavior: 'smooth' });"
         )
         time.sleep(2)
+        await self.get_desc_details()
 
-    def get_all_meta_tags(self):
+    async def get_all_meta_tags(self):
         self.meta = {}
-        self.meta['og:title'] = self.get_meta("og:title")
+        self.meta['og:title'] = await self.get_meta("og:title")
         # self.meta['og:type'] = self.get_meta("og:type")
-        self.meta['og:description'] = self.get_meta("og:description")
-        self.meta['og:image'] = self.get_meta("og:image")
+        self.meta['og:description'] = await self.get_meta("og:description")
+        self.meta['og:image'] = await self.get_meta("og:image")
         # self.meta['twitter:card'] = self.get_meta("twitter:card", "name")
 
-    def get_meta(self, property, property_type='property'):
-        try:
-            logger.info(f"Getting {property}")
-            return self.page.query_selector(f"meta[{property_type}='{property}']").get_attribute('content')
-        except:
+    async def get_meta(self, property, property_type='property'):
+        logger.info(f"Getting {property}")
+        qs = await self.page.query_selector(f"meta[{property_type}='{property}']")
+        if qs:
+            return await qs.get_attribute('content')
+        else:
             return None
 
-    def screenshot(self):
+    async def screenshot_all(self):
         """Take a screenshot at each screen size"""
         for size in SIZES.keys():
-            self.screenshot_one(size)
+            await self.screenshot_one(size)
+
+    async def get_desc_details(self):
+        self.page_title = await self.page.title() or self.urlpath
+        for character in ['|', '[', ']']:
+            self.page_title = self.page_title.replace(character, "")
+
+        await self.get_all_meta_tags()
 
     def build_desc(self):
-        title = self.page.title() or self.urlpath
-        for character in ['|', '[', ']']:
-            title = title.replace(character, "")
-        page_link = f"[{title}]({self.url})"
-
-        self.get_all_meta_tags()
-        
+        page_link = f"[{self.page_title}]({self.url})"
         metas = '<br>'.join([f":x: {key}" for key, value in self.meta.items() if value is None])
 
         if metas:
-            desc = f"|{page_link}<br>{metas}<br>[how to fix](tips/SOCIAL.md)|"
+            desc = f"|{page_link}<br>{metas}<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|"
         else:
             desc = f"|{page_link}|"
         return desc
@@ -103,17 +108,17 @@ class Website:
         filename = f"{basename}-{size}-{version}.jpg"
         return Path(OUTPUT_DIR).joinpath(self.hostname).joinpath(filename)
 
-    def screenshot_one(self, size):
+    async def screenshot_one(self, size):
         """Create a screenshot at a given screen width"""
         width = SIZES[size]
         filepath = self.shot_path(size)
-        self.page.set_viewport_size({"width": width, "height": 700})
+        await self.page.set_viewport_size({"width": width, "height": 700})
         time.sleep(0.5)
         filepath.parent.mkdir(parents=True, exist_ok=True)
 
         logger.info(f"{self.url}: {width}px screenshot to {filepath}")
 
-        self.page.screenshot(path=filepath, full_page=True, type='jpeg')
+        await self.page.screenshot(path=filepath, full_page=True, type='jpeg')
 
         thumb_path = self.shot_path(size, "thumb")
         logger.info(f"{self.url}: Creating thumbnail at {thumb_path}")
@@ -121,10 +126,10 @@ class Website:
             box = (0, 0, img.size[0], img.size[0])
             img.crop(box).resize((400, 400)).save(thumb_path)
     
-    def run_checks(self):
+    async def run_checks(self):
         logger.info(f"{self.url}: Running automatic checks")
         self.issues = []
-        tiny_text = self.page.evaluate("""
+        tiny_text = await self.page.evaluate("""
         () => [...document.querySelectorAll(".ai2html p")]
             .filter(d => window.getComputedStyle(d)['font-size'].indexOf("px") != -1)
             .filter(d => parseFloat(window.getComputedStyle(d)['font-size']) < 11)
@@ -135,13 +140,13 @@ class Website:
                 }
             })
         """)
-        self.page.set_viewport_size({"width": SIZES['mobile'], "height": 700})
-        has_sideways_scroll = self.page.evaluate("() => document.body.scrollWidth > window.innerWidth")
-        missing_viewport_tag = self.page.evaluate("() => !document.querySelector('meta[name=viewport]')")
+        await self.page.set_viewport_size({"width": SIZES['mobile'], "height": 700})
+        has_sideways_scroll = await self.page.evaluate("() => document.body.scrollWidth > window.innerWidth")
+        missing_viewport_tag = await self.page.evaluate("() => !document.querySelector('meta[name=viewport]')")
         overlapping_elements = []
         for width in SIZES.values():
-            self.page.set_viewport_size({"width": width, "height": 700})
-            new_overlaps = self.page.evaluate("""
+            await self.page.set_viewport_size({"width": width, "height": 700})
+            new_overlaps = await self.page.evaluate("""
                 () => {
                     function overlaps(e1, e2) {
                         const buffer = 5;
@@ -176,7 +181,7 @@ class Website:
             """)
             overlapping_elements.extend(new_overlaps)
 
-        missing_fonts = self.page.evaluate("""
+        missing_fonts = await self.page.evaluate("""
             () => {
                 function groupBy(objectArray, property) {
                     return objectArray.reduce((acc, obj) => {
@@ -203,21 +208,23 @@ class Website:
             }
         """)
 
-        img_missing_alt_tags = self.page.query_selector_all('img:not([alt])')
+        img_missing_alt_tags = await self.page.query_selector_all('img:not([alt])')
         if img_missing_alt_tags:
             self.issues.append(f"* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)")
-            for img in img_missing_alt_tags:
-                self.issues.append(f"    * Image `{img.get_attribute('src')}` missing `alt` tag")
+            for img in img_missing_alt_tags[:5]:
+                self.issues.append(f"    * Image `{await img.get_attribute('src')}` missing `alt` tag")
+            if len(img_missing_alt_tags) > 5:
+                self.issues.append(f"    * *and {len(img_missing_alt_tags) - 5} more*")
 
-        datawrapper_charts = self.page.query_selector_all(".dw-chart")
+        datawrapper_charts = await self.page.query_selector_all(".dw-chart")
         for chart in datawrapper_charts:
-            if not chart.query_selector_all(".sr-only"):
+            if not await chart.query_selector_all(".sr-only"):
                 self.issues.append("* Datawrapper chart missing description, fill out *Alternative description for screen readers* section on Annotate tab, [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)")
 
         if not self.successful_request:
-            self.issues.append("* Could not access the page - if you moved it, let me know")
+            self.issues.append("* **Could not access the page** - if you moved it, let me know!")
 
-        if not self.page.title():
+        if not await self.page.title():
             self.issues.append("* Needs a title, add a `<title>` tag to the `<head>`")
 
         if not self.urlpath.endswith("index.html"):
@@ -255,7 +262,35 @@ class Website:
             for key, values in missing_fonts.items():
                 self.issues.append(f"    * `{key}` font not found, used in {len(values)} text objects. Example: _{', '.join([v['text'] for v in values[:3]])}_")
 
-websites = [w for w in Path("websites.txt").read_text().split("\n") if w != ""]
+    async def process_as_new_page(self, context):
+        await self.load(await context.new_page())
+        if self.successful_request:
+            await self.screenshot_all()
+        await self.run_checks()
+
+
+async def scrape_all():
+    urls = [w for w in Path("websites.txt").read_text().split("\n") if w != ""]
+    websites = [Website(url) for url in urls]
+
+    async with async_playwright() as playwright:
+        browser = await playwright.chromium.launch(
+            args=[
+                "--disable-web-security",
+                "--disable-features=IsolateOrigins,site-per-process",
+            ]
+        )
+        context = await browser.new_context()
+
+            
+        async with AioPool(size=5) as pool:
+            for site in websites:
+                await pool.spawn(site.process_as_new_page(context))
+
+        await browser.close()
+    return websites
+
+websites = asyncio.run(scrape_all())
 
 table_starter = """
 |url|mobile|medium|wide|
@@ -266,47 +301,31 @@ readme_md = """"""
 issues_md = """"""
 toc_md = """"""
 
-with sync_playwright() as p:
-    browser = p.chromium.launch(
-        args=[
-            "--disable-web-security",
-            "--disable-features=IsolateOrigins,site-per-process",
-        ]
-    )
-    page = browser.new_page()
+prev_host = None
+for site in websites:
+    if site.hostname != prev_host:
+        readme_md += issues_md
+        readme_md += f"\n\n## {site.hostname}\n\n{table_starter}"
+        toc_md += f"* [{site.hostname}](#{site.hostname.replace('.','')})\n"
+        issues_md = f"\n\n### Automatic Checks\n\n"
+        prev_host = site.hostname
 
-    prev_host = None
-    for website in websites:
-        site = Website(page, website)
-        if site.hostname != prev_host:
-            readme_md += issues_md
-            readme_md += f"\n\n## {site.hostname}\n\n{table_starter}"
-            toc_md += f"* [{site.hostname}](#{site.hostname.replace('.','')})\n"
-            issues_md = f"\n\n### Automatic Checks\n\n"
-            prev_host = site.hostname
-        site.load()
-        if site.successful_request:
-            site.screenshot()
-        site.run_checks()
+    readme_md += site.get_table_row() + "\n"
 
-        readme_md += site.get_table_row() + "\n"
+    issues_md += f"**{site.url}**\n\n"
+    if site.issues:
+        issues_md += '\n'.join(site.issues) + '\n\n'
+    else:
+        issues_md += f"No issues found! 🎉\n\n"
 
-        issues_md += f"**{site.url}**\n\n"
-        if site.issues:
-            issues_md += '\n'.join(site.issues) + '\n\n'
-        else:
-            issues_md += f"No issues found! 🎉\n\n"
+readme_md += issues_md
 
-    readme_md += issues_md
+readme_md = (
+    "# Data Studio 2023 Personal Projects Test Page\n\n" +
+    "Quick checks to make sure our pages are looking their best.\n\n" +
+    toc_md +
+    "\n\n" +
+    readme_md
+)
 
-    readme_md = (
-        "# Data Studio 2023 Personal Projects Test Page\n\n" +
-        "Quick checks to make sure our pages are looking their best.\n\n" +
-        toc_md +
-        "\n\n" +
-        readme_md
-    )
-
-    Path("README.md").write_text(readme_md)
-
-    browser.close()
+Path("README.md").write_text(readme_md)
