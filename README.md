@@ -2,28 +2,10 @@
 
 Quick checks to make sure our pages are looking their best.
 
-<table><tr>
-            <td>
-                <a href="#rachel-el-pgithubio">
-                    <img src="screenshots/rachel-el-p.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>
-                    rachel-el-p.github.io
-                </a>
-            </td>
-            
-            <td>
-                <a href="#xinyitugithubio">
-                    <img src="screenshots/xinyitu.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>
-                    xinyitu.github.io
-                </a>
-            </td>
-            
-            <td>
-                <a href="#kellywaldrogithubio">
-                    <img src="screenshots/kellywaldro.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>
-                    kellywaldro.github.io
-                </a>
-            </td>
-            </tr></table>
+<table><tr><td><a href="#rachel-el-pgithubio"><img src="screenshots/rachel-el-p.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>rachel-el-p.github.io</a></td>
+<td><a href="#xinyitugithubio"><img src="screenshots/xinyitu.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>xinyitu.github.io</a></td>
+<td><a href="#kellywaldrogithubio"><img src="screenshots/kellywaldro.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>kellywaldro.github.io</a></td>
+</tr></table>
 
 
 
@@ -39,6 +21,7 @@ Quick checks to make sure our pages are looking their best.
 
 **https://rachel-el-p.github.io/**
 
+* Page took 5.03s to load, check image/table sizes
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
     * Image `Images/rp_icon.png` missing `alt` tag
     * Image `Images/trucks-getty.jpg` missing `alt` tag
