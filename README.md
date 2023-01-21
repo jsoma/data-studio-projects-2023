@@ -11,14 +11,14 @@ Quick checks to make sure our pages are looking their best.
             </td>
             
             <td>
-                <a style="text-align: center" href="#xinyitugithubio">
+                <a href="#xinyitugithubio">
                     <img src="screenshots/xinyitu.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>
                     xinyitu.github.io
                 </a>
             </td>
             
             <td>
-                <a style="text-align: center" href="#kellywaldrogithubio">
+                <a href="#kellywaldrogithubio">
                     <img src="screenshots/kellywaldro.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>
                     kellywaldro.github.io
                 </a>
@@ -39,7 +39,6 @@ Quick checks to make sure our pages are looking their best.
 
 **https://rachel-el-p.github.io/**
 
-* Page took 33.36s to load, check image/table sizes
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
     * Image `Images/rp_icon.png` missing `alt` tag
     * Image `Images/trucks-getty.jpg` missing `alt` tag
@@ -89,7 +88,6 @@ No issues found! 🎉
 
 **https://kellywaldro.github.io/**
 
-* Page took 19.95s to load, check image/table sizes
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
     * Image `./images/kibale-min.jpg` missing `alt` tag
     * Image `./images/bagamoyo-min.jpg` missing `alt` tag
