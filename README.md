@@ -5,6 +5,9 @@ Quick checks to make sure our pages are looking their best.
 <table><tr><td><a href="#rachel-el-pgithubio"><img src="screenshots/rachel-el-p.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>rachel-el-p.github.io</a></td>
 <td><a href="#xinyitugithubio"><img src="screenshots/xinyitu.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>xinyitu.github.io</a></td>
 <td><a href="#kellywaldrogithubio"><img src="screenshots/kellywaldro.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>kellywaldro.github.io</a></td>
+</tr><tr>
+<td><a href="#juhanarossigithubio"><img src="screenshots/juhanarossi.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>juhanarossi.github.io</a></td>
+<td><a href="#shalakasgithubio"><img src="screenshots/shalakas.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>shalakas.github.io</a></td>
 </tr></table>
 
 
@@ -21,7 +24,6 @@ Quick checks to make sure our pages are looking their best.
 
 **https://rachel-el-p.github.io/**
 
-* Page took 5.03s to load, check image/table sizes
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
     * Image `Images/rp_icon.png` missing `alt` tag
     * Image `Images/trucks-getty.jpg` missing `alt` tag
@@ -82,4 +84,41 @@ No issues found! 🎉
 **https://kellywaldro.github.io/dublin_properties/**
 
 * Change URL to use `-` instead of spaces or underscores
+
+
+
+## juhanarossi.github.io
+
+
+|url|mobile|medium|wide|
+|---|---|---|---|
+|[Juhana Rossi's Portfolio](https://juhanarossi.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/juhanarossi.github.io/index.html-mobile-thumb.jpg)](screenshots/juhanarossi.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/juhanarossi.github.io/index.html-medium-thumb.jpg)](screenshots/juhanarossi.github.io/index.html-medium-full.jpg)|[![wide](screenshots/juhanarossi.github.io/index.html-wide-thumb.jpg)](screenshots/juhanarossi.github.io/index.html-wide-full.jpg)|
+
+
+### Automatic Checks
+
+**https://juhanarossi.github.io/**
+
+* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+    * Image `images/Ice-Cream-Truck2.jpg` missing `alt` tag
+
+
+
+## shalakas.github.io
+
+
+|url|mobile|medium|wide|
+|---|---|---|---|
+|[Shalaka Shinde](https://shalakas.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/shalakas.github.io/index.html-mobile-thumb.jpg)](screenshots/shalakas.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/shalakas.github.io/index.html-medium-thumb.jpg)](screenshots/shalakas.github.io/index.html-medium-full.jpg)|[![wide](screenshots/shalakas.github.io/index.html-wide-thumb.jpg)](screenshots/shalakas.github.io/index.html-wide-full.jpg)|
+
+
+### Automatic Checks
+
+**https://shalakas.github.io/**
+
+* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+    * Image `Shalaka_square.jpg` missing `alt` tag
+    * Image `https://images.hindustantimes.com/img/2021/06/13/550x309/e2906a1c-cc38-11eb-b0cf-a00e9b339624_1623583174887.jpg` missing `alt` tag
+    * Image `https://images.hindustantimes.com/img/2021/06/13/550x309/e2906a1c-cc38-11eb-b0cf-a00e9b339624_1623583174887.jpg` missing `alt` tag
+    * Image `https://images.hindustantimes.com/img/2021/06/13/550x309/e2906a1c-cc38-11eb-b0cf-a00e9b339624_1623583174887.jpg` missing `alt` tag
 
