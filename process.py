@@ -3,6 +3,7 @@ import logging
 from urllib.parse import urlparse
 from PIL import Image
 import time
+import json
 
 import asyncio
 from asyncio_pool import AioPool
@@ -32,9 +33,11 @@ class Website:
         logger.info(f"{self.url}: Loading")
 
         self.page = page
+        self.page_title = "REQUEST FAILED"
         try:
-            response = await self.page.goto(self.url, timeout=30000)
+            response = await self.page.goto(self.url, timeout=60000)
         except:
+            logger.info(f"{self.url}: Failed to load page")
             # Exit early if fails to load
             self.successful_request = False
             return
@@ -72,7 +75,10 @@ class Website:
             await self.screenshot_one(size)
 
     async def get_desc_details(self):
+        logger.info(f"{self.url}: Getting desc details")
         self.page_title = await self.page.title() or self.urlpath
+
+        logger.info(f"{self.url}: Page title is {self.page_title}")
         for character in ['|', '[', ']']:
             self.page_title = self.page_title.replace(character, "")
 
@@ -208,19 +214,6 @@ class Website:
             }
         """)
 
-        img_missing_alt_tags = await self.page.query_selector_all('img:not([alt])')
-        if img_missing_alt_tags:
-            self.issues.append(f"* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)")
-            for img in img_missing_alt_tags[:5]:
-                self.issues.append(f"    * Image `{await img.get_attribute('src')}` missing `alt` tag")
-            if len(img_missing_alt_tags) > 5:
-                self.issues.append(f"    * *and {len(img_missing_alt_tags) - 5} more*")
-
-        datawrapper_charts = await self.page.query_selector_all(".dw-chart")
-        for chart in datawrapper_charts:
-            if not await chart.query_selector_all(".sr-only"):
-                self.issues.append("* Datawrapper chart missing description, fill out *Alternative description for screen readers* section on Annotate tab, [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)")
-
         if not self.successful_request:
             self.issues.append("* **Could not access the page** - if you moved it, let me know!")
 
@@ -230,6 +223,28 @@ class Website:
         if not self.urlpath.endswith("index.html"):
             name = self.urlpath.split("/")[-1].replace(".html", "")
             self.issues.append(f"* Move `{self.urlpath}` into a folder called `{name}`, then rename the file `index.html`. That way the project can be found at **/{name}** instead of **/{name}.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505)")
+
+        # Page load
+        self.load_duration_s = await self.page.evaluate(
+            "() => performance.getEntriesByType('navigation')[0]['duration']"
+        ) / 1000
+        if self.load_duration_s > 5:
+            self.issues.append(f"* Page took {round(self.load_duration_s, 2)}s to load, check image/table sizes")
+
+        # alt tags
+        img_missing_alt_tags = await self.page.query_selector_all('img:not([alt])')
+        if img_missing_alt_tags:
+            self.issues.append(f"* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)")
+            for img in img_missing_alt_tags[:5]:
+                self.issues.append(f"    * Image `{await img.get_attribute('src')}` missing `alt` tag")
+            if len(img_missing_alt_tags) > 5:
+                self.issues.append(f"    * *and {len(img_missing_alt_tags) - 5} more*")
+
+        # Descriptions for datawrapper charts
+        datawrapper_charts = await self.page.query_selector_all(".dw-chart")
+        for chart in datawrapper_charts:
+            if not await chart.query_selector_all(".sr-only"):
+                self.issues.append("* Datawrapper chart missing description, fill out *Alternative description for screen readers* section on Annotate tab, [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)")
 
         if ' ' in self.url or '_' in self.url:
             self.issues.append("* Change URL to use `-` instead of spaces or underscores")
@@ -297,6 +312,9 @@ table_starter = """
 |---|---|---|---|
 """
 
+toc_table = """<table><tr>"""
+toc_image_num = 0
+
 readme_md = """"""
 issues_md = """"""
 toc_md = """"""
@@ -306,7 +324,22 @@ for site in websites:
     if site.hostname != prev_host:
         readme_md += issues_md
         readme_md += f"\n\n## {site.hostname}\n\n{table_starter}"
-        toc_md += f"* [{site.hostname}](#{site.hostname.replace('.','')})\n"
+        toc_image_num += 1
+        if toc_image_num % 4 == 0:
+            toc_table += "</tr><tr>"
+        if site.successful_request:
+            toc_table += f"""
+            <td>
+                <a href="#{site.hostname.replace('.','')}">
+                    <img src="screenshots/{site.hostname}/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>
+                    {site.hostname}
+                </a>
+            </td>
+            """
+        else:
+            toc_table += f"""
+                <td>{site.hostname} request failed</td>
+            """
         issues_md = f"\n\n### Automatic Checks\n\n"
         prev_host = site.hostname
 
@@ -318,12 +351,15 @@ for site in websites:
     else:
         issues_md += f"No issues found! 🎉\n\n"
 
+toc_table += "</tr></table>"
+
 readme_md += issues_md
 
 readme_md = (
     "# Data Studio 2023 Personal Projects Test Page\n\n" +
     "Quick checks to make sure our pages are looking their best.\n\n" +
     toc_md +
+    toc_table + 
     "\n\n" +
     readme_md
 )
