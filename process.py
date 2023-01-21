@@ -326,20 +326,11 @@ for site in websites:
         readme_md += f"\n\n## {site.hostname}\n\n{table_starter}"
         toc_image_num += 1
         if toc_image_num % 4 == 0:
-            toc_table += "</tr><tr>"
+            toc_table += "</tr><tr>\n"
         if site.successful_request:
-            toc_table += f"""
-            <td>
-                <a href="#{site.hostname.replace('.','')}">
-                    <img src="screenshots/{site.hostname}/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>
-                    {site.hostname}
-                </a>
-            </td>
-            """
+            toc_table += f"""<td><a href="#{site.hostname.replace('.','')}"><img src="screenshots/{site.hostname}/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>{site.hostname}</a></td>\n"""
         else:
-            toc_table += f"""
-                <td>{site.hostname} request failed</td>
-            """
+            toc_table += f"""<td>{site.hostname} request failed</td>\n"""
         issues_md = f"\n\n### Automatic Checks\n\n"
         prev_host = site.hostname
 
