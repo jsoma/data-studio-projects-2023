@@ -109,7 +109,7 @@ No issues found! 🎉
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[Shalaka Shinde](https://shalakas.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/shalakas.github.io/index.html-mobile-thumb.jpg)](screenshots/shalakas.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/shalakas.github.io/index.html-medium-thumb.jpg)](screenshots/shalakas.github.io/index.html-medium-full.jpg)|[![wide](screenshots/shalakas.github.io/index.html-wide-thumb.jpg)](screenshots/shalakas.github.io/index.html-wide-full.jpg)|
+|[Shalaka Shinde's portfolio](https://shalakas.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/shalakas.github.io/index.html-mobile-thumb.jpg)](screenshots/shalakas.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/shalakas.github.io/index.html-medium-thumb.jpg)](screenshots/shalakas.github.io/index.html-medium-full.jpg)|[![wide](screenshots/shalakas.github.io/index.html-wide-thumb.jpg)](screenshots/shalakas.github.io/index.html-wide-full.jpg)|
 
 
 ### Automatic Checks
