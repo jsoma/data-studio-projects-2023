@@ -222,7 +222,7 @@ class Website:
 
         if not self.urlpath.endswith("index.html"):
             name = self.urlpath.split("/")[-1].replace(".html", "")
-            self.issues.append(f"* Move `{self.urlpath}` into a folder called `{name}`, then rename the file `index.html`. That way the project can be found at **/{name}** instead of **/{name}.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505)")
+            self.issues.append(f"* All HTML files should be named `index.html`. If this is a personal project, move `{self.urlpath}` into a folder (or repo) called `{name}`, then rename the file `index.html`. That way the project can be found at **/{name}** instead of **/{name}.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505) or how it works specifically with GitHub repos [on Fancy GitHub](https://jonathansoma.com/fancy-github/github-pages/#choosing-your-url)")
 
         # Page load
         self.load_duration_s = await self.page.evaluate(
