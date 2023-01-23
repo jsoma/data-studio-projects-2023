@@ -5,7 +5,7 @@ Quick checks to make sure our pages are looking their best.
 <table><tr><td><a href="#laurabejdercom"><img src="screenshots/laurabejder.com/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>laurabejder.com</a></td>
 <td><a href="#itsliuhongyugithubio"><img src="screenshots/itsliuhongyu.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>itsliuhongyu.github.io</a></td>
 <td><a href="#abbaamosgithubio"><img src="screenshots/abbaamos.github.io/Amos-website_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>abbaamos.github.io</a></td>
-<td><a href="#ahanpenkargithubio"><img src="screenshots/ahanpenkar.github.io/my_website_personal_website.html-medium-thumb.jpg" alt="homepage screenshot"><br>ahanpenkar.github.io</a></td>
+<td>ahanpenkar.github.io request failed</td>
 </tr><tr>
 <td><a href="#evawqhgithubio"><img src="screenshots/evawqh.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>evawqh.github.io</a></td>
 <td><a href="#ivynyayiekagithubio"><img src="screenshots/ivynyayieka.github.io/data_journ_website_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>ivynyayieka.github.io</a></td>
@@ -14,7 +14,7 @@ Quick checks to make sure our pages are looking their best.
 </tr><tr>
 <td><a href="#junekim6githubio"><img src="screenshots/junekim6.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>junekim6.github.io</a></td>
 <td><a href="#kellywaldrogithubio"><img src="screenshots/kellywaldro.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>kellywaldro.github.io</a></td>
-<td><a href="#meganwordellgithubio"><img src="screenshots/meganwordell.github.io/MeganWordell_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>meganwordell.github.io</a></td>
+<td>meganwordell.github.io request failed</td>
 <td><a href="#poojachaudhurigithubio"><img src="screenshots/poojachaudhuri.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>poojachaudhuri.github.io</a></td>
 </tr><tr>
 <td><a href="#rachel-el-pgithubio"><img src="screenshots/rachel-el-p.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>rachel-el-p.github.io</a></td>
@@ -92,15 +92,17 @@ No issues found! 🎉
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[Ahan Penkar](https://ahanpenkar.github.io/my_website/personal_website.html)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/ahanpenkar.github.io/my_website_personal_website.html-mobile-thumb.jpg)](screenshots/ahanpenkar.github.io/my_website_personal_website.html-mobile-full.jpg)|[![medium](screenshots/ahanpenkar.github.io/my_website_personal_website.html-medium-thumb.jpg)](screenshots/ahanpenkar.github.io/my_website_personal_website.html-medium-full.jpg)|[![wide](screenshots/ahanpenkar.github.io/my_website_personal_website.html-wide-thumb.jpg)](screenshots/ahanpenkar.github.io/my_website_personal_website.html-wide-full.jpg)|
+|[Page not found · GitHub Pages](https://ahanpenkar.github.io/my_website/personal_website.html)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|request failed|request failed|request failed|
 
 
 ### Automatic Checks
 
 **https://ahanpenkar.github.io/my_website/personal_website.html**
 
+* **Could not access the page** - if you moved it, let me know!
 * All HTML files should be named `index.html`. If this is a personal project, move `my_website/personal_website.html` into a folder (or repo) called `personal_website`, then rename the file `index.html`. That way the project can be found at **/personal_website** instead of **/personal_website.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505) or how it works specifically with GitHub repos [on Fancy GitHub](https://jonathansoma.com/fancy-github/github-pages/#choosing-your-url)
 * Change URL to use `-` instead of spaces or underscores
+* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 
@@ -211,7 +213,6 @@ No issues found! 🎉
 
 **https://junekim6.github.io/korec_energy_permitting/**
 
-* Page took 11.35s to load, check image/table sizes
 * Change URL to use `-` instead of spaces or underscores
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
@@ -230,7 +231,6 @@ No issues found! 🎉
 
 **https://kellywaldro.github.io/**
 
-* Page took 5.76s to load, check image/table sizes
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
     * Image `./images/kibale-min.jpg` missing `alt` tag
     * Image `./images/bagamoyo-min.jpg` missing `alt` tag
@@ -250,24 +250,14 @@ No issues found! 🎉
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[Megan Wordell](https://meganwordell.github.io/MeganWordell/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/meganwordell.github.io/MeganWordell_index.html-mobile-thumb.jpg)](screenshots/meganwordell.github.io/MeganWordell_index.html-mobile-full.jpg)|[![medium](screenshots/meganwordell.github.io/MeganWordell_index.html-medium-thumb.jpg)](screenshots/meganwordell.github.io/MeganWordell_index.html-medium-full.jpg)|[![wide](screenshots/meganwordell.github.io/MeganWordell_index.html-wide-thumb.jpg)](screenshots/meganwordell.github.io/MeganWordell_index.html-wide-full.jpg)|
-|[Page not found · GitHub Pages](https://meganwordell.github.io/MeganWordell/index_website.html)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|request failed|request failed|request failed|
+|[Page not found · GitHub Pages](https://meganwordell.github.io/MeganWordell/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|request failed|request failed|request failed|
 
 
 ### Automatic Checks
 
 **https://meganwordell.github.io/MeganWordell/**
 
-* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-    * Image `MeganWordell.jpg` missing `alt` tag
-* Change URL to be all in lowercase
-* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
-
-**https://meganwordell.github.io/MeganWordell/index_website.html**
-
 * **Could not access the page** - if you moved it, let me know!
-* All HTML files should be named `index.html`. If this is a personal project, move `MeganWordell/index_website.html` into a folder (or repo) called `index_website`, then rename the file `index.html`. That way the project can be found at **/index_website** instead of **/index_website.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505) or how it works specifically with GitHub repos [on Fancy GitHub](https://jonathansoma.com/fancy-github/github-pages/#choosing-your-url)
-* Change URL to use `-` instead of spaces or underscores
 * Change URL to be all in lowercase
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
@@ -322,6 +312,7 @@ No issues found! 🎉
 
 **https://rachel-el-p.github.io/Workplace-deaths-final-project/**
 
+* Page took 6.58s to load, check image/table sizes
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
     * Image `OSHA screenshot.jpg` missing `alt` tag
 * Change URL to be all in lowercase
