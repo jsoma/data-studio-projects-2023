@@ -9,7 +9,7 @@ Quick checks to make sure our pages are looking their best.
 </tr><tr>
 <td><a href="#evawqhgithubio"><img src="screenshots/evawqh.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>evawqh.github.io</a></td>
 <td><a href="#ivynyayiekagithubio"><img src="screenshots/ivynyayieka.github.io/data_journ_website_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>ivynyayieka.github.io</a></td>
-<td><a href="#jakeneenangithubio"><img src="screenshots/jakeneenan.github.io/website_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>jakeneenan.github.io</a></td>
+<td>jakeneenan.github.io request failed</td>
 <td><a href="#juhanarossigithubio"><img src="screenshots/juhanarossi.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>juhanarossi.github.io</a></td>
 </tr><tr>
 <td><a href="#junekim6githubio"><img src="screenshots/junekim6.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>junekim6.github.io</a></td>
@@ -153,16 +153,16 @@ No issues found! 🎉
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[Jake Neenan](https://jakeneenan.github.io/website/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/jakeneenan.github.io/website_index.html-mobile-thumb.jpg)](screenshots/jakeneenan.github.io/website_index.html-mobile-full.jpg)|[![medium](screenshots/jakeneenan.github.io/website_index.html-medium-thumb.jpg)](screenshots/jakeneenan.github.io/website_index.html-medium-full.jpg)|[![wide](screenshots/jakeneenan.github.io/website_index.html-wide-thumb.jpg)](screenshots/jakeneenan.github.io/website_index.html-wide-full.jpg)|
+|[Page not found · GitHub Pages](https://jakeneenan.github.io/website/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|request failed|request failed|request failed|
 
 
 ### Automatic Checks
 
 **https://jakeneenan.github.io/website/**
 
-* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-    * Image `globeprisons.png` missing `alt` tag
-    * Image `databases.png` missing `alt` tag
+* **Could not access the page** - if you moved it, let me know!
+* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 
 
@@ -213,6 +213,7 @@ No issues found! 🎉
 
 **https://junekim6.github.io/korec_energy_permitting/**
 
+* Page took 6.23s to load, check image/table sizes
 * Change URL to use `-` instead of spaces or underscores
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
@@ -312,7 +313,7 @@ No issues found! 🎉
 
 **https://rachel-el-p.github.io/Workplace-deaths-final-project/**
 
-* Page took 6.58s to load, check image/table sizes
+* Page took 6.09s to load, check image/table sizes
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
     * Image `OSHA screenshot.jpg` missing `alt` tag
 * Change URL to be all in lowercase
