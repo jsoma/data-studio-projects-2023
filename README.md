@@ -3,23 +3,23 @@
 Quick checks to make sure our pages are looking their best.
 
 <table><tr><td><a href="#laurabejdercom"><img src="screenshots/laurabejder.com/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>laurabejder.com</a></td>
-<td><a href="#2466254711githubio"><img src="screenshots/2466254711.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>2466254711.github.io</a></td>
-<td><a href="#abbaamosgithubio"><img src="screenshots/abbaamos.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>abbaamos.github.io</a></td>
-<td><a href="#ahanpenkargithubio"><img src="screenshots/ahanpenkar.github.io/personal_website.html-medium-thumb.jpg" alt="homepage screenshot"><br>ahanpenkar.github.io</a></td>
+<td><a href="#2466254711githubio"><img src="screenshots/2466254711.github.io/liuhongyu.github.io_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>2466254711.github.io</a></td>
+<td><a href="#abbaamosgithubio"><img src="screenshots/abbaamos.github.io/Amos-website_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>abbaamos.github.io</a></td>
+<td><a href="#ahanpenkargithubio"><img src="screenshots/ahanpenkar.github.io/my_website_personal_website.html-medium-thumb.jpg" alt="homepage screenshot"><br>ahanpenkar.github.io</a></td>
 </tr><tr>
 <td><a href="#evawqhgithubio"><img src="screenshots/evawqh.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>evawqh.github.io</a></td>
-<td><a href="#ivynyayiekagithubio"><img src="screenshots/ivynyayieka.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>ivynyayieka.github.io</a></td>
-<td><a href="#jakeneenangithubio"><img src="screenshots/jakeneenan.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>jakeneenan.github.io</a></td>
+<td><a href="#ivynyayiekagithubio"><img src="screenshots/ivynyayieka.github.io/data_journ_website_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>ivynyayieka.github.io</a></td>
+<td><a href="#jakeneenangithubio"><img src="screenshots/jakeneenan.github.io/website_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>jakeneenan.github.io</a></td>
 <td><a href="#juhanarossigithubio"><img src="screenshots/juhanarossi.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>juhanarossi.github.io</a></td>
 </tr><tr>
 <td><a href="#junekim6githubio"><img src="screenshots/junekim6.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>junekim6.github.io</a></td>
 <td><a href="#kellywaldrogithubio"><img src="screenshots/kellywaldro.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>kellywaldro.github.io</a></td>
-<td><a href="#meganwordellgithubio"><img src="screenshots/meganwordell.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>meganwordell.github.io</a></td>
+<td><a href="#meganwordellgithubio"><img src="screenshots/meganwordell.github.io/MeganWordell_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>meganwordell.github.io</a></td>
 <td><a href="#poojachaudhurigithubio"><img src="screenshots/poojachaudhuri.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>poojachaudhuri.github.io</a></td>
 </tr><tr>
 <td><a href="#rachel-el-pgithubio"><img src="screenshots/rachel-el-p.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>rachel-el-p.github.io</a></td>
 <td><a href="#shalakasgithubio"><img src="screenshots/shalakas.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>shalakas.github.io</a></td>
-<td><a href="#shivanireddy13githubio"><img src="screenshots/shivanireddy13.github.io/website_intro.html-medium-thumb.jpg" alt="homepage screenshot"><br>shivanireddy13.github.io</a></td>
+<td>shivanireddy13.github.io request failed</td>
 <td><a href="#vivek1799githubio"><img src="screenshots/vivek1799.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>vivek1799.github.io</a></td>
 </tr><tr>
 <td><a href="#xinyitugithubio"><img src="screenshots/xinyitu.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>xinyitu.github.io</a></td>
@@ -211,7 +211,7 @@ No issues found! 🎉
 
 **https://junekim6.github.io/korec_energy_permitting/**
 
-* Page took 6.34s to load, check image/table sizes
+* Page took 6.13s to load, check image/table sizes
 * Change URL to use `-` instead of spaces or underscores
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
@@ -312,7 +312,7 @@ No issues found! 🎉
     * Image `Images/workplacedeaths.gif` missing `alt` tag
     * Image `Images/Phua-Amazon 101722.jpeg` missing `alt` tag
     * Image `Images/Phua-Union busting 090522.jpg` missing `alt` tag
-    * *and 29 more*
+    * *and 31 more*
 
 **https://rachel-el-p.github.io/Workplace-deaths-final-project/**
 
@@ -353,16 +353,18 @@ No issues found! 🎉
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[Hi! I'm Shivani](https://shivanireddy13.github.io/portfolio/website_intro.html)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/shivanireddy13.github.io/portfolio_website_intro.html-mobile-thumb.jpg)](screenshots/shivanireddy13.github.io/portfolio_website_intro.html-mobile-full.jpg)|[![medium](screenshots/shivanireddy13.github.io/portfolio_website_intro.html-medium-thumb.jpg)](screenshots/shivanireddy13.github.io/portfolio_website_intro.html-medium-full.jpg)|[![wide](screenshots/shivanireddy13.github.io/portfolio_website_intro.html-wide-thumb.jpg)](screenshots/shivanireddy13.github.io/portfolio_website_intro.html-wide-full.jpg)|
+|[Page not found · GitHub Pages](https://shivanireddy13.github.io/portfolio/website_intro.html)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|request failed|request failed|request failed|
 
 
 ### Automatic Checks
 
 **https://shivanireddy13.github.io/portfolio/website_intro.html**
 
+* **Could not access the page** - if you moved it, let me know!
 * All HTML files should be named `index.html`. If this is a personal project, move `portfolio/website_intro.html` into a folder (or repo) called `website_intro`, then rename the file `index.html`. That way the project can be found at **/website_intro** instead of **/website_intro.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505) or how it works specifically with GitHub repos [on Fancy GitHub](https://jonathansoma.com/fancy-github/github-pages/#choosing-your-url)
 * Change URL to use `-` instead of spaces or underscores
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 
 
