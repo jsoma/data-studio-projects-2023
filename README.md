@@ -211,7 +211,7 @@ No issues found! 🎉
 
 **https://junekim6.github.io/korec_energy_permitting/**
 
-* Page took 9.36s to load, check image/table sizes
+* Page took 6.34s to load, check image/table sizes
 * Change URL to use `-` instead of spaces or underscores
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
@@ -230,7 +230,6 @@ No issues found! 🎉
 
 **https://kellywaldro.github.io/**
 
-* Page took 5.1s to load, check image/table sizes
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
     * Image `./images/kibale-min.jpg` missing `alt` tag
     * Image `./images/bagamoyo-min.jpg` missing `alt` tag
@@ -317,7 +316,6 @@ No issues found! 🎉
 
 **https://rachel-el-p.github.io/Workplace-deaths-final-project/**
 
-* Page took 5.41s to load, check image/table sizes
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
     * Image `OSHA screenshot.jpg` missing `alt` tag
 * Change URL to be all in lowercase
