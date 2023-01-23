@@ -326,10 +326,7 @@ for site in websites:
         readme_md += f"\n\n## {site.hostname}\n\n{table_starter}"
         toc_image_num += 1
         if site.successful_request:
-            name = site.urlpath.split("/")[-1]
-            if name == "" or name is None:
-                name = "index.html"
-            toc_table += f"""<td><a href="#{site.hostname.replace('.','')}"><img src="screenshots/{site.hostname}/{name}-medium-thumb.jpg" alt="homepage screenshot"><br>{site.hostname}</a></td>\n"""
+            toc_table += f"""<td><a href="#{site.hostname.replace('.','')}"><img src="{site.shot_path('medium', 'thumb')}" alt="homepage screenshot"><br>{site.hostname}</a></td>\n"""
         else:
             toc_table += f"""<td>{site.hostname} request failed</td>\n"""
         if toc_image_num % 4 == 0:
