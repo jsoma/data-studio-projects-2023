@@ -19,7 +19,7 @@ Quick checks to make sure our pages are looking their best.
 </tr><tr>
 <td><a href="#rachel-el-pgithubio"><img src="screenshots/rachel-el-p.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>rachel-el-p.github.io</a></td>
 <td><a href="#shalakasgithubio"><img src="screenshots/shalakas.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>shalakas.github.io</a></td>
-<td><a href="#shivanireddy13githubio"><img src="screenshots/shivanireddy13.github.io/portfolio_website_intro.html-medium-thumb.jpg" alt="homepage screenshot"><br>shivanireddy13.github.io</a></td>
+<td>shivanireddy13.github.io request failed</td>
 <td><a href="#vivek1799githubio"><img src="screenshots/vivek1799.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>vivek1799.github.io</a></td>
 </tr><tr>
 <td><a href="#xinyitugithubio"><img src="screenshots/xinyitu.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>xinyitu.github.io</a></td>
@@ -201,7 +201,6 @@ No issues found! 🎉
 
 **https://junekim6.github.io**
 
-* Page took 6.22s to load, check image/table sizes
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
     * Image `minju_photo.jpeg` missing `alt` tag
     * Image `linkedin.png` missing `alt` tag
@@ -212,7 +211,6 @@ No issues found! 🎉
 
 **https://junekim6.github.io/korec_energy_permitting/**
 
-* Page took 10.79s to load, check image/table sizes
 * Change URL to use `-` instead of spaces or underscores
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
@@ -317,7 +315,6 @@ No issues found! 🎉
 
 **https://rachel-el-p.github.io/Workplace-deaths-final-project/**
 
-* Page took 6.45s to load, check image/table sizes
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
     * Image `OSHA screenshot.jpg` missing `alt` tag
 * Change URL to be all in lowercase
@@ -355,16 +352,18 @@ No issues found! 🎉
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[Hi! I'm Shivani](https://shivanireddy13.github.io/portfolio/website_intro.html)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/shivanireddy13.github.io/portfolio_website_intro.html-mobile-thumb.jpg)](screenshots/shivanireddy13.github.io/portfolio_website_intro.html-mobile-full.jpg)|[![medium](screenshots/shivanireddy13.github.io/portfolio_website_intro.html-medium-thumb.jpg)](screenshots/shivanireddy13.github.io/portfolio_website_intro.html-medium-full.jpg)|[![wide](screenshots/shivanireddy13.github.io/portfolio_website_intro.html-wide-thumb.jpg)](screenshots/shivanireddy13.github.io/portfolio_website_intro.html-wide-full.jpg)|
+|[Page not found · GitHub Pages](https://shivanireddy13.github.io/portfolio/website_intro.html)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|request failed|request failed|request failed|
 
 
 ### Automatic Checks
 
 **https://shivanireddy13.github.io/portfolio/website_intro.html**
 
+* **Could not access the page** - if you moved it, let me know!
 * All HTML files should be named `index.html`. If this is a personal project, move `portfolio/website_intro.html` into a folder (or repo) called `website_intro`, then rename the file `index.html`. That way the project can be found at **/website_intro** instead of **/website_intro.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505) or how it works specifically with GitHub repos [on Fancy GitHub](https://jonathansoma.com/fancy-github/github-pages/#choosing-your-url)
 * Change URL to use `-` instead of spaces or underscores
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 
 
