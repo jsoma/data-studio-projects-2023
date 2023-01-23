@@ -211,6 +211,7 @@ No issues found! 🎉
 
 **https://junekim6.github.io/korec_energy_permitting/**
 
+* Page took 8.65s to load, check image/table sizes
 * Change URL to use `-` instead of spaces or underscores
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
@@ -311,7 +312,7 @@ No issues found! 🎉
     * Image `Images/workplacedeaths.gif` missing `alt` tag
     * Image `Images/Phua-Amazon 101722.jpeg` missing `alt` tag
     * Image `Images/Phua-Union busting 090522.jpg` missing `alt` tag
-    * *and 29 more*
+    * *and 31 more*
 
 **https://rachel-el-p.github.io/Workplace-deaths-final-project/**
 
