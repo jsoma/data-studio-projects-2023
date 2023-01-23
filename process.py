@@ -298,7 +298,7 @@ async def scrape_all():
         context = await browser.new_context()
 
             
-        async with AioPool(size=5) as pool:
+        async with AioPool(size=3) as pool:
             for site in websites:
                 await pool.spawn(site.process_as_new_page(context))
 
