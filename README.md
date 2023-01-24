@@ -213,6 +213,7 @@ No issues found! 🎉
 
 **https://junekim6.github.io/korec_energy_permitting/**
 
+* Page took 5.12s to load, check image/table sizes
 * Change URL to use `-` instead of spaces or underscores
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
@@ -331,7 +332,6 @@ No issues found! 🎉
 
 **https://shalakas.github.io/**
 
-* Page took 5.27s to load, check image/table sizes
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
     * Image `https://images.hindustantimes.com/img/2021/06/13/550x309/e2906a1c-cc38-11eb-b0cf-a00e9b339624_1623583174887.jpg` missing `alt` tag
     * Image `https://images.hindustantimes.com/rf/image_size_630x354/HT/p2/2017/11/10/Pictures/h-t-aniket-kothale-s-story_effe1372-c640-11e7-a37e-1053cac6ca52.JPG` missing `alt` tag
@@ -382,7 +382,7 @@ No issues found! 🎉
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[Xinyi Tu - data journalist](https://xinyitu.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/xinyitu.github.io/index.html-mobile-thumb.jpg)](screenshots/xinyitu.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/xinyitu.github.io/index.html-medium-thumb.jpg)](screenshots/xinyitu.github.io/index.html-medium-full.jpg)|[![wide](screenshots/xinyitu.github.io/index.html-wide-thumb.jpg)](screenshots/xinyitu.github.io/index.html-wide-full.jpg)|
+|[Cynthia Tu](https://xinyitu.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/xinyitu.github.io/index.html-mobile-thumb.jpg)](screenshots/xinyitu.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/xinyitu.github.io/index.html-medium-thumb.jpg)](screenshots/xinyitu.github.io/index.html-medium-full.jpg)|[![wide](screenshots/xinyitu.github.io/index.html-wide-thumb.jpg)](screenshots/xinyitu.github.io/index.html-wide-full.jpg)|
 |[NYC Subway Delay Map](https://xinyitu.github.io/nyc-subway-delay-map/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/xinyitu.github.io/nyc-subway-delay-map_index.html-mobile-thumb.jpg)](screenshots/xinyitu.github.io/nyc-subway-delay-map_index.html-mobile-full.jpg)|[![medium](screenshots/xinyitu.github.io/nyc-subway-delay-map_index.html-medium-thumb.jpg)](screenshots/xinyitu.github.io/nyc-subway-delay-map_index.html-medium-full.jpg)|[![wide](screenshots/xinyitu.github.io/nyc-subway-delay-map_index.html-wide-thumb.jpg)](screenshots/xinyitu.github.io/nyc-subway-delay-map_index.html-wide-full.jpg)|
 
 
