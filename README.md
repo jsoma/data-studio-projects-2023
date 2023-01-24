@@ -277,7 +277,7 @@ No issues found! 🎉
 
 **https://poojachaudhuri.github.io/**
 
-No issues found! 🎉
+* Page took 5.03s to load, check image/table sizes
 
 **https://poojachaudhuri.github.io/caa-fact-checks/**
 
@@ -331,6 +331,7 @@ No issues found! 🎉
 
 **https://shalakas.github.io/**
 
+* Page took 25.46s to load, check image/table sizes
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
     * Image `https://images.hindustantimes.com/img/2021/06/13/550x309/e2906a1c-cc38-11eb-b0cf-a00e9b339624_1623583174887.jpg` missing `alt` tag
     * Image `https://images.hindustantimes.com/rf/image_size_630x354/HT/p2/2017/11/10/Pictures/h-t-aniket-kothale-s-story_effe1372-c640-11e7-a37e-1053cac6ca52.JPG` missing `alt` tag
