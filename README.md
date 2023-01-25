@@ -213,7 +213,6 @@ No issues found! 🎉
 
 **https://junekim6.github.io/korec_energy_permitting/**
 
-* Page took 5.12s to load, check image/table sizes
 * Change URL to use `-` instead of spaces or underscores
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
@@ -308,8 +307,8 @@ No issues found! 🎉
     * Image `Images/trucks-getty.jpg` missing `alt` tag
     * Image `Images/workplacedeaths.gif` missing `alt` tag
     * Image `Images/Phua-Amazon 101722.jpeg` missing `alt` tag
-    * Image `Images/Phua-Union busting 090522.jpg` missing `alt` tag
-    * *and 31 more*
+    * Image `Images/uber eats 07222022.jpeg` missing `alt` tag
+    * *and 29 more*
 
 **https://rachel-el-p.github.io/Workplace-deaths-final-project/**
 
@@ -382,7 +381,7 @@ No issues found! 🎉
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[Cynthia Tu](https://xinyitu.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/xinyitu.github.io/index.html-mobile-thumb.jpg)](screenshots/xinyitu.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/xinyitu.github.io/index.html-medium-thumb.jpg)](screenshots/xinyitu.github.io/index.html-medium-full.jpg)|[![wide](screenshots/xinyitu.github.io/index.html-wide-thumb.jpg)](screenshots/xinyitu.github.io/index.html-wide-full.jpg)|
+|[Cynthia Tu - Data Journalist](https://xinyitu.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/xinyitu.github.io/index.html-mobile-thumb.jpg)](screenshots/xinyitu.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/xinyitu.github.io/index.html-medium-thumb.jpg)](screenshots/xinyitu.github.io/index.html-medium-full.jpg)|[![wide](screenshots/xinyitu.github.io/index.html-wide-thumb.jpg)](screenshots/xinyitu.github.io/index.html-wide-full.jpg)|
 |[NYC Subway Delay Map](https://xinyitu.github.io/nyc-subway-delay-map/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/xinyitu.github.io/nyc-subway-delay-map_index.html-mobile-thumb.jpg)](screenshots/xinyitu.github.io/nyc-subway-delay-map_index.html-mobile-full.jpg)|[![medium](screenshots/xinyitu.github.io/nyc-subway-delay-map_index.html-medium-thumb.jpg)](screenshots/xinyitu.github.io/nyc-subway-delay-map_index.html-medium-full.jpg)|[![wide](screenshots/xinyitu.github.io/nyc-subway-delay-map_index.html-wide-thumb.jpg)](screenshots/xinyitu.github.io/nyc-subway-delay-map_index.html-wide-full.jpg)|
 
 
