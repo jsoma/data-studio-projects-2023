@@ -394,7 +394,7 @@ No issues found! 🎉
     * Image `building.png` missing `alt` tag
     * Image `where-we-belong.png` missing `alt` tag
     * Image `hudson-st.png` missing `alt` tag
-* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://xinyitu.github.io/nyc-subway-delay-map/**
 
