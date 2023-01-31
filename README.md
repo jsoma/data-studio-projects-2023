@@ -181,6 +181,7 @@ No issues found! 🎉
 
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
     * Image `images/Ice-Cream-Truck2.jpg` missing `alt` tag
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://juhanarossi.github.io/BBC-film-map/**
 
