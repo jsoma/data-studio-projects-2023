@@ -204,7 +204,6 @@ No issues found! 🎉
 
 **https://junekim6.github.io**
 
-* Page took 5.08s to load, check image/table sizes
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
     * Image `minju_photo.jpeg` missing `alt` tag
     * Image `linkedin.png` missing `alt` tag
@@ -396,7 +395,6 @@ No issues found! 🎉
     * Image `building.png` missing `alt` tag
     * Image `where-we-belong.png` missing `alt` tag
     * Image `hudson-st.png` missing `alt` tag
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://xinyitu.github.io/nyc-subway-delay-map/**
 
