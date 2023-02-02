@@ -210,7 +210,7 @@ No issues found! 🎉
     * Image `twitter.png` missing `alt` tag
     * Image `mail.png` missing `alt` tag
     * Image `github.png` missing `alt` tag
-    * *and 10 more*
+    * *and 9 more*
 
 **https://junekim6.github.io/korec_energy_permitting/**
 
