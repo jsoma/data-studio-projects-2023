@@ -303,7 +303,6 @@ No issues found! 🎉
 
 **https://rachel-el-p.github.io/**
 
-* Page took 7.07s to load, check image/table sizes
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
     * Image `Images/rp_icon.png` missing `alt` tag
     * Image `Images/trucks-getty.jpg` missing `alt` tag
