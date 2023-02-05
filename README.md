@@ -305,11 +305,12 @@ No issues found! 🎉
 
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
     * Image `Images/rp_icon.png` missing `alt` tag
-    * Image `Images/trucks-getty.jpg` missing `alt` tag
+    * Image `Screenshot 2023-02-05 at 3.36.03 PM.png` missing `alt` tag
     * Image `Images/workplacedeaths.gif` missing `alt` tag
+    * Image `Images/trucks-getty.jpg` missing `alt` tag
     * Image `Images/Phua-Amazon 101722.jpeg` missing `alt` tag
-    * Image `Images/uber eats 07222022.jpeg` missing `alt` tag
-    * *and 29 more*
+    * *and 30 more*
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://rachel-el-p.github.io/Workplace-deaths-final-project/**
 
