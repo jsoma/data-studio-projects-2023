@@ -390,11 +390,7 @@ No issues found! 🎉
 
 **https://xinyitu.github.io/**
 
-* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-    * Image `subway-map.png` missing `alt` tag
-    * Image `building.png` missing `alt` tag
-    * Image `where-we-belong.png` missing `alt` tag
-    * Image `hudson-st.png` missing `alt` tag
+No issues found! 🎉
 
 **https://xinyitu.github.io/nyc-subway-delay-map/**
 
