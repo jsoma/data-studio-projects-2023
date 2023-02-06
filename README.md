@@ -181,6 +181,8 @@ No issues found! 🎉
 
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
     * Image `images/Ice-Cream-Truck2.jpg` missing `alt` tag
+    * Image `images/HelsinkiAirport.jpg` missing `alt` tag
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://juhanarossi.github.io/BBC-film-map/**
 
@@ -209,7 +211,7 @@ No issues found! 🎉
     * Image `twitter.png` missing `alt` tag
     * Image `mail.png` missing `alt` tag
     * Image `github.png` missing `alt` tag
-    * *and 10 more*
+    * *and 9 more*
 
 **https://junekim6.github.io/korec_energy_permitting/**
 
@@ -304,11 +306,11 @@ No issues found! 🎉
 
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
     * Image `Images/rp_icon.png` missing `alt` tag
-    * Image `Images/trucks-getty.jpg` missing `alt` tag
+    * Image `Images/goingtomalaysia.gif` missing `alt` tag
     * Image `Images/workplacedeaths.gif` missing `alt` tag
+    * Image `Images/trucks-getty.jpg` missing `alt` tag
     * Image `Images/Phua-Amazon 101722.jpeg` missing `alt` tag
-    * Image `Images/Phua-Union busting 090522.jpg` missing `alt` tag
-    * *and 31 more*
+    * *and 30 more*
 
 **https://rachel-el-p.github.io/Workplace-deaths-final-project/**
 
@@ -332,10 +334,9 @@ No issues found! 🎉
 **https://shalakas.github.io/**
 
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-    * Image `Shalaka_square.jpg` missing `alt` tag
     * Image `https://images.hindustantimes.com/img/2021/06/13/550x309/e2906a1c-cc38-11eb-b0cf-a00e9b339624_1623583174887.jpg` missing `alt` tag
     * Image `https://images.hindustantimes.com/rf/image_size_630x354/HT/p2/2017/11/10/Pictures/h-t-aniket-kothale-s-story_effe1372-c640-11e7-a37e-1053cac6ca52.JPG` missing `alt` tag
-    * Image `https://pbs.twimg.com/media/ECeIJLuUIAATwVA?format=jpg&name=large` missing `alt` tag
+    * Image `https://pbs.twimg.com/media/ECeILTxUwAUxlp5?format=jpg&name=medium` missing `alt` tag
 
 **https://shalakas.github.io/CJS_Project/**
 
@@ -382,7 +383,7 @@ No issues found! 🎉
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[Xinyi Tu - data journalist](https://xinyitu.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/xinyitu.github.io/index.html-mobile-thumb.jpg)](screenshots/xinyitu.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/xinyitu.github.io/index.html-medium-thumb.jpg)](screenshots/xinyitu.github.io/index.html-medium-full.jpg)|[![wide](screenshots/xinyitu.github.io/index.html-wide-thumb.jpg)](screenshots/xinyitu.github.io/index.html-wide-full.jpg)|
+|[Cynthia Tu - Data Journalist](https://xinyitu.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/xinyitu.github.io/index.html-mobile-thumb.jpg)](screenshots/xinyitu.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/xinyitu.github.io/index.html-medium-thumb.jpg)](screenshots/xinyitu.github.io/index.html-medium-full.jpg)|[![wide](screenshots/xinyitu.github.io/index.html-wide-thumb.jpg)](screenshots/xinyitu.github.io/index.html-wide-full.jpg)|
 |[NYC Subway Delay Map](https://xinyitu.github.io/nyc-subway-delay-map/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/xinyitu.github.io/nyc-subway-delay-map_index.html-mobile-thumb.jpg)](screenshots/xinyitu.github.io/nyc-subway-delay-map_index.html-mobile-full.jpg)|[![medium](screenshots/xinyitu.github.io/nyc-subway-delay-map_index.html-medium-thumb.jpg)](screenshots/xinyitu.github.io/nyc-subway-delay-map_index.html-medium-full.jpg)|[![wide](screenshots/xinyitu.github.io/nyc-subway-delay-map_index.html-wide-thumb.jpg)](screenshots/xinyitu.github.io/nyc-subway-delay-map_index.html-wide-full.jpg)|
 
 
@@ -390,12 +391,7 @@ No issues found! 🎉
 
 **https://xinyitu.github.io/**
 
-* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-    * Image `subway-map.png` missing `alt` tag
-    * Image `building.png` missing `alt` tag
-    * Image `where-we-belong.png` missing `alt` tag
-    * Image `hudson-st.png` missing `alt` tag
-* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
+No issues found! 🎉
 
 **https://xinyitu.github.io/nyc-subway-delay-map/**
 
