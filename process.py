@@ -224,12 +224,16 @@ class Website:
             name = self.urlpath.split("/")[-1].replace(".html", "")
             self.issues.append(f"* All HTML files should be named `index.html`. If this is a personal project, move `{self.urlpath}` into a folder (or repo) called `{name}`, then rename the file `index.html`. That way the project can be found at **/{name}** instead of **/{name}.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505) or how it works specifically with GitHub repos [on Fancy GitHub](https://jonathansoma.com/fancy-github/github-pages/#choosing-your-url)")
 
-        # Page load
-        self.load_duration_s = await self.page.evaluate(
-            "() => performance.getEntriesByType('navigation')[0]['duration']"
-        ) / 1000
-        if self.load_duration_s > 5:
-            self.issues.append(f"* Page took {round(self.load_duration_s, 2)}s to load, check image/table sizes")
+        github_link = await self.page.query_selector("a[href*='github.com']")
+        if not github_link:
+            self.issues.append("* Add a link to your project's GitHub repo, so people can review your code")
+
+        # Page load doesn't really work with async?
+        # self.load_duration_s = await self.page.evaluate(
+        #     "() => performance.getEntriesByType('navigation')[0]['duration']"
+        # ) / 1000
+        # if self.load_duration_s > 5:
+        #     self.issues.append(f"* Page took {round(self.load_duration_s, 2)}s to load, check image/table sizes")
 
         # alt tags
         img_missing_alt_tags = await self.page.query_selector_all('img:not([alt])')
