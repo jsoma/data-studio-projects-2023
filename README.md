@@ -3,12 +3,12 @@
 Quick checks to make sure our pages are looking their best.
 
 <table><tr><td><a href="#abbaamosgithubio"><img src="screenshots/abbaamos.github.io/Amos-website_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>abbaamos.github.io</a></td>
-<td>ahanpenkar.github.io request failed</td>
+<td><a href="#ahanpenkargithubio"><img src="screenshots/ahanpenkar.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>ahanpenkar.github.io</a></td>
 <td><a href="#evawqhgithubio"><img src="screenshots/evawqh.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>evawqh.github.io</a></td>
 <td><a href="#itsliuhongyugithubio"><img src="screenshots/itsliuhongyu.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>itsliuhongyu.github.io</a></td>
 </tr><tr>
 <td><a href="#ivynyayiekagithubio"><img src="screenshots/ivynyayieka.github.io/data_journ_website_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>ivynyayieka.github.io</a></td>
-<td>jakeneenan.github.io request failed</td>
+<td><a href="#jakeneenangithubio"><img src="screenshots/jakeneenan.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>jakeneenan.github.io</a></td>
 <td><a href="#juhanarossigithubio"><img src="screenshots/juhanarossi.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>juhanarossi.github.io</a></td>
 <td><a href="#junekim6githubio"><img src="screenshots/junekim6.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>junekim6.github.io</a></td>
 </tr><tr>
@@ -51,18 +51,21 @@ Quick checks to make sure our pages are looking their best.
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[Page not found · GitHub Pages](https://ahanpenkar.github.io/my_website/personal_website.html)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|request failed|request failed|request failed|
+|[Ahan Penkar](https://ahanpenkar.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/ahanpenkar.github.io/index.html-mobile-thumb.jpg)](screenshots/ahanpenkar.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/ahanpenkar.github.io/index.html-medium-thumb.jpg)](screenshots/ahanpenkar.github.io/index.html-medium-full.jpg)|[![wide](screenshots/ahanpenkar.github.io/index.html-wide-thumb.jpg)](screenshots/ahanpenkar.github.io/index.html-wide-full.jpg)|
 |[Dosa Batter Madness](https://ahanpenkar.github.io/my-dosa-project/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/ahanpenkar.github.io/my-dosa-project_index.html-mobile-thumb.jpg)](screenshots/ahanpenkar.github.io/my-dosa-project_index.html-mobile-full.jpg)|[![medium](screenshots/ahanpenkar.github.io/my-dosa-project_index.html-medium-thumb.jpg)](screenshots/ahanpenkar.github.io/my-dosa-project_index.html-medium-full.jpg)|[![wide](screenshots/ahanpenkar.github.io/my-dosa-project_index.html-wide-thumb.jpg)](screenshots/ahanpenkar.github.io/my-dosa-project_index.html-wide-full.jpg)|
 
 
 ### Automatic Checks
 
-**https://ahanpenkar.github.io/my_website/personal_website.html**
+**https://ahanpenkar.github.io/**
 
-* **Could not access the page** - if you moved it, let me know!
-* All HTML files should be named `index.html`. If this is a personal project, move `my_website/personal_website.html` into a folder (or repo) called `personal_website`, then rename the file `index.html`. That way the project can be found at **/personal_website** instead of **/personal_website.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505) or how it works specifically with GitHub repos [on Fancy GitHub](https://jonathansoma.com/fancy-github/github-pages/#choosing-your-url)
-* Change URL to use `-` instead of spaces or underscores
-* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
+* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+    * Image `./images/manifesto.png` missing `alt` tag
+    * Image `https://caravan-b.storage.googleapis.com/interactives/maps/countries-visited/usa.jpg?v=1.4` missing `alt` tag
+    * Image `https://lh3.googleusercontent.com/omlPgDltqtPnkU9yCi0JLvx29shESeAmxmRe1YL0lQ0CMEBRJ_-akyIxJ6BTpd90ITIEv-Ap_qHdNmqIudkr4neF=s1900?nocheck=gplus` missing `alt` tag
+    * Image `https://lh3.googleusercontent.com/t4cxgEI9SsxmqLsG8Ly_o7D8sFXOa7DeMVDAODdUKcm-e3OMJdOtQJBNxRCDhQ5kyP0R3UjsQ6z2p8UO-DC1sn4q=s1900?nocheck=gplus` missing `alt` tag
+    * Image `https://lh3.googleusercontent.com/C5wX94pTK4y7qi7w_gaYGS6JAfhy6-maOO1TJUwhWAYBbRWPs8rICwqOt_XqQRS5AqJYwcBK0gvoGrvGnK3Gv6427Ro=s1900?nocheck=gplus` missing `alt` tag
+    * *and 1 more*
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://ahanpenkar.github.io/my-dosa-project/**
@@ -167,16 +170,25 @@ No issues found! 🎉
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[Page not found · GitHub Pages](https://jakeneenan.github.io/website/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|request failed|request failed|request failed|
+|[Jake Neenan](https://jakeneenan.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/jakeneenan.github.io/index.html-mobile-thumb.jpg)](screenshots/jakeneenan.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/jakeneenan.github.io/index.html-medium-thumb.jpg)](screenshots/jakeneenan.github.io/index.html-medium-full.jpg)|[![wide](screenshots/jakeneenan.github.io/index.html-wide-thumb.jpg)](screenshots/jakeneenan.github.io/index.html-wide-full.jpg)|
+|[BPD discinplinary records analysis](https://jakeneenan.github.io/bpd_project/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/jakeneenan.github.io/bpd_project_index.html-mobile-thumb.jpg)](screenshots/jakeneenan.github.io/bpd_project_index.html-mobile-full.jpg)|[![medium](screenshots/jakeneenan.github.io/bpd_project_index.html-medium-thumb.jpg)](screenshots/jakeneenan.github.io/bpd_project_index.html-medium-full.jpg)|[![wide](screenshots/jakeneenan.github.io/bpd_project_index.html-wide-thumb.jpg)](screenshots/jakeneenan.github.io/bpd_project_index.html-wide-full.jpg)|
 
 
 ### Automatic Checks
 
-**https://jakeneenan.github.io/website/**
+**https://jakeneenan.github.io/**
 
-* **Could not access the page** - if you moved it, let me know!
-* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
+* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+    * Image `globeprisons.png` missing `alt` tag
+    * Image `databases.png` missing `alt` tag
+    * Image `bpd.png` missing `alt` tag
+    * Image `newton.png` missing `alt` tag
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
+
+**https://jakeneenan.github.io/bpd_project/**
+
+* Change URL to use `-` instead of spaces or underscores
+* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 
 
 
