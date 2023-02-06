@@ -22,7 +22,8 @@ https://kellywaldro.github.io/pharmacies/
 https://laurabejder.com/
 https://laurabejder.com/bike-safety-in-nyc/
 https://laurabejder.com/federal_judges_appointment/
-https://meganwordell.github.io/MeganWordell/
+https://meganwordell.github.io/
+https://meganwordell.github.io/Project1.html
 https://poojachaudhuri.github.io/
 https://poojachaudhuri.github.io/caa-fact-checks/
 https://poojachaudhuri.github.io/gulab-jamun-in-nyc/
@@ -35,7 +36,7 @@ https://shalakas.github.io/rice-project/
 https://shivanireddy13.github.io/
 https://shivanireddy13.github.io/project1/project1html/
 https://vivek1799.github.io/
-https://vivek1799.github.io/Data_studio_story1/
+https://vivek1799.github.io/Essential_Grocery_Prices_around_Columbia_University/
 https://xinyitu.github.io/
 https://xinyitu.github.io/coke-index/
 https://xinyitu.github.io/nyc-subway-delay-map/
