@@ -2,18 +2,18 @@
 
 Quick checks to make sure our pages are looking their best.
 
-<table><tr><td><a href="#laurabejdercom"><img src="screenshots/laurabejder.com/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>laurabejder.com</a></td>
-<td><a href="#itsliuhongyugithubio"><img src="screenshots/itsliuhongyu.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>itsliuhongyu.github.io</a></td>
-<td><a href="#abbaamosgithubio"><img src="screenshots/abbaamos.github.io/Amos-website_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>abbaamos.github.io</a></td>
+<table><tr><td><a href="#abbaamosgithubio"><img src="screenshots/abbaamos.github.io/Amos-website_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>abbaamos.github.io</a></td>
 <td>ahanpenkar.github.io request failed</td>
-</tr><tr>
 <td><a href="#evawqhgithubio"><img src="screenshots/evawqh.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>evawqh.github.io</a></td>
+<td><a href="#itsliuhongyugithubio"><img src="screenshots/itsliuhongyu.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>itsliuhongyu.github.io</a></td>
+</tr><tr>
 <td><a href="#ivynyayiekagithubio"><img src="screenshots/ivynyayieka.github.io/data_journ_website_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>ivynyayieka.github.io</a></td>
 <td>jakeneenan.github.io request failed</td>
 <td><a href="#juhanarossigithubio"><img src="screenshots/juhanarossi.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>juhanarossi.github.io</a></td>
-</tr><tr>
 <td><a href="#junekim6githubio"><img src="screenshots/junekim6.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>junekim6.github.io</a></td>
+</tr><tr>
 <td><a href="#kellywaldrogithubio"><img src="screenshots/kellywaldro.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>kellywaldro.github.io</a></td>
+<td><a href="#laurabejdercom"><img src="screenshots/laurabejder.com/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>laurabejder.com</a></td>
 <td>meganwordell.github.io request failed</td>
 <td><a href="#poojachaudhurigithubio"><img src="screenshots/poojachaudhuri.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>poojachaudhuri.github.io</a></td>
 </tr><tr>
@@ -25,48 +25,6 @@ Quick checks to make sure our pages are looking their best.
 <td><a href="#xinyitugithubio"><img src="screenshots/xinyitu.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>xinyitu.github.io</a></td>
 <td><a href="#yong-xionggithubio"><img src="screenshots/yong-xiong.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>yong-xiong.github.io</a></td>
 </tr></table>
-
-
-
-## laurabejder.com
-
-
-|url|mobile|medium|wide|
-|---|---|---|---|
-|[Laura Bejder](https://laurabejder.com/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/laurabejder.com/index.html-mobile-thumb.jpg)](screenshots/laurabejder.com/index.html-mobile-full.jpg)|[![medium](screenshots/laurabejder.com/index.html-medium-thumb.jpg)](screenshots/laurabejder.com/index.html-medium-full.jpg)|[![wide](screenshots/laurabejder.com/index.html-wide-thumb.jpg)](screenshots/laurabejder.com/index.html-wide-full.jpg)|
-|[Federal judges](https://laurabejder.com/federal_judges_appointment/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/laurabejder.com/federal_judges_appointment_index.html-mobile-thumb.jpg)](screenshots/laurabejder.com/federal_judges_appointment_index.html-mobile-full.jpg)|[![medium](screenshots/laurabejder.com/federal_judges_appointment_index.html-medium-thumb.jpg)](screenshots/laurabejder.com/federal_judges_appointment_index.html-medium-full.jpg)|[![wide](screenshots/laurabejder.com/federal_judges_appointment_index.html-wide-thumb.jpg)](screenshots/laurabejder.com/federal_judges_appointment_index.html-wide-full.jpg)|
-
-
-### Automatic Checks
-
-**https://laurabejder.com/**
-
-No issues found! 🎉
-
-**https://laurabejder.com/federal_judges_appointment/**
-
-* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-    * Image `visualizations/party_votes.png` missing `alt` tag
-* Change URL to use `-` instead of spaces or underscores
-
-
-
-## itsliuhongyu.github.io
-
-
-|url|mobile|medium|wide|
-|---|---|---|---|
-|[Hongyu Liu's Portfolio](https://itsliuhongyu.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/itsliuhongyu.github.io/index.html-mobile-thumb.jpg)](screenshots/itsliuhongyu.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/itsliuhongyu.github.io/index.html-medium-thumb.jpg)](screenshots/itsliuhongyu.github.io/index.html-medium-full.jpg)|[![wide](screenshots/itsliuhongyu.github.io/index.html-wide-thumb.jpg)](screenshots/itsliuhongyu.github.io/index.html-wide-full.jpg)|
-
-
-### Automatic Checks
-
-**https://itsliuhongyu.github.io/**
-
-* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-    * Image `./portfolio_files/profile-photo.jpg` missing `alt` tag
-* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 
 
@@ -82,6 +40,7 @@ No issues found! 🎉
 
 **https://abbaamos.github.io/Amos-website/**
 
+* Add a link to your project's GitHub repo, so people can review your code
 * Change URL to be all in lowercase
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 
@@ -93,6 +52,7 @@ No issues found! 🎉
 |url|mobile|medium|wide|
 |---|---|---|---|
 |[Page not found · GitHub Pages](https://ahanpenkar.github.io/my_website/personal_website.html)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|request failed|request failed|request failed|
+|[Dosa Batter Madness](https://ahanpenkar.github.io/my-dosa-project/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/ahanpenkar.github.io/my-dosa-project_index.html-mobile-thumb.jpg)](screenshots/ahanpenkar.github.io/my-dosa-project_index.html-mobile-full.jpg)|[![medium](screenshots/ahanpenkar.github.io/my-dosa-project_index.html-medium-thumb.jpg)](screenshots/ahanpenkar.github.io/my-dosa-project_index.html-medium-full.jpg)|[![wide](screenshots/ahanpenkar.github.io/my-dosa-project_index.html-wide-thumb.jpg)](screenshots/ahanpenkar.github.io/my-dosa-project_index.html-wide-full.jpg)|
 
 
 ### Automatic Checks
@@ -105,6 +65,10 @@ No issues found! 🎉
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
+**https://ahanpenkar.github.io/my-dosa-project/**
+
+No issues found! 🎉
+
 
 
 ## evawqh.github.io
@@ -114,12 +78,14 @@ No issues found! 🎉
 |---|---|---|---|
 |[Qianhui Eva Wen - Journalist](https://evawqh.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/evawqh.github.io/index.html-mobile-thumb.jpg)](screenshots/evawqh.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/evawqh.github.io/index.html-medium-thumb.jpg)](screenshots/evawqh.github.io/index.html-medium-full.jpg)|[![wide](screenshots/evawqh.github.io/index.html-wide-thumb.jpg)](screenshots/evawqh.github.io/index.html-wide-full.jpg)|
 |[Qianhui Eva Wen - Asylum Database](https://evawqh.github.io/asylum-appeal-approval-rate/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/evawqh.github.io/asylum-appeal-approval-rate_index.html-mobile-thumb.jpg)](screenshots/evawqh.github.io/asylum-appeal-approval-rate_index.html-mobile-full.jpg)|[![medium](screenshots/evawqh.github.io/asylum-appeal-approval-rate_index.html-medium-thumb.jpg)](screenshots/evawqh.github.io/asylum-appeal-approval-rate_index.html-medium-full.jpg)|[![wide](screenshots/evawqh.github.io/asylum-appeal-approval-rate_index.html-wide-thumb.jpg)](screenshots/evawqh.github.io/asylum-appeal-approval-rate_index.html-wide-full.jpg)|
+|[Something Food](https://evawqh.github.io/data-studio-01/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/evawqh.github.io/data-studio-01_index.html-mobile-thumb.jpg)](screenshots/evawqh.github.io/data-studio-01_index.html-mobile-full.jpg)|[![medium](screenshots/evawqh.github.io/data-studio-01_index.html-medium-thumb.jpg)](screenshots/evawqh.github.io/data-studio-01_index.html-medium-full.jpg)|[![wide](screenshots/evawqh.github.io/data-studio-01_index.html-wide-thumb.jpg)](screenshots/evawqh.github.io/data-studio-01_index.html-wide-full.jpg)|
 
 
 ### Automatic Checks
 
 **https://evawqh.github.io/**
 
+* Add a link to your project's GitHub repo, so people can review your code
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 
 **https://evawqh.github.io/asylum-appeal-approval-rate/**
@@ -129,6 +95,44 @@ No issues found! 🎉
     * Image `pictures/core-terms.png` missing `alt` tag
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 
+**https://evawqh.github.io/data-studio-01/**
+
+* Add a link to your project's GitHub repo, so people can review your code
+* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
+
+
+
+## itsliuhongyu.github.io
+
+
+|url|mobile|medium|wide|
+|---|---|---|---|
+|[Hongyu Liu's Portfolio](https://itsliuhongyu.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/itsliuhongyu.github.io/index.html-mobile-thumb.jpg)](screenshots/itsliuhongyu.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/itsliuhongyu.github.io/index.html-medium-thumb.jpg)](screenshots/itsliuhongyu.github.io/index.html-medium-full.jpg)|[![wide](screenshots/itsliuhongyu.github.io/index.html-wide-thumb.jpg)](screenshots/itsliuhongyu.github.io/index.html-wide-full.jpg)|
+|[Why can't I ride the Beijing Subway without a map anymore?](https://itsliuhongyu.github.io/1_Subway_change/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/itsliuhongyu.github.io/1_Subway_change_index.html-mobile-thumb.jpg)](screenshots/itsliuhongyu.github.io/1_Subway_change_index.html-mobile-full.jpg)|[![medium](screenshots/itsliuhongyu.github.io/1_Subway_change_index.html-medium-thumb.jpg)](screenshots/itsliuhongyu.github.io/1_Subway_change_index.html-medium-full.jpg)|[![wide](screenshots/itsliuhongyu.github.io/1_Subway_change_index.html-wide-thumb.jpg)](screenshots/itsliuhongyu.github.io/1_Subway_change_index.html-wide-full.jpg)|
+
+
+### Automatic Checks
+
+**https://itsliuhongyu.github.io/**
+
+* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+    * Image `./portfolio_files/profile-photo.jpg` missing `alt` tag
+* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
+
+**https://itsliuhongyu.github.io/1_Subway_change/**
+
+* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+    * Image `./HTML/Header.jpg` missing `alt` tag
+    * Image `./HTML/2005subwayline.jpeg` missing `alt` tag
+    * Image `./HTML/Subwayline.gif` missing `alt` tag
+    * Image `./HTML/Totalsubwayline.png` missing `alt` tag
+    * Image `./HTML/Increasebyyear.png` missing `alt` tag
+* Change URL to use `-` instead of spaces or underscores
+* Change URL to be all in lowercase
+* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
+
 
 
 ## ivynyayieka.github.io
@@ -137,6 +141,8 @@ No issues found! 🎉
 |url|mobile|medium|wide|
 |---|---|---|---|
 |[Ivy Nyayieka's data journalism website](https://ivynyayieka.github.io/data_journ_website/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/ivynyayieka.github.io/data_journ_website_index.html-mobile-thumb.jpg)](screenshots/ivynyayieka.github.io/data_journ_website_index.html-mobile-full.jpg)|[![medium](screenshots/ivynyayieka.github.io/data_journ_website_index.html-medium-thumb.jpg)](screenshots/ivynyayieka.github.io/data_journ_website_index.html-medium-full.jpg)|[![wide](screenshots/ivynyayieka.github.io/data_journ_website_index.html-wide-thumb.jpg)](screenshots/ivynyayieka.github.io/data_journ_website_index.html-wide-full.jpg)|
+|[nairobi sunshine](https://ivynyayieka.github.io/nairobi_sunshine)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/ivynyayieka.github.io/nairobi_sunshine_index.html-mobile-thumb.jpg)](screenshots/ivynyayieka.github.io/nairobi_sunshine_index.html-mobile-full.jpg)|[![medium](screenshots/ivynyayieka.github.io/nairobi_sunshine_index.html-medium-thumb.jpg)](screenshots/ivynyayieka.github.io/nairobi_sunshine_index.html-medium-full.jpg)|[![wide](screenshots/ivynyayieka.github.io/nairobi_sunshine_index.html-wide-thumb.jpg)](screenshots/ivynyayieka.github.io/nairobi_sunshine_index.html-wide-full.jpg)|
+|[nairobi sunshine](https://ivynyayieka.github.io/nairobi_sunshine/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/ivynyayieka.github.io/nairobi_sunshine_index.html-mobile-thumb.jpg)](screenshots/ivynyayieka.github.io/nairobi_sunshine_index.html-mobile-full.jpg)|[![medium](screenshots/ivynyayieka.github.io/nairobi_sunshine_index.html-medium-thumb.jpg)](screenshots/ivynyayieka.github.io/nairobi_sunshine_index.html-medium-full.jpg)|[![wide](screenshots/ivynyayieka.github.io/nairobi_sunshine_index.html-wide-thumb.jpg)](screenshots/ivynyayieka.github.io/nairobi_sunshine_index.html-wide-full.jpg)|
 
 
 ### Automatic Checks
@@ -145,6 +151,14 @@ No issues found! 🎉
 
 * Change URL to use `-` instead of spaces or underscores
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
+
+**https://ivynyayieka.github.io/nairobi_sunshine**
+
+* Change URL to use `-` instead of spaces or underscores
+
+**https://ivynyayieka.github.io/nairobi_sunshine/**
+
+* Change URL to use `-` instead of spaces or underscores
 
 
 
@@ -173,6 +187,7 @@ No issues found! 🎉
 |---|---|---|---|
 |[Juhana Rossi's Portfolio](https://juhanarossi.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/juhanarossi.github.io/index.html-mobile-thumb.jpg)](screenshots/juhanarossi.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/juhanarossi.github.io/index.html-medium-thumb.jpg)](screenshots/juhanarossi.github.io/index.html-medium-full.jpg)|[![wide](screenshots/juhanarossi.github.io/index.html-wide-thumb.jpg)](screenshots/juhanarossi.github.io/index.html-wide-full.jpg)|
 |[Where Did Critics' Favorite Films Come From?](https://juhanarossi.github.io/BBC-film-map/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/juhanarossi.github.io/BBC-film-map_index.html-mobile-thumb.jpg)](screenshots/juhanarossi.github.io/BBC-film-map_index.html-mobile-full.jpg)|[![medium](screenshots/juhanarossi.github.io/BBC-film-map_index.html-medium-thumb.jpg)](screenshots/juhanarossi.github.io/BBC-film-map_index.html-medium-full.jpg)|[![wide](screenshots/juhanarossi.github.io/BBC-film-map_index.html-wide-thumb.jpg)](screenshots/juhanarossi.github.io/BBC-film-map_index.html-wide-full.jpg)|
+|[Traffic at HEL languishes while at JFK it soars](https://juhanarossi.github.io/PANYNJ-airport-stat-scrape/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/juhanarossi.github.io/PANYNJ-airport-stat-scrape_index.html-mobile-thumb.jpg)](screenshots/juhanarossi.github.io/PANYNJ-airport-stat-scrape_index.html-mobile-full.jpg)|[![medium](screenshots/juhanarossi.github.io/PANYNJ-airport-stat-scrape_index.html-medium-thumb.jpg)](screenshots/juhanarossi.github.io/PANYNJ-airport-stat-scrape_index.html-medium-full.jpg)|[![wide](screenshots/juhanarossi.github.io/PANYNJ-airport-stat-scrape_index.html-wide-thumb.jpg)](screenshots/juhanarossi.github.io/PANYNJ-airport-stat-scrape_index.html-wide-full.jpg)|
 
 
 ### Automatic Checks
@@ -186,8 +201,13 @@ No issues found! 🎉
 
 **https://juhanarossi.github.io/BBC-film-map/**
 
+* Add a link to your project's GitHub repo, so people can review your code
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
     * Image `DuckYouSucker.PNG` missing `alt` tag
+* Change URL to be all in lowercase
+
+**https://juhanarossi.github.io/PANYNJ-airport-stat-scrape/**
+
 * Change URL to be all in lowercase
 
 
@@ -199,6 +219,7 @@ No issues found! 🎉
 |---|---|---|---|
 |[June Kim](https://junekim6.github.io)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/junekim6.github.io/index.html-mobile-thumb.jpg)](screenshots/junekim6.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/junekim6.github.io/index.html-medium-thumb.jpg)](screenshots/junekim6.github.io/index.html-medium-full.jpg)|[![wide](screenshots/junekim6.github.io/index.html-wide-thumb.jpg)](screenshots/junekim6.github.io/index.html-wide-full.jpg)|
 |[south korea emergy permitting](https://junekim6.github.io/korec_energy_permitting/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/junekim6.github.io/korec_energy_permitting_index.html-mobile-thumb.jpg)](screenshots/junekim6.github.io/korec_energy_permitting_index.html-mobile-full.jpg)|[![medium](screenshots/junekim6.github.io/korec_energy_permitting_index.html-medium-thumb.jpg)](screenshots/junekim6.github.io/korec_energy_permitting_index.html-medium-full.jpg)|[![wide](screenshots/junekim6.github.io/korec_energy_permitting_index.html-wide-thumb.jpg)](screenshots/junekim6.github.io/korec_energy_permitting_index.html-wide-full.jpg)|
+|[Seoul Forest](https://junekim6.github.io/seoul-forest-loss/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/junekim6.github.io/seoul-forest-loss_index.html-mobile-thumb.jpg)](screenshots/junekim6.github.io/seoul-forest-loss_index.html-mobile-full.jpg)|[![medium](screenshots/junekim6.github.io/seoul-forest-loss_index.html-medium-thumb.jpg)](screenshots/junekim6.github.io/seoul-forest-loss_index.html-medium-full.jpg)|[![wide](screenshots/junekim6.github.io/seoul-forest-loss_index.html-wide-thumb.jpg)](screenshots/junekim6.github.io/seoul-forest-loss_index.html-wide-full.jpg)|
 
 
 ### Automatic Checks
@@ -215,8 +236,22 @@ No issues found! 🎉
 
 **https://junekim6.github.io/korec_energy_permitting/**
 
+* Add a link to your project's GitHub repo, so people can review your code
 * Change URL to use `-` instead of spaces or underscores
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
+
+**https://junekim6.github.io/seoul-forest-loss/**
+
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
+* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `:` overlaps with `Source` at screen width 400
+   * Text `:` overlaps with `Korea Forest Service` at screen width 400
+   * Text `Source` overlaps with `Korea Forest Service` at screen width 400
+   * Text `area. This is equivalent to` overlaps with `16 times` at screen width 900
+   * Text `16 times` overlaps with `the size of` at screen width 900
+   * Text `Source` overlaps with `:` at screen width 900
+   * Text `Source` overlaps with `Korea Forest Service` at screen width 900
+   * *and 6 more*
 
 
 
@@ -227,6 +262,7 @@ No issues found! 🎉
 |---|---|---|---|
 |[Kelly Waldron](https://kellywaldro.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/kellywaldro.github.io/index.html-mobile-thumb.jpg)](screenshots/kellywaldro.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/kellywaldro.github.io/index.html-medium-thumb.jpg)](screenshots/kellywaldro.github.io/index.html-medium-full.jpg)|[![wide](screenshots/kellywaldro.github.io/index.html-wide-thumb.jpg)](screenshots/kellywaldro.github.io/index.html-wide-full.jpg)|
 |[House prices in Dublin: what's the going rate?](https://kellywaldro.github.io/dublin_properties/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/kellywaldro.github.io/dublin_properties_index.html-mobile-thumb.jpg)](screenshots/kellywaldro.github.io/dublin_properties_index.html-mobile-full.jpg)|[![medium](screenshots/kellywaldro.github.io/dublin_properties_index.html-medium-thumb.jpg)](screenshots/kellywaldro.github.io/dublin_properties_index.html-medium-full.jpg)|[![wide](screenshots/kellywaldro.github.io/dublin_properties_index.html-wide-thumb.jpg)](screenshots/kellywaldro.github.io/dublin_properties_index.html-wide-full.jpg)|
+|[Pharmacies](https://kellywaldro.github.io/pharmacies/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/kellywaldro.github.io/pharmacies_index.html-mobile-thumb.jpg)](screenshots/kellywaldro.github.io/pharmacies_index.html-mobile-full.jpg)|[![medium](screenshots/kellywaldro.github.io/pharmacies_index.html-medium-thumb.jpg)](screenshots/kellywaldro.github.io/pharmacies_index.html-medium-full.jpg)|[![wide](screenshots/kellywaldro.github.io/pharmacies_index.html-wide-thumb.jpg)](screenshots/kellywaldro.github.io/pharmacies_index.html-wide-full.jpg)|
 
 
 ### Automatic Checks
@@ -243,6 +279,42 @@ No issues found! 🎉
 
 **https://kellywaldro.github.io/dublin_properties/**
 
+* Add a link to your project's GitHub repo, so people can review your code
+* Change URL to use `-` instead of spaces or underscores
+
+**https://kellywaldro.github.io/pharmacies/**
+
+* Add a link to your project's GitHub repo, so people can review your code
+* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+    * Image `./Screen Shot 2023-02-03 at 4.09.46 PM.png` missing `alt` tag
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
+
+
+
+## laurabejder.com
+
+
+|url|mobile|medium|wide|
+|---|---|---|---|
+|[Laura Bejder](https://laurabejder.com/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/laurabejder.com/index.html-mobile-thumb.jpg)](screenshots/laurabejder.com/index.html-mobile-full.jpg)|[![medium](screenshots/laurabejder.com/index.html-medium-thumb.jpg)](screenshots/laurabejder.com/index.html-medium-full.jpg)|[![wide](screenshots/laurabejder.com/index.html-wide-thumb.jpg)](screenshots/laurabejder.com/index.html-wide-full.jpg)|
+|[For bikers, New York is more dangerous than Copenhagen, but not all areas are created equal](https://laurabejder.com/bike-safety-in-nyc/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/laurabejder.com/bike-safety-in-nyc_index.html-mobile-thumb.jpg)](screenshots/laurabejder.com/bike-safety-in-nyc_index.html-mobile-full.jpg)|[![medium](screenshots/laurabejder.com/bike-safety-in-nyc_index.html-medium-thumb.jpg)](screenshots/laurabejder.com/bike-safety-in-nyc_index.html-medium-full.jpg)|[![wide](screenshots/laurabejder.com/bike-safety-in-nyc_index.html-wide-thumb.jpg)](screenshots/laurabejder.com/bike-safety-in-nyc_index.html-wide-full.jpg)|
+|[Federal judges](https://laurabejder.com/federal_judges_appointment/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/laurabejder.com/federal_judges_appointment_index.html-mobile-thumb.jpg)](screenshots/laurabejder.com/federal_judges_appointment_index.html-mobile-full.jpg)|[![medium](screenshots/laurabejder.com/federal_judges_appointment_index.html-medium-thumb.jpg)](screenshots/laurabejder.com/federal_judges_appointment_index.html-medium-full.jpg)|[![wide](screenshots/laurabejder.com/federal_judges_appointment_index.html-wide-thumb.jpg)](screenshots/laurabejder.com/federal_judges_appointment_index.html-wide-full.jpg)|
+
+
+### Automatic Checks
+
+**https://laurabejder.com/**
+
+No issues found! 🎉
+
+**https://laurabejder.com/bike-safety-in-nyc/**
+
+No issues found! 🎉
+
+**https://laurabejder.com/federal_judges_appointment/**
+
+* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+    * Image `visualizations/party_votes.png` missing `alt` tag
 * Change URL to use `-` instead of spaces or underscores
 
 
@@ -273,6 +345,7 @@ No issues found! 🎉
 |---|---|---|---|
 |[Pooja Chaudhuri](https://poojachaudhuri.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/poojachaudhuri.github.io/index.html-mobile-thumb.jpg)](screenshots/poojachaudhuri.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/poojachaudhuri.github.io/index.html-medium-thumb.jpg)](screenshots/poojachaudhuri.github.io/index.html-medium-full.jpg)|[![wide](screenshots/poojachaudhuri.github.io/index.html-wide-thumb.jpg)](screenshots/poojachaudhuri.github.io/index.html-wide-full.jpg)|
 |[caa-fact-checks/index.html](https://poojachaudhuri.github.io/caa-fact-checks/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/poojachaudhuri.github.io/caa-fact-checks_index.html-mobile-thumb.jpg)](screenshots/poojachaudhuri.github.io/caa-fact-checks_index.html-mobile-full.jpg)|[![medium](screenshots/poojachaudhuri.github.io/caa-fact-checks_index.html-medium-thumb.jpg)](screenshots/poojachaudhuri.github.io/caa-fact-checks_index.html-medium-full.jpg)|[![wide](screenshots/poojachaudhuri.github.io/caa-fact-checks_index.html-wide-thumb.jpg)](screenshots/poojachaudhuri.github.io/caa-fact-checks_index.html-wide-full.jpg)|
+|[Gulab Jamuns in NYC](https://poojachaudhuri.github.io/gulab-jamun-in-nyc/)<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/poojachaudhuri.github.io/gulab-jamun-in-nyc_index.html-mobile-thumb.jpg)](screenshots/poojachaudhuri.github.io/gulab-jamun-in-nyc_index.html-mobile-full.jpg)|[![medium](screenshots/poojachaudhuri.github.io/gulab-jamun-in-nyc_index.html-medium-thumb.jpg)](screenshots/poojachaudhuri.github.io/gulab-jamun-in-nyc_index.html-medium-full.jpg)|[![wide](screenshots/poojachaudhuri.github.io/gulab-jamun-in-nyc_index.html-wide-thumb.jpg)](screenshots/poojachaudhuri.github.io/gulab-jamun-in-nyc_index.html-wide-full.jpg)|
 
 
 ### Automatic Checks
@@ -284,10 +357,15 @@ No issues found! 🎉
 **https://poojachaudhuri.github.io/caa-fact-checks/**
 
 * Needs a title, add a `<title>` tag to the `<head>`
+* Add a link to your project's GitHub repo, so people can review your code
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
     * Image `chart.png` missing `alt` tag
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
+
+**https://poojachaudhuri.github.io/gulab-jamun-in-nyc/**
+
+No issues found! 🎉
 
 
 
@@ -297,6 +375,7 @@ No issues found! 🎉
 |url|mobile|medium|wide|
 |---|---|---|---|
 |[Rachel Phua  Portfolio](https://rachel-el-p.github.io/)<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/rachel-el-p.github.io/index.html-mobile-thumb.jpg)](screenshots/rachel-el-p.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/rachel-el-p.github.io/index.html-medium-thumb.jpg)](screenshots/rachel-el-p.github.io/index.html-medium-full.jpg)|[![wide](screenshots/rachel-el-p.github.io/index.html-wide-thumb.jpg)](screenshots/rachel-el-p.github.io/index.html-wide-full.jpg)|
+|[Crossing the Causeway](https://rachel-el-p.github.io/crossing-into-msia/)<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/rachel-el-p.github.io/crossing-into-msia_index.html-mobile-thumb.jpg)](screenshots/rachel-el-p.github.io/crossing-into-msia_index.html-mobile-full.jpg)|[![medium](screenshots/rachel-el-p.github.io/crossing-into-msia_index.html-medium-thumb.jpg)](screenshots/rachel-el-p.github.io/crossing-into-msia_index.html-medium-full.jpg)|[![wide](screenshots/rachel-el-p.github.io/crossing-into-msia_index.html-wide-thumb.jpg)](screenshots/rachel-el-p.github.io/crossing-into-msia_index.html-wide-full.jpg)|
 |[Workplace fatalities](https://rachel-el-p.github.io/Workplace-deaths-final-project/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/rachel-el-p.github.io/Workplace-deaths-final-project_index.html-mobile-thumb.jpg)](screenshots/rachel-el-p.github.io/Workplace-deaths-final-project_index.html-mobile-full.jpg)|[![medium](screenshots/rachel-el-p.github.io/Workplace-deaths-final-project_index.html-medium-thumb.jpg)](screenshots/rachel-el-p.github.io/Workplace-deaths-final-project_index.html-medium-full.jpg)|[![wide](screenshots/rachel-el-p.github.io/Workplace-deaths-final-project_index.html-wide-thumb.jpg)](screenshots/rachel-el-p.github.io/Workplace-deaths-final-project_index.html-wide-full.jpg)|
 
 
@@ -312,8 +391,20 @@ No issues found! 🎉
     * Image `Images/Phua-Amazon 101722.jpeg` missing `alt` tag
     * *and 30 more*
 
+**https://rachel-el-p.github.io/crossing-into-msia/**
+
+* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+    * Image `jurong_image.jpg` missing `alt` tag
+    * Image `woodlands_image.jpg` missing `alt` tag
+    * Image `1-1203254406i5t0.png` missing `alt` tag
+    * Image `Indomie_Mie_Goreng_Iga_Penyet_1.png` missing `alt` tag
+    * Image `Free_range_chicken_flock.png` missing `alt` tag
+    * *and 2 more*
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
+
 **https://rachel-el-p.github.io/Workplace-deaths-final-project/**
 
+* Add a link to your project's GitHub repo, so people can review your code
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
     * Image `OSHA screenshot.jpg` missing `alt` tag
 * Change URL to be all in lowercase
@@ -327,6 +418,7 @@ No issues found! 🎉
 |---|---|---|---|
 |[Shalaka Shinde's portfolio](https://shalakas.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/shalakas.github.io/index.html-mobile-thumb.jpg)](screenshots/shalakas.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/shalakas.github.io/index.html-medium-thumb.jpg)](screenshots/shalakas.github.io/index.html-medium-full.jpg)|[![wide](screenshots/shalakas.github.io/index.html-wide-thumb.jpg)](screenshots/shalakas.github.io/index.html-wide-full.jpg)|
 |[Clogged criminal justice system lets murder cases rot](https://shalakas.github.io/CJS_Project/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/shalakas.github.io/CJS_Project_index.html-mobile-thumb.jpg)](screenshots/shalakas.github.io/CJS_Project_index.html-mobile-full.jpg)|[![medium](screenshots/shalakas.github.io/CJS_Project_index.html-medium-thumb.jpg)](screenshots/shalakas.github.io/CJS_Project_index.html-medium-full.jpg)|[![wide](screenshots/shalakas.github.io/CJS_Project_index.html-wide-thumb.jpg)](screenshots/shalakas.github.io/CJS_Project_index.html-wide-full.jpg)|
+|[Understand Rice Trade](https://shalakas.github.io/rice-project/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/shalakas.github.io/rice-project_index.html-mobile-thumb.jpg)](screenshots/shalakas.github.io/rice-project_index.html-mobile-full.jpg)|[![medium](screenshots/shalakas.github.io/rice-project_index.html-medium-thumb.jpg)](screenshots/shalakas.github.io/rice-project_index.html-medium-full.jpg)|[![wide](screenshots/shalakas.github.io/rice-project_index.html-wide-thumb.jpg)](screenshots/shalakas.github.io/rice-project_index.html-wide-full.jpg)|
 
 
 ### Automatic Checks
@@ -340,8 +432,19 @@ No issues found! 🎉
 
 **https://shalakas.github.io/CJS_Project/**
 
+* Add a link to your project's GitHub repo, so people can review your code
 * Change URL to use `-` instead of spaces or underscores
 * Change URL to be all in lowercase
+
+**https://shalakas.github.io/rice-project/**
+
+* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+    * Image `paddy.jpg` missing `alt` tag
+    * Image `corn.jpg` missing `alt` tag
+    * Image `rice.jpg` missing `alt` tag
+    * Image `wheat.jpg` missing `alt` tag
+* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 
 
@@ -351,14 +454,20 @@ No issues found! 🎉
 |url|mobile|medium|wide|
 |---|---|---|---|
 |[Shivani Reddy](https://shivanireddy13.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/shivanireddy13.github.io/index.html-mobile-thumb.jpg)](screenshots/shivanireddy13.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/shivanireddy13.github.io/index.html-medium-thumb.jpg)](screenshots/shivanireddy13.github.io/index.html-medium-full.jpg)|[![wide](screenshots/shivanireddy13.github.io/index.html-wide-thumb.jpg)](screenshots/shivanireddy13.github.io/index.html-wide-full.jpg)|
+|[India's Renamed Cities](https://shivanireddy13.github.io/project1/project1html/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/shivanireddy13.github.io/project1_project1html_index.html-mobile-thumb.jpg)](screenshots/shivanireddy13.github.io/project1_project1html_index.html-mobile-full.jpg)|[![medium](screenshots/shivanireddy13.github.io/project1_project1html_index.html-medium-thumb.jpg)](screenshots/shivanireddy13.github.io/project1_project1html_index.html-medium-full.jpg)|[![wide](screenshots/shivanireddy13.github.io/project1_project1html_index.html-wide-thumb.jpg)](screenshots/shivanireddy13.github.io/project1_project1html_index.html-wide-full.jpg)|
 
 
 ### Automatic Checks
 
 **https://shivanireddy13.github.io/**
 
+* Add a link to your project's GitHub repo, so people can review your code
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
     * Image `https://static.wixstatic.com/media/741be9_1c5f30f5f63d4243b4ef9bb88b9d926f~mv2.jpeg/v1/fill/w_828,h_1034,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/5F892267-6F10-43DA-BD69-B900FE4B7F4A.jpeg` missing `alt` tag
+
+**https://shivanireddy13.github.io/project1/project1html/**
+
+* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 
 
 
@@ -368,12 +477,21 @@ No issues found! 🎉
 |url|mobile|medium|wide|
 |---|---|---|---|
 |[Vivek Patil](https://vivek1799.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/vivek1799.github.io/index.html-mobile-thumb.jpg)](screenshots/vivek1799.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/vivek1799.github.io/index.html-medium-thumb.jpg)](screenshots/vivek1799.github.io/index.html-medium-full.jpg)|[![wide](screenshots/vivek1799.github.io/index.html-wide-thumb.jpg)](screenshots/vivek1799.github.io/index.html-wide-full.jpg)|
+|[Page not found · GitHub Pages](https://vivek1799.github.io/Data_studio_story1/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|request failed|request failed|request failed|
 
 
 ### Automatic Checks
 
 **https://vivek1799.github.io/**
 
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
+
+**https://vivek1799.github.io/Data_studio_story1/**
+
+* **Could not access the page** - if you moved it, let me know!
+* Change URL to use `-` instead of spaces or underscores
+* Change URL to be all in lowercase
+* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 
@@ -384,6 +502,7 @@ No issues found! 🎉
 |url|mobile|medium|wide|
 |---|---|---|---|
 |[Cynthia Tu - Data Journalist](https://xinyitu.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/xinyitu.github.io/index.html-mobile-thumb.jpg)](screenshots/xinyitu.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/xinyitu.github.io/index.html-medium-thumb.jpg)](screenshots/xinyitu.github.io/index.html-medium-full.jpg)|[![wide](screenshots/xinyitu.github.io/index.html-wide-thumb.jpg)](screenshots/xinyitu.github.io/index.html-wide-full.jpg)|
+|[Coke Index](https://xinyitu.github.io/coke-index/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/xinyitu.github.io/coke-index_index.html-mobile-thumb.jpg)](screenshots/xinyitu.github.io/coke-index_index.html-mobile-full.jpg)|[![medium](screenshots/xinyitu.github.io/coke-index_index.html-medium-thumb.jpg)](screenshots/xinyitu.github.io/coke-index_index.html-medium-full.jpg)|[![wide](screenshots/xinyitu.github.io/coke-index_index.html-wide-thumb.jpg)](screenshots/xinyitu.github.io/coke-index_index.html-wide-full.jpg)|
 |[NYC Subway Delay Map](https://xinyitu.github.io/nyc-subway-delay-map/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/xinyitu.github.io/nyc-subway-delay-map_index.html-mobile-thumb.jpg)](screenshots/xinyitu.github.io/nyc-subway-delay-map_index.html-mobile-full.jpg)|[![medium](screenshots/xinyitu.github.io/nyc-subway-delay-map_index.html-medium-thumb.jpg)](screenshots/xinyitu.github.io/nyc-subway-delay-map_index.html-medium-full.jpg)|[![wide](screenshots/xinyitu.github.io/nyc-subway-delay-map_index.html-wide-thumb.jpg)](screenshots/xinyitu.github.io/nyc-subway-delay-map_index.html-wide-full.jpg)|
 
 
@@ -393,9 +512,13 @@ No issues found! 🎉
 
 No issues found! 🎉
 
-**https://xinyitu.github.io/nyc-subway-delay-map/**
+**https://xinyitu.github.io/coke-index/**
 
 No issues found! 🎉
+
+**https://xinyitu.github.io/nyc-subway-delay-map/**
+
+* Add a link to your project's GitHub repo, so people can review your code
 
 
 
@@ -405,11 +528,16 @@ No issues found! 🎉
 |url|mobile|medium|wide|
 |---|---|---|---|
 |[Yong Xiong Porfolio Website](https://yong-xiong.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/yong-xiong.github.io/index.html-mobile-thumb.jpg)](screenshots/yong-xiong.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/yong-xiong.github.io/index.html-medium-thumb.jpg)](screenshots/yong-xiong.github.io/index.html-medium-full.jpg)|[![wide](screenshots/yong-xiong.github.io/index.html-wide-thumb.jpg)](screenshots/yong-xiong.github.io/index.html-wide-full.jpg)|
+|[Natural Gas Shortage Complaints in China](https://yong-xiong.github.io/peoples-daily-natural-gas-complaints/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/yong-xiong.github.io/peoples-daily-natural-gas-complaints_index.html-mobile-thumb.jpg)](screenshots/yong-xiong.github.io/peoples-daily-natural-gas-complaints_index.html-mobile-full.jpg)|[![medium](screenshots/yong-xiong.github.io/peoples-daily-natural-gas-complaints_index.html-medium-thumb.jpg)](screenshots/yong-xiong.github.io/peoples-daily-natural-gas-complaints_index.html-medium-full.jpg)|[![wide](screenshots/yong-xiong.github.io/peoples-daily-natural-gas-complaints_index.html-wide-thumb.jpg)](screenshots/yong-xiong.github.io/peoples-daily-natural-gas-complaints_index.html-wide-full.jpg)|
 
 
 ### Automatic Checks
 
 **https://yong-xiong.github.io/**
+
+No issues found! 🎉
+
+**https://yong-xiong.github.io/peoples-daily-natural-gas-complaints/**
 
 No issues found! 🎉
 
