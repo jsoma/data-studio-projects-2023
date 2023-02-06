@@ -14,7 +14,7 @@ Quick checks to make sure our pages are looking their best.
 </tr><tr>
 <td><a href="#kellywaldrogithubio"><img src="screenshots/kellywaldro.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>kellywaldro.github.io</a></td>
 <td><a href="#laurabejdercom"><img src="screenshots/laurabejder.com/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>laurabejder.com</a></td>
-<td>meganwordell.github.io request failed</td>
+<td><a href="#meganwordellgithubio"><img src="screenshots/meganwordell.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>meganwordell.github.io</a></td>
 <td><a href="#poojachaudhurigithubio"><img src="screenshots/poojachaudhuri.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>poojachaudhuri.github.io</a></td>
 </tr><tr>
 <td><a href="#rachel-el-pgithubio"><img src="screenshots/rachel-el-p.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>rachel-el-p.github.io</a></td>
@@ -247,11 +247,11 @@ No issues found! 🎉
    * Text `:` overlaps with `Source` at screen width 400
    * Text `:` overlaps with `Korea Forest Service` at screen width 400
    * Text `Source` overlaps with `Korea Forest Service` at screen width 400
-   * Text `area. This is equivalent to` overlaps with `16 times` at screen width 900
-   * Text `16 times` overlaps with `the size of` at screen width 900
-   * Text `Source` overlaps with `:` at screen width 900
+   * Text `:` overlaps with `Source` at screen width 900
+   * Text `:` overlaps with `Korea Forest Service` at screen width 900
    * Text `Source` overlaps with `Korea Forest Service` at screen width 900
-   * *and 6 more*
+   * Text `:` overlaps with `Source` at screen width 1300
+   * *and 2 more*
 
 
 
@@ -298,7 +298,7 @@ No issues found! 🎉
 |---|---|---|---|
 |[Laura Bejder](https://laurabejder.com/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/laurabejder.com/index.html-mobile-thumb.jpg)](screenshots/laurabejder.com/index.html-mobile-full.jpg)|[![medium](screenshots/laurabejder.com/index.html-medium-thumb.jpg)](screenshots/laurabejder.com/index.html-medium-full.jpg)|[![wide](screenshots/laurabejder.com/index.html-wide-thumb.jpg)](screenshots/laurabejder.com/index.html-wide-full.jpg)|
 |[For bikers, New York is more dangerous than Copenhagen, but not all areas are created equal](https://laurabejder.com/bike-safety-in-nyc/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/laurabejder.com/bike-safety-in-nyc_index.html-mobile-thumb.jpg)](screenshots/laurabejder.com/bike-safety-in-nyc_index.html-mobile-full.jpg)|[![medium](screenshots/laurabejder.com/bike-safety-in-nyc_index.html-medium-thumb.jpg)](screenshots/laurabejder.com/bike-safety-in-nyc_index.html-medium-full.jpg)|[![wide](screenshots/laurabejder.com/bike-safety-in-nyc_index.html-wide-thumb.jpg)](screenshots/laurabejder.com/bike-safety-in-nyc_index.html-wide-full.jpg)|
-|[Federal judges](https://laurabejder.com/federal_judges_appointment/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/laurabejder.com/federal_judges_appointment_index.html-mobile-thumb.jpg)](screenshots/laurabejder.com/federal_judges_appointment_index.html-mobile-full.jpg)|[![medium](screenshots/laurabejder.com/federal_judges_appointment_index.html-medium-thumb.jpg)](screenshots/laurabejder.com/federal_judges_appointment_index.html-medium-full.jpg)|[![wide](screenshots/laurabejder.com/federal_judges_appointment_index.html-wide-thumb.jpg)](screenshots/laurabejder.com/federal_judges_appointment_index.html-wide-full.jpg)|
+|[Page not found · GitHub Pages](https://laurabejder.com/federal_judges_appointment/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|request failed|request failed|request failed|
 
 
 ### Automatic Checks
@@ -313,9 +313,10 @@ No issues found! 🎉
 
 **https://laurabejder.com/federal_judges_appointment/**
 
-* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-    * Image `visualizations/party_votes.png` missing `alt` tag
+* **Could not access the page** - if you moved it, let me know!
 * Change URL to use `-` instead of spaces or underscores
+* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 
 
@@ -324,17 +325,22 @@ No issues found! 🎉
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[Page not found · GitHub Pages](https://meganwordell.github.io/MeganWordell/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|request failed|request failed|request failed|
+|[Megan Wordell](https://meganwordell.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/meganwordell.github.io/index.html-mobile-thumb.jpg)](screenshots/meganwordell.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/meganwordell.github.io/index.html-medium-thumb.jpg)](screenshots/meganwordell.github.io/index.html-medium-full.jpg)|[![wide](screenshots/meganwordell.github.io/index.html-wide-thumb.jpg)](screenshots/meganwordell.github.io/index.html-wide-full.jpg)|
+|[Refuge Restroom Data Studio Project](https://meganwordell.github.io/Project1.html)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/meganwordell.github.io/Project1.html-mobile-thumb.jpg)](screenshots/meganwordell.github.io/Project1.html-mobile-full.jpg)|[![medium](screenshots/meganwordell.github.io/Project1.html-medium-thumb.jpg)](screenshots/meganwordell.github.io/Project1.html-medium-full.jpg)|[![wide](screenshots/meganwordell.github.io/Project1.html-wide-thumb.jpg)](screenshots/meganwordell.github.io/Project1.html-wide-full.jpg)|
 
 
 ### Automatic Checks
 
-**https://meganwordell.github.io/MeganWordell/**
+**https://meganwordell.github.io/**
 
-* **Could not access the page** - if you moved it, let me know!
+No issues found! 🎉
+
+**https://meganwordell.github.io/Project1.html**
+
+* All HTML files should be named `index.html`. If this is a personal project, move `Project1.html` into a folder (or repo) called `Project1`, then rename the file `index.html`. That way the project can be found at **/Project1** instead of **/Project1.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505) or how it works specifically with GitHub repos [on Fancy GitHub](https://jonathansoma.com/fancy-github/github-pages/#choosing-your-url)
+* Add a link to your project's GitHub repo, so people can review your code
 * Change URL to be all in lowercase
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 
 
@@ -477,7 +483,7 @@ No issues found! 🎉
 |url|mobile|medium|wide|
 |---|---|---|---|
 |[Vivek Patil](https://vivek1799.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/vivek1799.github.io/index.html-mobile-thumb.jpg)](screenshots/vivek1799.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/vivek1799.github.io/index.html-medium-thumb.jpg)](screenshots/vivek1799.github.io/index.html-medium-full.jpg)|[![wide](screenshots/vivek1799.github.io/index.html-wide-thumb.jpg)](screenshots/vivek1799.github.io/index.html-wide-full.jpg)|
-|[Page not found · GitHub Pages](https://vivek1799.github.io/Data_studio_story1/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|request failed|request failed|request failed|
+|[Essential_Grocery_Prices_around_Columbia_University/index.html](https://vivek1799.github.io/Essential_Grocery_Prices_around_Columbia_University/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/vivek1799.github.io/Essential_Grocery_Prices_around_Columbia_University_index.html-mobile-thumb.jpg)](screenshots/vivek1799.github.io/Essential_Grocery_Prices_around_Columbia_University_index.html-mobile-full.jpg)|[![medium](screenshots/vivek1799.github.io/Essential_Grocery_Prices_around_Columbia_University_index.html-medium-thumb.jpg)](screenshots/vivek1799.github.io/Essential_Grocery_Prices_around_Columbia_University_index.html-medium-full.jpg)|[![wide](screenshots/vivek1799.github.io/Essential_Grocery_Prices_around_Columbia_University_index.html-wide-thumb.jpg)](screenshots/vivek1799.github.io/Essential_Grocery_Prices_around_Columbia_University_index.html-wide-full.jpg)|
 
 
 ### Automatic Checks
@@ -486,13 +492,12 @@ No issues found! 🎉
 
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
-**https://vivek1799.github.io/Data_studio_story1/**
+**https://vivek1799.github.io/Essential_Grocery_Prices_around_Columbia_University/**
 
-* **Could not access the page** - if you moved it, let me know!
+* Needs a title, add a `<title>` tag to the `<head>`
 * Change URL to use `-` instead of spaces or underscores
 * Change URL to be all in lowercase
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 
 
