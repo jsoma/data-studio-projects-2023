@@ -1,5 +1,5 @@
 https://abbaamos.github.io/Amos-website/
-https://ahanpenkar.github.io/my_website/personal_website.html
+https://ahanpenkar.github.io/
 https://ahanpenkar.github.io/my-dosa-project/
 https://evawqh.github.io/
 https://evawqh.github.io/asylum-appeal-approval-rate/
@@ -9,7 +9,8 @@ https://itsliuhongyu.github.io/1_Subway_change/
 https://ivynyayieka.github.io/data_journ_website/
 https://ivynyayieka.github.io/nairobi_sunshine
 https://ivynyayieka.github.io/nairobi_sunshine/
-https://jakeneenan.github.io/website/
+https://jakeneenan.github.io/
+https://jakeneenan.github.io/bpd_project/
 https://juhanarossi.github.io/
 https://juhanarossi.github.io/BBC-film-map/
 https://juhanarossi.github.io/PANYNJ-airport-stat-scrape/
