@@ -456,12 +456,6 @@ No issues found! 🎉
 
 **https://shalakas.github.io/rice-project/**
 
-* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-    * Image `paddy.jpg` missing `alt` tag
-    * Image `corn.jpg` missing `alt` tag
-    * Image `rice.jpg` missing `alt` tag
-    * Image `wheat.jpg` missing `alt` tag
-* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 
