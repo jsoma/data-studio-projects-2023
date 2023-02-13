@@ -198,8 +198,8 @@ No issues found! 🎉
 |url|mobile|medium|wide|
 |---|---|---|---|
 |[Juhana Rossi's Portfolio](https://juhanarossi.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/juhanarossi.github.io/index.html-mobile-thumb.jpg)](screenshots/juhanarossi.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/juhanarossi.github.io/index.html-medium-thumb.jpg)](screenshots/juhanarossi.github.io/index.html-medium-full.jpg)|[![wide](screenshots/juhanarossi.github.io/index.html-wide-thumb.jpg)](screenshots/juhanarossi.github.io/index.html-wide-full.jpg)|
-|[Where Did Critics' Favorite Films Come From?](https://juhanarossi.github.io/BBC-film-map/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/juhanarossi.github.io/BBC-film-map_index.html-mobile-thumb.jpg)](screenshots/juhanarossi.github.io/BBC-film-map_index.html-mobile-full.jpg)|[![medium](screenshots/juhanarossi.github.io/BBC-film-map_index.html-medium-thumb.jpg)](screenshots/juhanarossi.github.io/BBC-film-map_index.html-medium-full.jpg)|[![wide](screenshots/juhanarossi.github.io/BBC-film-map_index.html-wide-thumb.jpg)](screenshots/juhanarossi.github.io/BBC-film-map_index.html-wide-full.jpg)|
-|[Traffic at HEL languishes while at JFK it soars](https://juhanarossi.github.io/PANYNJ-airport-stat-scrape/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/juhanarossi.github.io/PANYNJ-airport-stat-scrape_index.html-mobile-thumb.jpg)](screenshots/juhanarossi.github.io/PANYNJ-airport-stat-scrape_index.html-mobile-full.jpg)|[![medium](screenshots/juhanarossi.github.io/PANYNJ-airport-stat-scrape_index.html-medium-thumb.jpg)](screenshots/juhanarossi.github.io/PANYNJ-airport-stat-scrape_index.html-medium-full.jpg)|[![wide](screenshots/juhanarossi.github.io/PANYNJ-airport-stat-scrape_index.html-wide-thumb.jpg)](screenshots/juhanarossi.github.io/PANYNJ-airport-stat-scrape_index.html-wide-full.jpg)|
+|[Page not found · GitHub Pages](https://juhanarossi.github.io/BBC-film-map/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|request failed|request failed|request failed|
+|[Page not found · GitHub Pages](https://juhanarossi.github.io/PANYNJ-airport-stat-scrape/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|request failed|request failed|request failed|
 
 
 ### Automatic Checks
@@ -213,14 +213,17 @@ No issues found! 🎉
 
 **https://juhanarossi.github.io/BBC-film-map/**
 
-* Add a link to your project's GitHub repo, so people can review your code
-* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-    * Image `DuckYouSucker.PNG` missing `alt` tag
+* **Could not access the page** - if you moved it, let me know!
 * Change URL to be all in lowercase
+* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://juhanarossi.github.io/PANYNJ-airport-stat-scrape/**
 
+* **Could not access the page** - if you moved it, let me know!
 * Change URL to be all in lowercase
+* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 
 
