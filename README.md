@@ -459,7 +459,7 @@ No issues found! 🎉
 
 **https://shalakas.github.io/rice-project/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
+No issues found! 🎉
 
 
 
