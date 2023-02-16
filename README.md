@@ -233,7 +233,7 @@ No issues found! 🎉
 |url|mobile|medium|wide|
 |---|---|---|---|
 |[June Kim](https://junekim6.github.io)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/junekim6.github.io/index.html-mobile-thumb.jpg)](screenshots/junekim6.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/junekim6.github.io/index.html-medium-thumb.jpg)](screenshots/junekim6.github.io/index.html-medium-full.jpg)|[![wide](screenshots/junekim6.github.io/index.html-wide-thumb.jpg)](screenshots/junekim6.github.io/index.html-wide-full.jpg)|
-|[south korea emergy permitting](https://junekim6.github.io/korec_energy_permitting/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/junekim6.github.io/korec_energy_permitting_index.html-mobile-thumb.jpg)](screenshots/junekim6.github.io/korec_energy_permitting_index.html-mobile-full.jpg)|[![medium](screenshots/junekim6.github.io/korec_energy_permitting_index.html-medium-thumb.jpg)](screenshots/junekim6.github.io/korec_energy_permitting_index.html-medium-full.jpg)|[![wide](screenshots/junekim6.github.io/korec_energy_permitting_index.html-wide-thumb.jpg)](screenshots/junekim6.github.io/korec_energy_permitting_index.html-wide-full.jpg)|
+|[south korea energy permitting](https://junekim6.github.io/korec_energy_permitting/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/junekim6.github.io/korec_energy_permitting_index.html-mobile-thumb.jpg)](screenshots/junekim6.github.io/korec_energy_permitting_index.html-mobile-full.jpg)|[![medium](screenshots/junekim6.github.io/korec_energy_permitting_index.html-medium-thumb.jpg)](screenshots/junekim6.github.io/korec_energy_permitting_index.html-medium-full.jpg)|[![wide](screenshots/junekim6.github.io/korec_energy_permitting_index.html-wide-thumb.jpg)](screenshots/junekim6.github.io/korec_energy_permitting_index.html-wide-full.jpg)|
 |[Seoul Forest](https://junekim6.github.io/seoul-forest-loss/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/junekim6.github.io/seoul-forest-loss_index.html-mobile-thumb.jpg)](screenshots/junekim6.github.io/seoul-forest-loss_index.html-mobile-full.jpg)|[![medium](screenshots/junekim6.github.io/seoul-forest-loss_index.html-medium-thumb.jpg)](screenshots/junekim6.github.io/seoul-forest-loss_index.html-medium-full.jpg)|[![wide](screenshots/junekim6.github.io/seoul-forest-loss_index.html-wide-thumb.jpg)](screenshots/junekim6.github.io/seoul-forest-loss_index.html-wide-full.jpg)|
 
 
@@ -251,9 +251,9 @@ No issues found! 🎉
 
 **https://junekim6.github.io/korec_energy_permitting/**
 
-* Add a link to your project's GitHub repo, so people can review your code
+* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+    * Image `wind.jpeg` missing `alt` tag
 * Change URL to use `-` instead of spaces or underscores
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://junekim6.github.io/seoul-forest-loss/**
 
