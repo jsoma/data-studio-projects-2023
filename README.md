@@ -182,6 +182,7 @@ No issues found! 🎉
     * Image `globeprisons.png` missing `alt` tag
     * Image `databases.png` missing `alt` tag
     * Image `bpd.png` missing `alt` tag
+    * Image `bogs.png` missing `alt` tag
     * Image `newton.png` missing `alt` tag
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
@@ -209,6 +210,7 @@ No issues found! 🎉
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
     * Image `images/Ice-Cream-Truck2.jpg` missing `alt` tag
     * Image `images/HelsinkiAirport.jpg` missing `alt` tag
+    * Image `images/SmallRunway.JPG` missing `alt` tag
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://juhanarossi.github.io/BBC-film-map/**
@@ -262,11 +264,11 @@ No issues found! 🎉
    * Text `:` overlaps with `Source` at screen width 400
    * Text `:` overlaps with `Korea Forest Service` at screen width 400
    * Text `Source` overlaps with `Korea Forest Service` at screen width 400
-   * Text `area. This is equivalent to` overlaps with `16 times` at screen width 900
-   * Text `16 times` overlaps with `the size of` at screen width 900
-   * Text `Source` overlaps with `:` at screen width 900
+   * Text `:` overlaps with `Source` at screen width 900
+   * Text `:` overlaps with `Korea Forest Service` at screen width 900
    * Text `Source` overlaps with `Korea Forest Service` at screen width 900
-   * *and 6 more*
+   * Text `area. This is equivalent to` overlaps with `16 times` at screen width 1300
+   * *and 4 more*
 
 
 
@@ -407,10 +409,11 @@ No issues found! 🎉
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
     * Image `Images/rp_icon.png` missing `alt` tag
     * Image `Images/goingtomalaysia.gif` missing `alt` tag
+    * Image `Images/ceocompensation.jpg` missing `alt` tag
     * Image `Images/workplacedeaths.gif` missing `alt` tag
     * Image `Images/trucks-getty.jpg` missing `alt` tag
-    * Image `Images/Phua-Amazon 101722.jpeg` missing `alt` tag
-    * *and 30 more*
+    * *and 31 more*
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://rachel-el-p.github.io/crossing-into-msia/**
 
