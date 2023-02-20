@@ -59,6 +59,7 @@ Quick checks to make sure our pages are looking their best.
 
 **https://ahanpenkar.github.io/**
 
+* Add a link to your project's GitHub repo, so people can review your code
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
     * Image `./images/manifesto.png` missing `alt` tag
     * Image `https://caravan-b.storage.googleapis.com/interactives/maps/countries-visited/usa.jpg?v=1.4` missing `alt` tag
@@ -249,7 +250,7 @@ No issues found! 🎉
     * Image `twitter.png` missing `alt` tag
     * Image `mail.png` missing `alt` tag
     * Image `github.png` missing `alt` tag
-    * *and 9 more*
+    * *and 10 more*
 
 **https://junekim6.github.io/korec_energy_permitting/**
 
@@ -264,11 +265,11 @@ No issues found! 🎉
    * Text `:` overlaps with `Source` at screen width 400
    * Text `:` overlaps with `Korea Forest Service` at screen width 400
    * Text `Source` overlaps with `Korea Forest Service` at screen width 400
-   * Text `:` overlaps with `Source` at screen width 900
-   * Text `:` overlaps with `Korea Forest Service` at screen width 900
+   * Text `area. This is equivalent to` overlaps with `16 times` at screen width 900
+   * Text `16 times` overlaps with `the size of` at screen width 900
+   * Text `Source` overlaps with `:` at screen width 900
    * Text `Source` overlaps with `Korea Forest Service` at screen width 900
-   * Text `area. This is equivalent to` overlaps with `16 times` at screen width 1300
-   * *and 4 more*
+   * *and 6 more*
 
 
 
@@ -449,10 +450,7 @@ No issues found! 🎉
 
 **https://shalakas.github.io/**
 
-* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-    * Image `https://images.hindustantimes.com/img/2021/06/13/550x309/e2906a1c-cc38-11eb-b0cf-a00e9b339624_1623583174887.jpg` missing `alt` tag
-    * Image `https://images.hindustantimes.com/rf/image_size_630x354/HT/p2/2017/11/10/Pictures/h-t-aniket-kothale-s-story_effe1372-c640-11e7-a37e-1053cac6ca52.JPG` missing `alt` tag
-    * Image `https://pbs.twimg.com/media/ECeILTxUwAUxlp5?format=jpg&name=medium` missing `alt` tag
+No issues found! 🎉
 
 **https://shalakas.github.io/CJS_Project/**
 
