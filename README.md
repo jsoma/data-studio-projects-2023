@@ -268,8 +268,8 @@ No issues found! 🎉
    * Text `:` overlaps with `Source` at screen width 900
    * Text `:` overlaps with `Korea Forest Service` at screen width 900
    * Text `Source` overlaps with `Korea Forest Service` at screen width 900
-   * Text `:` overlaps with `Source` at screen width 1300
-   * *and 2 more*
+   * Text `area. This is equivalent to` overlaps with `16 times` at screen width 1300
+   * *and 4 more*
 
 
 
