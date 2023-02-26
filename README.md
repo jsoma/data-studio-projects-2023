@@ -312,7 +312,7 @@ No issues found! 🎉
     * Image `twitter.png` missing `alt` tag
     * Image `mail.png` missing `alt` tag
     * Image `github.png` missing `alt` tag
-    * *and 10 more*
+    * *and 11 more*
 
 **https://junekim6.github.io/heat-pump-nyc/**
 
