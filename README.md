@@ -340,8 +340,8 @@ No issues found! 🎉
    * Text `:` overlaps with `Source` at screen width 900
    * Text `:` overlaps with `Korea Forest Service` at screen width 900
    * Text `Source` overlaps with `Korea Forest Service` at screen width 900
-   * Text `area. This is equivalent to` overlaps with `16 times` at screen width 1300
-   * *and 4 more*
+   * Text `:` overlaps with `Source` at screen width 1300
+   * *and 2 more*
 
 
 
@@ -434,6 +434,7 @@ No issues found! 🎉
 
 **https://laurabejder.com/knitting/**
 
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `158` is too small at 10px
     * Text `Cannular or` is too small at 7px
