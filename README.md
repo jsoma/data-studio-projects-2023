@@ -270,6 +270,7 @@ No issues found! 🎉
     * Image `images/Ice-Cream-Truck2.jpg` missing `alt` tag
     * Image `images/HelsinkiAirport.jpg` missing `alt` tag
     * Image `images/SmallRunway.JPG` missing `alt` tag
+    * Image `images/sunset.JPG` missing `alt` tag
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://juhanarossi.github.io/BBC-film-map/**
@@ -300,7 +301,7 @@ No issues found! 🎉
 |[June Kim](https://junekim6.github.io)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/junekim6.github.io/index.html-mobile-thumb.jpg)](screenshots/junekim6.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/junekim6.github.io/index.html-medium-thumb.jpg)](screenshots/junekim6.github.io/index.html-medium-full.jpg)|[![wide](screenshots/junekim6.github.io/index.html-wide-thumb.jpg)](screenshots/junekim6.github.io/index.html-wide-full.jpg)|
 |[heat-pump-nyc](https://junekim6.github.io/heat-pump-nyc/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/junekim6.github.io/heat-pump-nyc_index.html-mobile-thumb.jpg)](screenshots/junekim6.github.io/heat-pump-nyc_index.html-mobile-full.jpg)|[![medium](screenshots/junekim6.github.io/heat-pump-nyc_index.html-medium-thumb.jpg)](screenshots/junekim6.github.io/heat-pump-nyc_index.html-medium-full.jpg)|[![wide](screenshots/junekim6.github.io/heat-pump-nyc_index.html-wide-thumb.jpg)](screenshots/junekim6.github.io/heat-pump-nyc_index.html-wide-full.jpg)|
 |[south korea energy permitting](https://junekim6.github.io/korec_energy_permitting/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/junekim6.github.io/korec_energy_permitting_index.html-mobile-thumb.jpg)](screenshots/junekim6.github.io/korec_energy_permitting_index.html-mobile-full.jpg)|[![medium](screenshots/junekim6.github.io/korec_energy_permitting_index.html-medium-thumb.jpg)](screenshots/junekim6.github.io/korec_energy_permitting_index.html-medium-full.jpg)|[![wide](screenshots/junekim6.github.io/korec_energy_permitting_index.html-wide-thumb.jpg)](screenshots/junekim6.github.io/korec_energy_permitting_index.html-wide-full.jpg)|
-|[Seoul Forest](https://junekim6.github.io/seoul-forest-loss/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/junekim6.github.io/seoul-forest-loss_index.html-mobile-thumb.jpg)](screenshots/junekim6.github.io/seoul-forest-loss_index.html-mobile-full.jpg)|[![medium](screenshots/junekim6.github.io/seoul-forest-loss_index.html-medium-thumb.jpg)](screenshots/junekim6.github.io/seoul-forest-loss_index.html-medium-full.jpg)|[![wide](screenshots/junekim6.github.io/seoul-forest-loss_index.html-wide-thumb.jpg)](screenshots/junekim6.github.io/seoul-forest-loss_index.html-wide-full.jpg)|
+|[Seoul Forest](https://junekim6.github.io/seoul-forest-loss/)|[![mobile](screenshots/junekim6.github.io/seoul-forest-loss_index.html-mobile-thumb.jpg)](screenshots/junekim6.github.io/seoul-forest-loss_index.html-mobile-full.jpg)|[![medium](screenshots/junekim6.github.io/seoul-forest-loss_index.html-medium-thumb.jpg)](screenshots/junekim6.github.io/seoul-forest-loss_index.html-medium-full.jpg)|[![wide](screenshots/junekim6.github.io/seoul-forest-loss_index.html-wide-thumb.jpg)](screenshots/junekim6.github.io/seoul-forest-loss_index.html-wide-full.jpg)|
 
 
 ### Automatic Checks
@@ -337,11 +338,11 @@ No issues found! 🎉
    * Text `:` overlaps with `Source` at screen width 400
    * Text `:` overlaps with `Korea Forest Service` at screen width 400
    * Text `Source` overlaps with `Korea Forest Service` at screen width 400
-   * Text `:` overlaps with `Source` at screen width 900
-   * Text `:` overlaps with `Korea Forest Service` at screen width 900
+   * Text `area. This is equivalent to` overlaps with `16 times` at screen width 900
+   * Text `16 times` overlaps with `the size of` at screen width 900
+   * Text `Source` overlaps with `:` at screen width 900
    * Text `Source` overlaps with `Korea Forest Service` at screen width 900
-   * Text `area. This is equivalent to` overlaps with `16 times` at screen width 1300
-   * *and 4 more*
+   * *and 6 more*
 
 
 
