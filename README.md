@@ -338,11 +338,11 @@ No issues found! 🎉
    * Text `:` overlaps with `Source` at screen width 400
    * Text `:` overlaps with `Korea Forest Service` at screen width 400
    * Text `Source` overlaps with `Korea Forest Service` at screen width 400
-   * Text `:` overlaps with `Source` at screen width 900
-   * Text `:` overlaps with `Korea Forest Service` at screen width 900
+   * Text `area. This is equivalent to` overlaps with `16 times` at screen width 900
+   * Text `16 times` overlaps with `the size of` at screen width 900
+   * Text `Source` overlaps with `:` at screen width 900
    * Text `Source` overlaps with `Korea Forest Service` at screen width 900
-   * Text `:` overlaps with `Source` at screen width 1300
-   * *and 2 more*
+   * *and 6 more*
 
 
 
@@ -552,11 +552,10 @@ No issues found! 🎉
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
     * Image `Images/rp_icon.png` missing `alt` tag
     * Image `Images/goingtomalaysia.gif` missing `alt` tag
-    * Image `Images/ceocompensation.jpg` missing `alt` tag
+    * Image `Images/ceo_compensation.png` missing `alt` tag
+    * Image `Images/eeoc_data.png` missing `alt` tag
     * Image `Images/workplacedeaths.gif` missing `alt` tag
-    * Image `Images/trucks-getty.jpg` missing `alt` tag
-    * *and 31 more*
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
+    * *and 32 more*
 
 **https://rachel-el-p.github.io/ceocompensation/**
 
