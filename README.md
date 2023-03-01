@@ -486,7 +486,7 @@ No issues found! 🎉
 |[Pooja Chaudhuri](https://poojachaudhuri.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/poojachaudhuri.github.io/index.html-mobile-thumb.jpg)](screenshots/poojachaudhuri.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/poojachaudhuri.github.io/index.html-medium-thumb.jpg)](screenshots/poojachaudhuri.github.io/index.html-medium-full.jpg)|[![wide](screenshots/poojachaudhuri.github.io/index.html-wide-thumb.jpg)](screenshots/poojachaudhuri.github.io/index.html-wide-full.jpg)|
 |[caa-fact-checks/index.html](https://poojachaudhuri.github.io/caa-fact-checks/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/poojachaudhuri.github.io/caa-fact-checks_index.html-mobile-thumb.jpg)](screenshots/poojachaudhuri.github.io/caa-fact-checks_index.html-mobile-full.jpg)|[![medium](screenshots/poojachaudhuri.github.io/caa-fact-checks_index.html-medium-thumb.jpg)](screenshots/poojachaudhuri.github.io/caa-fact-checks_index.html-medium-full.jpg)|[![wide](screenshots/poojachaudhuri.github.io/caa-fact-checks_index.html-wide-thumb.jpg)](screenshots/poojachaudhuri.github.io/caa-fact-checks_index.html-wide-full.jpg)|
 |[Gulab Jamuns in NYC](https://poojachaudhuri.github.io/gulab-jamun-in-nyc/)<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/poojachaudhuri.github.io/gulab-jamun-in-nyc_index.html-mobile-thumb.jpg)](screenshots/poojachaudhuri.github.io/gulab-jamun-in-nyc_index.html-mobile-full.jpg)|[![medium](screenshots/poojachaudhuri.github.io/gulab-jamun-in-nyc_index.html-medium-thumb.jpg)](screenshots/poojachaudhuri.github.io/gulab-jamun-in-nyc_index.html-medium-full.jpg)|[![wide](screenshots/poojachaudhuri.github.io/gulab-jamun-in-nyc_index.html-wide-thumb.jpg)](screenshots/poojachaudhuri.github.io/gulab-jamun-in-nyc_index.html-wide-full.jpg)|
-|[Mass shootings in the US has become more deadly in the past decade](https://poojachaudhuri.github.io/Project-2/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/poojachaudhuri.github.io/Project-2_index.html-mobile-thumb.jpg)](screenshots/poojachaudhuri.github.io/Project-2_index.html-mobile-full.jpg)|[![medium](screenshots/poojachaudhuri.github.io/Project-2_index.html-medium-thumb.jpg)](screenshots/poojachaudhuri.github.io/Project-2_index.html-medium-full.jpg)|[![wide](screenshots/poojachaudhuri.github.io/Project-2_index.html-wide-thumb.jpg)](screenshots/poojachaudhuri.github.io/Project-2_index.html-wide-full.jpg)|
+|[Page not found · GitHub Pages](https://poojachaudhuri.github.io/Project-2/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|request failed|request failed|request failed|
 
 
 ### Automatic Checks
@@ -510,27 +510,10 @@ No issues found! 🎉
 
 **https://poojachaudhuri.github.io/Project-2/**
 
+* **Could not access the page** - if you moved it, let me know!
 * Change URL to be all in lowercase
-* Minimum font size should be 12px, enlarge text in Illustrator
-    * Text `4000` is too small at 9px
-    * Text `Number of people killed or injured` is too small at 10px
-    * Text `3000` is too small at 9px
-    * Text `2000` is too small at 9px
-    * Text `1000` is too small at 9px
-    * Text `2014` is too small at 9px
-    * Text `2019` is too small at 9px
-    * *and 122 more*
-* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `in the US` overlaps with `For the purpose of this chart, mass shooting has been defined as an incident where four` at screen width 400
-   * Text `Spike due to 2017 Las Vegas shooting` overlaps with `where 59 were killed, 441 injured` at screen width 400
-   * Text `2014` overlaps with `2015` at screen width 400
-   * Text `2019` overlaps with `2020` at screen width 400
-   * Text `2019` overlaps with `2018` at screen width 400
-   * Text `2020` overlaps with `2021` at screen width 400
-   * Text `2021` overlaps with `2022` at screen width 400
-   * *and 31 more*
-* Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
-    * `Georgia` font not found, used in 136 text objects. Example: _Mass shootings have become more deadly in the last decade, in the US, For the purpose of this chart, mass shooting has been defined as an incident where four_
+* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 
 
