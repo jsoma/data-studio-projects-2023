@@ -437,7 +437,7 @@ No issues found! 🎉
 
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `158` is too small at 10px
-    * Text `Cannular or ` is too small at 7px
+    * Text `Cannular or` is too small at 7px
     * Text `IV protection` is too small at 7px
     * Text `58` is too small at 5px
     * Text `Heating or` is too small at 8px
@@ -553,7 +553,7 @@ No issues found! 🎉
     * Image `Images/rp_icon.png` missing `alt` tag
     * Image `Images/goingtomalaysia.gif` missing `alt` tag
     * Image `Images/ceo_compensation.png` missing `alt` tag
-    * Image `Images/eeoc_data.png` missing `alt` tag
+    * Image `Images/disability_workers.png` missing `alt` tag
     * Image `Images/workplacedeaths.gif` missing `alt` tag
     * *and 32 more*
 
