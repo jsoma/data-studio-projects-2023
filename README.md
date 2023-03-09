@@ -98,7 +98,6 @@ No issues found! 🎉
 
 **https://ahanpenkar.github.io/violence-against-christians/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `Has Anti Conversion` is too small at 10px
     * Text `Laws` is too small at 10px
@@ -113,8 +112,10 @@ No issues found! 🎉
    * Text `Uttar Pradesh has always been the most unsafe state for minorities` overlaps with `Uttar Pradesh has always been the most unsafe state for minorities` at screen width 400
    * Text `2021` overlaps with `2021` at screen width 400
    * Text `Madhya Pradesh and Chhattisgarh and Karnataka saw a nearly five-fold increase in violence` overlaps with `Madhya Pradesh and Chhattisgarh and Karnataka saw a nearly five-fold increase in violence` at screen width 400
+   * Text `2018` overlaps with `2018` at screen width 900
    * Text `Uttar Pradesh has always been the most unsafe state for minorities` overlaps with `Uttar Pradesh has always been the most unsafe state for minorities` at screen width 900
-   * Text `Uttar Pradesh has always been the most unsafe state for minorities` overlaps with `Uttar Pradesh has always been the most unsafe state for minorities` at screen width 1300
+   * Text `2021` overlaps with `2021` at screen width 900
+   * *and 2 more*
 
 
 
@@ -421,6 +422,7 @@ No issues found! 🎉
 
 **https://juhanarossi.github.io/helsinki-nyc-days/**
 
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
    * Text `9:20 am` overlaps with `5 h 56 min` at screen width 400
    * Text `5 h 56 min` overlaps with `3:16 pm` at screen width 400
@@ -506,11 +508,11 @@ No issues found! 🎉
    * Text `:` overlaps with `Source` at screen width 400
    * Text `:` overlaps with `Korea Forest Service` at screen width 400
    * Text `Source` overlaps with `Korea Forest Service` at screen width 400
-   * Text `area. This is equivalent to` overlaps with `16 times` at screen width 900
-   * Text `16 times` overlaps with `the size of` at screen width 900
-   * Text `Source` overlaps with `:` at screen width 900
+   * Text `:` overlaps with `Source` at screen width 900
+   * Text `:` overlaps with `Korea Forest Service` at screen width 900
    * Text `Source` overlaps with `Korea Forest Service` at screen width 900
-   * *and 6 more*
+   * Text `area. This is equivalent to` overlaps with `16 times` at screen width 1300
+   * *and 4 more*
 
 
 
@@ -863,6 +865,7 @@ No issues found! 🎉
     * Text `33 killed` is too small at 6px
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
    * Text `Q4 21` overlaps with `242` at screen width 400
+   * Text `26 killed` overlaps with `7 killed` at screen width 1300
 
 
 
