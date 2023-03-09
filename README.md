@@ -98,6 +98,7 @@ No issues found! 🎉
 
 **https://ahanpenkar.github.io/violence-against-christians/**
 
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `Has Anti Conversion` is too small at 10px
     * Text `Laws` is too small at 10px
@@ -112,10 +113,8 @@ No issues found! 🎉
    * Text `Uttar Pradesh has always been the most unsafe state for minorities` overlaps with `Uttar Pradesh has always been the most unsafe state for minorities` at screen width 400
    * Text `2021` overlaps with `2021` at screen width 400
    * Text `Madhya Pradesh and Chhattisgarh and Karnataka saw a nearly five-fold increase in violence` overlaps with `Madhya Pradesh and Chhattisgarh and Karnataka saw a nearly five-fold increase in violence` at screen width 400
-   * Text `2018` overlaps with `2018` at screen width 900
    * Text `Uttar Pradesh has always been the most unsafe state for minorities` overlaps with `Uttar Pradesh has always been the most unsafe state for minorities` at screen width 900
-   * Text `2021` overlaps with `2021` at screen width 900
-   * *and 2 more*
+   * Text `Uttar Pradesh has always been the most unsafe state for minorities` overlaps with `Uttar Pradesh has always been the most unsafe state for minorities` at screen width 1300
 
 
 
@@ -302,10 +301,38 @@ No issues found! 🎉
 **https://ivynyayieka.github.io/nairobi_sunshine**
 
 * Change URL to use `-` instead of spaces or underscores
+* Minimum font size should be 12px, enlarge text in Illustrator
+    * Text `10` is too small at 9px
+    * Text `5` is too small at 9px
+    * Text `Jan 2023` is too small at 9px
+    * Text `Apr 2023` is too small at 9px
+    * Text `Jul 2023` is too small at 9px
+    * Text `Oct 2023` is too small at 9px
+    * Text `Jan 2024` is too small at 9px
+    * *and 9 more*
+* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `Apr 2023` overlaps with `Jul 2023` at screen width 400
+   * Text `Jul 2023` overlaps with `Oct 2023` at screen width 400
+   * Text `Oct 2023` overlaps with `Jan 2024` at screen width 400
+   * Text `Jan 2024` overlaps with `Data: sunrise-and-sunset.com` at screen width 900
 
 **https://ivynyayieka.github.io/nairobi_sunshine/**
 
 * Change URL to use `-` instead of spaces or underscores
+* Minimum font size should be 12px, enlarge text in Illustrator
+    * Text `10` is too small at 9px
+    * Text `5` is too small at 9px
+    * Text `Jan 2023` is too small at 9px
+    * Text `Apr 2023` is too small at 9px
+    * Text `Jul 2023` is too small at 9px
+    * Text `Oct 2023` is too small at 9px
+    * Text `Jan 2024` is too small at 9px
+    * *and 9 more*
+* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `Apr 2023` overlaps with `Jul 2023` at screen width 400
+   * Text `Jul 2023` overlaps with `Oct 2023` at screen width 400
+   * Text `Oct 2023` overlaps with `Jan 2024` at screen width 400
+   * Text `Jan 2024` overlaps with `Data: sunrise-and-sunset.com` at screen width 900
 
 
 
@@ -394,7 +421,6 @@ No issues found! 🎉
 
 **https://juhanarossi.github.io/helsinki-nyc-days/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
    * Text `9:20 am` overlaps with `5 h 56 min` at screen width 400
    * Text `5 h 56 min` overlaps with `3:16 pm` at screen width 400
@@ -440,7 +466,7 @@ No issues found! 🎉
     * Image `twitter.png` missing `alt` tag
     * Image `mail.png` missing `alt` tag
     * Image `github.png` missing `alt` tag
-    * *and 11 more*
+    * *and 12 more*
 
 **https://junekim6.github.io/heat-pump-nyc/**
 
@@ -480,11 +506,11 @@ No issues found! 🎉
    * Text `:` overlaps with `Source` at screen width 400
    * Text `:` overlaps with `Korea Forest Service` at screen width 400
    * Text `Source` overlaps with `Korea Forest Service` at screen width 400
-   * Text `:` overlaps with `Source` at screen width 900
-   * Text `:` overlaps with `Korea Forest Service` at screen width 900
+   * Text `area. This is equivalent to` overlaps with `16 times` at screen width 900
+   * Text `16 times` overlaps with `the size of` at screen width 900
+   * Text `Source` overlaps with `:` at screen width 900
    * Text `Source` overlaps with `Korea Forest Service` at screen width 900
-   * Text `:` overlaps with `Source` at screen width 1300
-   * *and 2 more*
+   * *and 6 more*
 
 
 
@@ -549,15 +575,6 @@ No issues found! 🎉
 **https://kellywaldro.github.io/remittances/**
 
 * Add a link to your project's GitHub repo, so people can review your code
-* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `1990` overlaps with `1992` at screen width 900
-   * Text `1992` overlaps with `1994` at screen width 900
-   * Text `1994` overlaps with `1996` at screen width 900
-   * Text `1996` overlaps with `1998` at screen width 900
-   * Text `1998` overlaps with `2000` at screen width 900
-   * Text `2000` overlaps with `2002` at screen width 900
-   * Text `2002` overlaps with `2004` at screen width 900
-   * *and 23 more*
 
 
 
@@ -701,7 +718,6 @@ No issues found! 🎉
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
     * Image `images/month_year_image1.svg` missing `alt` tag
     * Image `images/month_year_image2.svg` missing `alt` tag
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `2000` is too small at 9px
     * Text `1500` is too small at 9px
