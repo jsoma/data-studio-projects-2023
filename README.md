@@ -113,7 +113,6 @@ No issues found! 🎉
    * Text `2021` overlaps with `2021` at screen width 400
    * Text `Madhya Pradesh and Chhattisgarh and Karnataka saw a nearly five-fold increase in violence` overlaps with `Madhya Pradesh and Chhattisgarh and Karnataka saw a nearly five-fold increase in violence` at screen width 400
    * Text `Uttar Pradesh has always been the most unsafe state for minorities` overlaps with `Uttar Pradesh has always been the most unsafe state for minorities` at screen width 900
-   * Text `Uttar Pradesh has always been the most unsafe state for minorities` overlaps with `Uttar Pradesh has always been the most unsafe state for minorities` at screen width 1300
 
 
 
@@ -574,15 +573,6 @@ No issues found! 🎉
 **https://kellywaldro.github.io/remittances/**
 
 * Add a link to your project's GitHub repo, so people can review your code
-* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `1990` overlaps with `1992` at screen width 900
-   * Text `1992` overlaps with `1994` at screen width 900
-   * Text `1994` overlaps with `1996` at screen width 900
-   * Text `1996` overlaps with `1998` at screen width 900
-   * Text `1998` overlaps with `2000` at screen width 900
-   * Text `2000` overlaps with `2002` at screen width 900
-   * Text `2002` overlaps with `2004` at screen width 900
-   * *and 23 more*
 
 
 
@@ -619,7 +609,7 @@ No issues found! 🎉
 
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `158` is too small at 10px
-    * Text `Cannular or` is too small at 7px
+    * Text `Cannular or ` is too small at 7px
     * Text `IV protection` is too small at 7px
     * Text `58` is too small at 5px
     * Text `Heating or` is too small at 8px
@@ -639,7 +629,7 @@ No issues found! 🎉
    * Text `O` overlaps with `S` at screen width 400
    * Text `O` overlaps with `N` at screen width 400
    * Text `S` overlaps with `A` at screen width 400
-   * *and 32 more*
+   * *and 19 more*
 
 
 
@@ -871,6 +861,7 @@ No issues found! 🎉
     * Text `33 killed` is too small at 6px
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
    * Text `Q4 21` overlaps with `242` at screen width 400
+   * Text `26 killed` overlaps with `7 killed` at screen width 1300
 
 
 
@@ -912,8 +903,8 @@ No issues found! 🎉
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `Product` is too small at 10px
-    * Text `1657` is too small at 9px
-    * Text `3227` is too small at 10px
+    * Text `1657 ` is too small at 9px
+    * Text `3227 ` is too small at 10px
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
    * Text `Marketing` overlaps with `Product` at screen width 400
    * Text `Marketing` overlaps with `1657` at screen width 400
@@ -922,7 +913,7 @@ No issues found! 🎉
    * Text `Product` overlaps with `1657` at screen width 400
    * Text `Founders` overlaps with `5291` at screen width 400
    * Text `Engineers` overlaps with `13960 jobs` at screen width 400
-   * *and 4 more*
+   * *and 5 more*
 
 
 
@@ -1049,7 +1040,7 @@ No issues found! 🎉
    * Text `Chemicals` overlaps with `Plastic products` at screen width 400
    * Text `9 million` overlaps with `Textile products` at screen width 400
    * Text `9 million` overlaps with `dollars` at screen width 400
-   * *and 46 more*
+   * *and 56 more*
 
 **https://yong-xiong.github.io/peoples-daily-natural-gas-complaints/**
 
