@@ -98,7 +98,6 @@ No issues found! 🎉
 
 **https://ahanpenkar.github.io/violence-against-christians/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `Has Anti Conversion` is too small at 10px
     * Text `Laws` is too small at 10px
@@ -316,7 +315,11 @@ No issues found! 🎉
    * Text `Apr 2023` overlaps with `Jul 2023` at screen width 400
    * Text `Jul 2023` overlaps with `Oct 2023` at screen width 400
    * Text `Oct 2023` overlaps with `Jan 2024` at screen width 400
-   * Text `Jan 2024` overlaps with `Data: sunrise-and-sunset.com` at screen width 900
+   * Text `21st, June 2023` overlaps with `21st, December 2023` at screen width 400
+   * Text `21st, June 2023` overlaps with `nassau` at screen width 400
+   * Text `21st, June 2023` overlaps with `nouadhibou` at screen width 400
+   * Text `21st, June 2023` overlaps with `nouakchott` at screen width 400
+   * *and 51 more*
 
 **https://ivynyayieka.github.io/nairobi_sunshine/**
 
@@ -334,7 +337,11 @@ No issues found! 🎉
    * Text `Apr 2023` overlaps with `Jul 2023` at screen width 400
    * Text `Jul 2023` overlaps with `Oct 2023` at screen width 400
    * Text `Oct 2023` overlaps with `Jan 2024` at screen width 400
-   * Text `Jan 2024` overlaps with `Data: sunrise-and-sunset.com` at screen width 900
+   * Text `21st, June 2023` overlaps with `21st, December 2023` at screen width 400
+   * Text `21st, June 2023` overlaps with `nassau` at screen width 400
+   * Text `21st, June 2023` overlaps with `nouadhibou` at screen width 400
+   * Text `21st, June 2023` overlaps with `nouakchott` at screen width 400
+   * *and 51 more*
 
 
 
@@ -577,6 +584,15 @@ No issues found! 🎉
 **https://kellywaldro.github.io/remittances/**
 
 * Add a link to your project's GitHub repo, so people can review your code
+* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `1990` overlaps with `1992` at screen width 1300
+   * Text `1992` overlaps with `1994` at screen width 1300
+   * Text `1994` overlaps with `1996` at screen width 1300
+   * Text `1996` overlaps with `1998` at screen width 1300
+   * Text `1998` overlaps with `2000` at screen width 1300
+   * Text `2000` overlaps with `2002` at screen width 1300
+   * Text `2002` overlaps with `2004` at screen width 1300
+   * *and 8 more*
 
 
 
