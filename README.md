@@ -112,8 +112,10 @@ No issues found! 🎉
    * Text `Uttar Pradesh has always been the most unsafe state for minorities` overlaps with `Uttar Pradesh has always been the most unsafe state for minorities` at screen width 400
    * Text `2021` overlaps with `2021` at screen width 400
    * Text `Madhya Pradesh and Chhattisgarh and Karnataka saw a nearly five-fold increase in violence` overlaps with `Madhya Pradesh and Chhattisgarh and Karnataka saw a nearly five-fold increase in violence` at screen width 400
+   * Text `2018` overlaps with `2018` at screen width 900
    * Text `Uttar Pradesh has always been the most unsafe state for minorities` overlaps with `Uttar Pradesh has always been the most unsafe state for minorities` at screen width 900
-   * Text `Uttar Pradesh has always been the most unsafe state for minorities` overlaps with `Uttar Pradesh has always been the most unsafe state for minorities` at screen width 1300
+   * Text `2021` overlaps with `2021` at screen width 900
+   * *and 2 more*
 
 
 
@@ -624,6 +626,7 @@ No issues found! 🎉
 
 **https://laurabejder.com/knitting/**
 
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `158` is too small at 10px
     * Text `Cannular or` is too small at 7px
@@ -636,9 +639,17 @@ No issues found! 🎉
 
 **https://laurabejder.com/rain/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `20` is too small at 10px
+* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `+50 mm` overlaps with `+100 mm` at screen width 400
+   * Text `+15 mm` overlaps with `+25 mm` at screen width 400
+   * Text `J` overlaps with `M` at screen width 400
+   * Text `J` overlaps with `J` at screen width 400
+   * Text `O` overlaps with `S` at screen width 400
+   * Text `O` overlaps with `N` at screen width 400
+   * Text `S` overlaps with `A` at screen width 400
+   * *and 19 more*
 
 
 
@@ -921,7 +932,7 @@ No issues found! 🎉
    * Text `Product` overlaps with `1657` at screen width 400
    * Text `Founders` overlaps with `5291` at screen width 400
    * Text `Engineers` overlaps with `13960 jobs` at screen width 400
-   * *and 5 more*
+   * *and 4 more*
 
 
 
@@ -1048,7 +1059,7 @@ No issues found! 🎉
    * Text `Chemicals` overlaps with `Plastic products` at screen width 400
    * Text `9 million` overlaps with `Textile products` at screen width 400
    * Text `9 million` overlaps with `dollars` at screen width 400
-   * *and 46 more*
+   * *and 56 more*
 
 **https://yong-xiong.github.io/peoples-daily-natural-gas-complaints/**
 
