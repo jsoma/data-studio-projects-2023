@@ -112,10 +112,8 @@ No issues found! 🎉
    * Text `Uttar Pradesh has always been the most unsafe state for minorities` overlaps with `Uttar Pradesh has always been the most unsafe state for minorities` at screen width 400
    * Text `2021` overlaps with `2021` at screen width 400
    * Text `Madhya Pradesh and Chhattisgarh and Karnataka saw a nearly five-fold increase in violence` overlaps with `Madhya Pradesh and Chhattisgarh and Karnataka saw a nearly five-fold increase in violence` at screen width 400
-   * Text `2018` overlaps with `2018` at screen width 900
    * Text `Uttar Pradesh has always been the most unsafe state for minorities` overlaps with `Uttar Pradesh has always been the most unsafe state for minorities` at screen width 900
-   * Text `2021` overlaps with `2021` at screen width 900
-   * *and 5 more*
+   * Text `Uttar Pradesh has always been the most unsafe state for minorities` overlaps with `Uttar Pradesh has always been the most unsafe state for minorities` at screen width 1300
 
 
 
@@ -385,7 +383,6 @@ No issues found! 🎉
     * Image `single_wave.gif` missing `alt` tag
     * Image `single_slit.gif` missing `alt` tag
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `Slits are 2 micrometers wide and 10 micrometers apart. Sensor is 200 micrometers away.` is too small at 10px
     * Text `More light` is too small at 8px
@@ -584,15 +581,16 @@ No issues found! 🎉
 **https://kellywaldro.github.io/remittances/**
 
 * Add a link to your project's GitHub repo, so people can review your code
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `1990` overlaps with `1992` at screen width 1300
-   * Text `1992` overlaps with `1994` at screen width 1300
-   * Text `1994` overlaps with `1996` at screen width 1300
-   * Text `1996` overlaps with `1998` at screen width 1300
-   * Text `1998` overlaps with `2000` at screen width 1300
-   * Text `2000` overlaps with `2002` at screen width 1300
-   * Text `2002` overlaps with `2004` at screen width 1300
-   * *and 8 more*
+   * Text `1990` overlaps with `1992` at screen width 400
+   * Text `1992` overlaps with `1994` at screen width 400
+   * Text `1994` overlaps with `1996` at screen width 400
+   * Text `1996` overlaps with `1998` at screen width 400
+   * Text `1998` overlaps with `2000` at screen width 400
+   * Text `2000` overlaps with `2002` at screen width 400
+   * Text `2002` overlaps with `2004` at screen width 400
+   * *and 38 more*
 
 
 
@@ -642,6 +640,15 @@ No issues found! 🎉
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `20` is too small at 10px
+* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `+50 mm` overlaps with `+100 mm` at screen width 400
+   * Text `+15 mm` overlaps with `+25 mm` at screen width 400
+   * Text `J` overlaps with `M` at screen width 400
+   * Text `J` overlaps with `J` at screen width 400
+   * Text `O` overlaps with `S` at screen width 400
+   * Text `O` overlaps with `N` at screen width 400
+   * Text `S` overlaps with `A` at screen width 400
+   * *and 6 more*
 
 
 
@@ -1049,7 +1056,7 @@ No issues found! 🎉
    * Text `Chemicals` overlaps with `Plastic products` at screen width 400
    * Text `9 million` overlaps with `Textile products` at screen width 400
    * Text `9 million` overlaps with `dollars` at screen width 400
-   * *and 66 more*
+   * *and 46 more*
 
 **https://yong-xiong.github.io/peoples-daily-natural-gas-complaints/**
 
