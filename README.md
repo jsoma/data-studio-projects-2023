@@ -112,10 +112,8 @@ No issues found! 🎉
    * Text `Uttar Pradesh has always been the most unsafe state for minorities` overlaps with `Uttar Pradesh has always been the most unsafe state for minorities` at screen width 400
    * Text `2021` overlaps with `2021` at screen width 400
    * Text `Madhya Pradesh and Chhattisgarh and Karnataka saw a nearly five-fold increase in violence` overlaps with `Madhya Pradesh and Chhattisgarh and Karnataka saw a nearly five-fold increase in violence` at screen width 400
-   * Text `2018` overlaps with `2018` at screen width 900
    * Text `Uttar Pradesh has always been the most unsafe state for minorities` overlaps with `Uttar Pradesh has always been the most unsafe state for minorities` at screen width 900
-   * Text `2021` overlaps with `2021` at screen width 900
-   * *and 5 more*
+   * Text `Uttar Pradesh has always been the most unsafe state for minorities` overlaps with `Uttar Pradesh has always been the most unsafe state for minorities` at screen width 1300
 
 
 
@@ -474,7 +472,7 @@ No issues found! 🎉
     * Image `twitter.png` missing `alt` tag
     * Image `mail.png` missing `alt` tag
     * Image `github.png` missing `alt` tag
-    * *and 13 more*
+    * *and 14 more*
 
 **https://junekim6.github.io/heat-pump-nyc/**
 
@@ -583,7 +581,6 @@ No issues found! 🎉
 **https://kellywaldro.github.io/remittances/**
 
 * Add a link to your project's GitHub repo, so people can review your code
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
    * Text `1990` overlaps with `1992` at screen width 1300
    * Text `1992` overlaps with `1994` at screen width 1300
@@ -649,7 +646,7 @@ No issues found! 🎉
    * Text `O` overlaps with `S` at screen width 400
    * Text `O` overlaps with `N` at screen width 400
    * Text `S` overlaps with `A` at screen width 400
-   * *and 6 more*
+   * *and 19 more*
 
 
 
@@ -879,7 +876,6 @@ No issues found! 🎉
     * Text `33 killed` is too small at 6px
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
    * Text `Q4 21` overlaps with `242` at screen width 400
-   * Text `26 killed` overlaps with `7 killed` at screen width 1300
 
 
 
@@ -919,16 +915,19 @@ No issues found! 🎉
 **https://shivanireddy13.github.io/project3/docs/**
 
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `Product` is too small at 10px
     * Text `1657 ` is too small at 9px
     * Text `3227 ` is too small at 10px
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `Marketing` overlaps with `Product` at screen width 900
-   * Text `Investors` overlaps with `7649` at screen width 900
-   * Text `Engineers` overlaps with `13960 jobs` at screen width 900
-   * Text `Marketing` overlaps with `Product` at screen width 1300
+   * Text `Marketing` overlaps with `Product` at screen width 400
+   * Text `Marketing` overlaps with `1657` at screen width 400
+   * Text `Marketing` overlaps with `3227` at screen width 400
+   * Text `Investors` overlaps with `7649` at screen width 400
+   * Text `Product` overlaps with `1657` at screen width 400
+   * Text `Founders` overlaps with `5291` at screen width 400
+   * Text `Engineers` overlaps with `13960 jobs` at screen width 400
+   * *and 5 more*
 
 
 
@@ -937,7 +936,7 @@ No issues found! 🎉
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[Vivek Patil](https://vivek1799.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/vivek1799.github.io/index.html-mobile-thumb.jpg)](screenshots/vivek1799.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/vivek1799.github.io/index.html-medium-thumb.jpg)](screenshots/vivek1799.github.io/index.html-medium-full.jpg)|[![wide](screenshots/vivek1799.github.io/index.html-wide-thumb.jpg)](screenshots/vivek1799.github.io/index.html-wide-full.jpg)|
+|[Vivek's Portfolio](https://vivek1799.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/vivek1799.github.io/index.html-mobile-thumb.jpg)](screenshots/vivek1799.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/vivek1799.github.io/index.html-medium-thumb.jpg)](screenshots/vivek1799.github.io/index.html-medium-full.jpg)|[![wide](screenshots/vivek1799.github.io/index.html-wide-thumb.jpg)](screenshots/vivek1799.github.io/index.html-wide-full.jpg)|
 |[Essential_Grocery_Prices_around_Columbia_University/index.html](https://vivek1799.github.io/Essential_Grocery_Prices_around_Columbia_University/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/vivek1799.github.io/Essential_Grocery_Prices_around_Columbia_University_index.html-mobile-thumb.jpg)](screenshots/vivek1799.github.io/Essential_Grocery_Prices_around_Columbia_University_index.html-mobile-full.jpg)|[![medium](screenshots/vivek1799.github.io/Essential_Grocery_Prices_around_Columbia_University_index.html-medium-thumb.jpg)](screenshots/vivek1799.github.io/Essential_Grocery_Prices_around_Columbia_University_index.html-medium-full.jpg)|[![wide](screenshots/vivek1799.github.io/Essential_Grocery_Prices_around_Columbia_University_index.html-wide-thumb.jpg)](screenshots/vivek1799.github.io/Essential_Grocery_Prices_around_Columbia_University_index.html-wide-full.jpg)|
 |[Financial-News-companies-scraped-for-tesla/index.html](https://vivek1799.github.io/Financial-News-companies-scraped-for-tesla/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/vivek1799.github.io/Financial-News-companies-scraped-for-tesla_index.html-mobile-thumb.jpg)](screenshots/vivek1799.github.io/Financial-News-companies-scraped-for-tesla_index.html-mobile-full.jpg)|[![medium](screenshots/vivek1799.github.io/Financial-News-companies-scraped-for-tesla_index.html-medium-thumb.jpg)](screenshots/vivek1799.github.io/Financial-News-companies-scraped-for-tesla_index.html-medium-full.jpg)|[![wide](screenshots/vivek1799.github.io/Financial-News-companies-scraped-for-tesla_index.html-wide-thumb.jpg)](screenshots/vivek1799.github.io/Financial-News-companies-scraped-for-tesla_index.html-wide-full.jpg)|
 |[Indian cities and Congestion](https://vivek1799.github.io/Indian-cities-congestion-problem/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/vivek1799.github.io/Indian-cities-congestion-problem_index.html-mobile-thumb.jpg)](screenshots/vivek1799.github.io/Indian-cities-congestion-problem_index.html-mobile-full.jpg)|[![medium](screenshots/vivek1799.github.io/Indian-cities-congestion-problem_index.html-medium-thumb.jpg)](screenshots/vivek1799.github.io/Indian-cities-congestion-problem_index.html-medium-full.jpg)|[![wide](screenshots/vivek1799.github.io/Indian-cities-congestion-problem_index.html-wide-thumb.jpg)](screenshots/vivek1799.github.io/Indian-cities-congestion-problem_index.html-wide-full.jpg)|
@@ -947,7 +946,7 @@ No issues found! 🎉
 
 **https://vivek1799.github.io/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
+No issues found! 🎉
 
 **https://vivek1799.github.io/Essential_Grocery_Prices_around_Columbia_University/**
 
@@ -1055,7 +1054,7 @@ No issues found! 🎉
    * Text `Chemicals` overlaps with `Plastic products` at screen width 400
    * Text `9 million` overlaps with `Textile products` at screen width 400
    * Text `9 million` overlaps with `dollars` at screen width 400
-   * *and 46 more*
+   * *and 66 more*
 
 **https://yong-xiong.github.io/peoples-daily-natural-gas-complaints/**
 
