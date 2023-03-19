@@ -112,8 +112,10 @@ No issues found! 🎉
    * Text `Uttar Pradesh has always been the most unsafe state for minorities` overlaps with `Uttar Pradesh has always been the most unsafe state for minorities` at screen width 400
    * Text `2021` overlaps with `2021` at screen width 400
    * Text `Madhya Pradesh and Chhattisgarh and Karnataka saw a nearly five-fold increase in violence` overlaps with `Madhya Pradesh and Chhattisgarh and Karnataka saw a nearly five-fold increase in violence` at screen width 400
+   * Text `2018` overlaps with `2018` at screen width 900
    * Text `Uttar Pradesh has always been the most unsafe state for minorities` overlaps with `Uttar Pradesh has always been the most unsafe state for minorities` at screen width 900
-   * Text `Uttar Pradesh has always been the most unsafe state for minorities` overlaps with `Uttar Pradesh has always been the most unsafe state for minorities` at screen width 1300
+   * Text `2021` overlaps with `2021` at screen width 900
+   * *and 5 more*
 
 
 
@@ -508,16 +510,15 @@ No issues found! 🎉
 
 **https://junekim6.github.io/seoul-forest-loss/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `area. This is equivalent to` overlaps with `16 times` at screen width 400
-   * Text `16 times` overlaps with `the size of` at screen width 400
-   * Text `Source` overlaps with `:` at screen width 400
-   * Text `Source` overlaps with `Korea Forest Service` at screen width 400
+   * Text `:` overlaps with `Source` at screen width 400
    * Text `:` overlaps with `Korea Forest Service` at screen width 400
+   * Text `Source` overlaps with `Korea Forest Service` at screen width 400
    * Text `area. This is equivalent to` overlaps with `16 times` at screen width 900
    * Text `16 times` overlaps with `the size of` at screen width 900
-   * *and 8 more*
+   * Text `Source` overlaps with `:` at screen width 900
+   * Text `Source` overlaps with `Korea Forest Service` at screen width 900
+   * *and 6 more*
 
 
 
@@ -582,16 +583,15 @@ No issues found! 🎉
 **https://kellywaldro.github.io/remittances/**
 
 * Add a link to your project's GitHub repo, so people can review your code
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `1990` overlaps with `1992` at screen width 400
-   * Text `1992` overlaps with `1994` at screen width 400
-   * Text `1994` overlaps with `1996` at screen width 400
-   * Text `1996` overlaps with `1998` at screen width 400
-   * Text `1998` overlaps with `2000` at screen width 400
-   * Text `2000` overlaps with `2002` at screen width 400
-   * Text `2002` overlaps with `2004` at screen width 400
-   * *and 23 more*
+   * Text `1990` overlaps with `1992` at screen width 1300
+   * Text `1992` overlaps with `1994` at screen width 1300
+   * Text `1994` overlaps with `1996` at screen width 1300
+   * Text `1996` overlaps with `1998` at screen width 1300
+   * Text `1998` overlaps with `2000` at screen width 1300
+   * Text `2000` overlaps with `2002` at screen width 1300
+   * Text `2002` overlaps with `2004` at screen width 1300
+   * *and 8 more*
 
 
 
@@ -638,6 +638,7 @@ No issues found! 🎉
 
 **https://laurabejder.com/rain/**
 
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `20` is too small at 10px
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
@@ -700,7 +701,7 @@ No issues found! 🎉
 |[Pooja Chaudhuri](https://poojachaudhuri.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/poojachaudhuri.github.io/index.html-mobile-thumb.jpg)](screenshots/poojachaudhuri.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/poojachaudhuri.github.io/index.html-medium-thumb.jpg)](screenshots/poojachaudhuri.github.io/index.html-medium-full.jpg)|[![wide](screenshots/poojachaudhuri.github.io/index.html-wide-thumb.jpg)](screenshots/poojachaudhuri.github.io/index.html-wide-full.jpg)|
 |[caa-fact-checks/index.html](https://poojachaudhuri.github.io/caa-fact-checks/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/poojachaudhuri.github.io/caa-fact-checks_index.html-mobile-thumb.jpg)](screenshots/poojachaudhuri.github.io/caa-fact-checks_index.html-mobile-full.jpg)|[![medium](screenshots/poojachaudhuri.github.io/caa-fact-checks_index.html-medium-thumb.jpg)](screenshots/poojachaudhuri.github.io/caa-fact-checks_index.html-medium-full.jpg)|[![wide](screenshots/poojachaudhuri.github.io/caa-fact-checks_index.html-wide-thumb.jpg)](screenshots/poojachaudhuri.github.io/caa-fact-checks_index.html-wide-full.jpg)|
 |[Gulab Jamuns in NYC](https://poojachaudhuri.github.io/gulab-jamun-in-nyc/)<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/poojachaudhuri.github.io/gulab-jamun-in-nyc_index.html-mobile-thumb.jpg)](screenshots/poojachaudhuri.github.io/gulab-jamun-in-nyc_index.html-mobile-full.jpg)|[![medium](screenshots/poojachaudhuri.github.io/gulab-jamun-in-nyc_index.html-medium-thumb.jpg)](screenshots/poojachaudhuri.github.io/gulab-jamun-in-nyc_index.html-medium-full.jpg)|[![wide](screenshots/poojachaudhuri.github.io/gulab-jamun-in-nyc_index.html-wide-thumb.jpg)](screenshots/poojachaudhuri.github.io/gulab-jamun-in-nyc_index.html-wide-full.jpg)|
-|[Page not found · GitHub Pages](https://poojachaudhuri.github.io/Project-2/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|request failed|request failed|request failed|
+|[Mass shootings in the US has become more deadly in the past decade](https://poojachaudhuri.github.io/project-2/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/poojachaudhuri.github.io/project-2_index.html-mobile-thumb.jpg)](screenshots/poojachaudhuri.github.io/project-2_index.html-mobile-full.jpg)|[![medium](screenshots/poojachaudhuri.github.io/project-2_index.html-medium-thumb.jpg)](screenshots/poojachaudhuri.github.io/project-2_index.html-medium-full.jpg)|[![wide](screenshots/poojachaudhuri.github.io/project-2_index.html-wide-thumb.jpg)](screenshots/poojachaudhuri.github.io/project-2_index.html-wide-full.jpg)|
 |[Roosters keep NYC 311 busy with "illegal pet" complaints](https://poojachaudhuri.github.io/project-3/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/poojachaudhuri.github.io/project-3_index.html-mobile-thumb.jpg)](screenshots/poojachaudhuri.github.io/project-3_index.html-mobile-full.jpg)|[![medium](screenshots/poojachaudhuri.github.io/project-3_index.html-medium-thumb.jpg)](screenshots/poojachaudhuri.github.io/project-3_index.html-medium-full.jpg)|[![wide](screenshots/poojachaudhuri.github.io/project-3_index.html-wide-thumb.jpg)](screenshots/poojachaudhuri.github.io/project-3_index.html-wide-full.jpg)|
 
 
@@ -723,12 +724,28 @@ No issues found! 🎉
 
 No issues found! 🎉
 
-**https://poojachaudhuri.github.io/Project-2/**
+**https://poojachaudhuri.github.io/project-2/**
 
-* **Could not access the page** - if you moved it, let me know!
-* Change URL to be all in lowercase
-* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
+* Minimum font size should be 12px, enlarge text in Illustrator
+    * Text `4000` is too small at 9px
+    * Text `Number of people killed or injured` is too small at 10px
+    * Text `3000` is too small at 9px
+    * Text `2000` is too small at 9px
+    * Text `1000` is too small at 9px
+    * Text `2014` is too small at 9px
+    * Text `2019` is too small at 9px
+    * *and 122 more*
+* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `in the US` overlaps with `For the purpose of this chart, mass shooting has been defined as an incident where four` at screen width 400
+   * Text `Spike due to 2017 Las Vegas shooting` overlaps with `where 59 were killed, 441 injured` at screen width 400
+   * Text `2014` overlaps with `2015` at screen width 400
+   * Text `2019` overlaps with `2020` at screen width 400
+   * Text `2019` overlaps with `2018` at screen width 400
+   * Text `2020` overlaps with `2021` at screen width 400
+   * Text `2021` overlaps with `2022` at screen width 400
+   * *and 31 more*
+* Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
+    * `Georgia` font not found, used in 136 text objects. Example: _Mass shootings have become more deadly in the last decade, in the US, For the purpose of this chart, mass shooting has been defined as an incident where four_
 
 **https://poojachaudhuri.github.io/project-3/**
 
@@ -918,19 +935,15 @@ No issues found! 🎉
 **https://shivanireddy13.github.io/project3/docs/**
 
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `Product` is too small at 10px
     * Text `1657 ` is too small at 9px
     * Text `3227 ` is too small at 10px
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `Marketing` overlaps with `Product` at screen width 400
-   * Text `Marketing` overlaps with `1657` at screen width 400
-   * Text `Marketing` overlaps with `3227` at screen width 400
-   * Text `Investors` overlaps with `7649` at screen width 400
-   * Text `Product` overlaps with `1657` at screen width 400
-   * Text `Founders` overlaps with `5291` at screen width 400
-   * Text `Engineers` overlaps with `13960 jobs` at screen width 400
-   * *and 4 more*
+   * Text `Marketing` overlaps with `Product` at screen width 900
+   * Text `Investors` overlaps with `7649` at screen width 900
+   * Text `Engineers` overlaps with `13960 jobs` at screen width 900
 
 
 
