@@ -403,7 +403,7 @@ No issues found! 🎉
 |[Juhana Rossi's Portfolio](https://juhanarossi.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/juhanarossi.github.io/index.html-mobile-thumb.jpg)](screenshots/juhanarossi.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/juhanarossi.github.io/index.html-medium-thumb.jpg)](screenshots/juhanarossi.github.io/index.html-medium-full.jpg)|[![wide](screenshots/juhanarossi.github.io/index.html-wide-thumb.jpg)](screenshots/juhanarossi.github.io/index.html-wide-full.jpg)|
 |[Page not found · GitHub Pages](https://juhanarossi.github.io/BBC-film-map/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|request failed|request failed|request failed|
 |[Change in Day Length](https://juhanarossi.github.io/helsinki-nyc-days/)|[![mobile](screenshots/juhanarossi.github.io/helsinki-nyc-days_index.html-mobile-thumb.jpg)](screenshots/juhanarossi.github.io/helsinki-nyc-days_index.html-mobile-full.jpg)|[![medium](screenshots/juhanarossi.github.io/helsinki-nyc-days_index.html-medium-thumb.jpg)](screenshots/juhanarossi.github.io/helsinki-nyc-days_index.html-medium-full.jpg)|[![wide](screenshots/juhanarossi.github.io/helsinki-nyc-days_index.html-wide-thumb.jpg)](screenshots/juhanarossi.github.io/helsinki-nyc-days_index.html-wide-full.jpg)|
-|[Long Runways at High Airports](https://juhanarossi.github.io/high_elevation_airports-runways/)|[![mobile](screenshots/juhanarossi.github.io/high_elevation_airports-runways_index.html-mobile-thumb.jpg)](screenshots/juhanarossi.github.io/high_elevation_airports-runways_index.html-mobile-full.jpg)|[![medium](screenshots/juhanarossi.github.io/high_elevation_airports-runways_index.html-medium-thumb.jpg)](screenshots/juhanarossi.github.io/high_elevation_airports-runways_index.html-medium-full.jpg)|[![wide](screenshots/juhanarossi.github.io/high_elevation_airports-runways_index.html-wide-thumb.jpg)](screenshots/juhanarossi.github.io/high_elevation_airports-runways_index.html-wide-full.jpg)|
+|[Page not found · GitHub Pages](https://juhanarossi.github.io/high_elevation_airports-runways/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|request failed|request failed|request failed|
 |[Page not found · GitHub Pages](https://juhanarossi.github.io/PANYNJ-airport-stat-scrape/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|request failed|request failed|request failed|
 
 
@@ -439,18 +439,10 @@ No issues found! 🎉
 
 **https://juhanarossi.github.io/high_elevation_airports-runways/**
 
-* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-    * Image `ay_A350.jpg` missing `alt` tag
+* **Could not access the page** - if you moved it, let me know!
 * Change URL to use `-` instead of spaces or underscores
-* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `Helsinki` overlaps with `Takeoff Run 6,043 ft.` at screen width 400
-   * Text `Helsinki` overlaps with `elev. 179 ft.` at screen width 400
-   * Text `Takeoff Run 6,043 ft.` overlaps with `Airport’s Longest Runway 11,483 ft.` at screen width 400
-   * Text `Takeoff Run 6,043 ft.` overlaps with `elev. 179 ft.` at screen width 400
-   * Text `Denver` overlaps with `Takeoff Run 9,954 ft.` at screen width 400
-   * Text `Denver` overlaps with `elev. 5140 ft.` at screen width 400
-   * Text `Takeoff Run 9,954 ft.` overlaps with `elev. 5140 ft.` at screen width 400
-   * *and 2 more*
+* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://juhanarossi.github.io/PANYNJ-airport-stat-scrape/**
 
@@ -635,6 +627,7 @@ No issues found! 🎉
 
 **https://laurabejder.com/knitting/**
 
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `158` is too small at 10px
     * Text `Cannular or` is too small at 7px
@@ -647,18 +640,17 @@ No issues found! 🎉
 
 **https://laurabejder.com/rain/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `20` is too small at 10px
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `+50 mm` overlaps with `+100 mm` at screen width 900
-   * Text `+15 mm` overlaps with `+25 mm` at screen width 900
-   * Text `J` overlaps with `M` at screen width 900
-   * Text `J` overlaps with `J` at screen width 900
-   * Text `O` overlaps with `S` at screen width 900
-   * Text `O` overlaps with `N` at screen width 900
-   * Text `S` overlaps with `A` at screen width 900
-   * *and 6 more*
+   * Text `+50 mm` overlaps with `+100 mm` at screen width 400
+   * Text `+15 mm` overlaps with `+25 mm` at screen width 400
+   * Text `J` overlaps with `M` at screen width 400
+   * Text `J` overlaps with `J` at screen width 400
+   * Text `O` overlaps with `S` at screen width 400
+   * Text `O` overlaps with `N` at screen width 400
+   * Text `S` overlaps with `A` at screen width 400
+   * *and 19 more*
 
 
 
@@ -833,6 +825,7 @@ No issues found! 🎉
 **https://rachel-el-p.github.io/disabilities_workers/**
 
 * Change URL to use `-` instead of spaces or underscores
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `COVID-19 starts` is too small at 9px
     * Text `Jan 2023` is too small at 8px
@@ -850,7 +843,7 @@ No issues found! 🎉
    * Text `Apr 2021` overlaps with `Oct 2021` at screen width 400
    * Text `Oct 2021` overlaps with `Apr 2022` at screen width 400
    * Text `More people with disabilities are entering the labor force` overlaps with `But people with disabilities are only half as likely to be employed` at screen width 400
-   * *and 182 more*
+   * *and 323 more*
 
 **https://rachel-el-p.github.io/Workplace-deaths-final-project/**
 
@@ -955,7 +948,7 @@ No issues found! 🎉
    * Text `Product` overlaps with `1657` at screen width 400
    * Text `Founders` overlaps with `5291` at screen width 400
    * Text `Engineers` overlaps with `13960 jobs` at screen width 400
-   * *and 5 more*
+   * *and 4 more*
 
 
 
@@ -1082,7 +1075,7 @@ No issues found! 🎉
    * Text `Chemicals` overlaps with `Plastic products` at screen width 400
    * Text `9 million` overlaps with `Textile products` at screen width 400
    * Text `9 million` overlaps with `dollars` at screen width 400
-   * *and 56 more*
+   * *and 66 more*
 
 **https://yong-xiong.github.io/peoples-daily-natural-gas-complaints/**
 
