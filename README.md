@@ -112,10 +112,8 @@ No issues found! 🎉
    * Text `Uttar Pradesh has always been the most unsafe state for minorities` overlaps with `Uttar Pradesh has always been the most unsafe state for minorities` at screen width 400
    * Text `2021` overlaps with `2021` at screen width 400
    * Text `Madhya Pradesh and Chhattisgarh and Karnataka saw a nearly five-fold increase in violence` overlaps with `Madhya Pradesh and Chhattisgarh and Karnataka saw a nearly five-fold increase in violence` at screen width 400
-   * Text `2018` overlaps with `2018` at screen width 900
    * Text `Uttar Pradesh has always been the most unsafe state for minorities` overlaps with `Uttar Pradesh has always been the most unsafe state for minorities` at screen width 900
-   * Text `2021` overlaps with `2021` at screen width 900
-   * *and 1 more*
+   * Text `Uttar Pradesh has always been the most unsafe state for minorities` overlaps with `Uttar Pradesh has always been the most unsafe state for minorities` at screen width 1300
 
 
 
@@ -385,7 +383,6 @@ No issues found! 🎉
     * Image `single_wave.gif` missing `alt` tag
     * Image `single_slit.gif` missing `alt` tag
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `Slits are 2 micrometers wide and 10 micrometers apart. Sensor is 200 micrometers away.` is too small at 10px
     * Text `More light` is too small at 8px
@@ -464,7 +461,7 @@ No issues found! 🎉
 |[June Kim](https://junekim6.github.io)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/junekim6.github.io/index.html-mobile-thumb.jpg)](screenshots/junekim6.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/junekim6.github.io/index.html-medium-thumb.jpg)](screenshots/junekim6.github.io/index.html-medium-full.jpg)|[![wide](screenshots/junekim6.github.io/index.html-wide-thumb.jpg)](screenshots/junekim6.github.io/index.html-wide-full.jpg)|
 |[heat-pump-nyc](https://junekim6.github.io/heat-pump-nyc/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/junekim6.github.io/heat-pump-nyc_index.html-mobile-thumb.jpg)](screenshots/junekim6.github.io/heat-pump-nyc_index.html-mobile-full.jpg)|[![medium](screenshots/junekim6.github.io/heat-pump-nyc_index.html-medium-thumb.jpg)](screenshots/junekim6.github.io/heat-pump-nyc_index.html-medium-full.jpg)|[![wide](screenshots/junekim6.github.io/heat-pump-nyc_index.html-wide-thumb.jpg)](screenshots/junekim6.github.io/heat-pump-nyc_index.html-wide-full.jpg)|
 |[south korea energy permitting](https://junekim6.github.io/korec_energy_permitting/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/junekim6.github.io/korec_energy_permitting_index.html-mobile-thumb.jpg)](screenshots/junekim6.github.io/korec_energy_permitting_index.html-mobile-full.jpg)|[![medium](screenshots/junekim6.github.io/korec_energy_permitting_index.html-medium-thumb.jpg)](screenshots/junekim6.github.io/korec_energy_permitting_index.html-medium-full.jpg)|[![wide](screenshots/junekim6.github.io/korec_energy_permitting_index.html-wide-thumb.jpg)](screenshots/junekim6.github.io/korec_energy_permitting_index.html-wide-full.jpg)|
-|[This is your title](https://junekim6.github.io/minnesota-lakes/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/junekim6.github.io/minnesota-lakes_index.html-mobile-thumb.jpg)](screenshots/junekim6.github.io/minnesota-lakes_index.html-mobile-full.jpg)|[![medium](screenshots/junekim6.github.io/minnesota-lakes_index.html-medium-thumb.jpg)](screenshots/junekim6.github.io/minnesota-lakes_index.html-medium-full.jpg)|[![wide](screenshots/junekim6.github.io/minnesota-lakes_index.html-wide-thumb.jpg)](screenshots/junekim6.github.io/minnesota-lakes_index.html-wide-full.jpg)|
+|[Minnesota's warming lakes](https://junekim6.github.io/minnesota-lakes/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/junekim6.github.io/minnesota-lakes_index.html-mobile-thumb.jpg)](screenshots/junekim6.github.io/minnesota-lakes_index.html-mobile-full.jpg)|[![medium](screenshots/junekim6.github.io/minnesota-lakes_index.html-medium-thumb.jpg)](screenshots/junekim6.github.io/minnesota-lakes_index.html-medium-full.jpg)|[![wide](screenshots/junekim6.github.io/minnesota-lakes_index.html-wide-thumb.jpg)](screenshots/junekim6.github.io/minnesota-lakes_index.html-wide-full.jpg)|
 |[Seoul Forest](https://junekim6.github.io/seoul-forest-loss/)|[![mobile](screenshots/junekim6.github.io/seoul-forest-loss_index.html-mobile-thumb.jpg)](screenshots/junekim6.github.io/seoul-forest-loss_index.html-mobile-full.jpg)|[![medium](screenshots/junekim6.github.io/seoul-forest-loss_index.html-medium-thumb.jpg)](screenshots/junekim6.github.io/seoul-forest-loss_index.html-medium-full.jpg)|[![wide](screenshots/junekim6.github.io/seoul-forest-loss_index.html-wide-thumb.jpg)](screenshots/junekim6.github.io/seoul-forest-loss_index.html-wide-full.jpg)|
 
 
@@ -502,15 +499,18 @@ No issues found! 🎉
     * Image `peltier_ice_edited.jpg` missing `alt` tag
     * Image `peltier_algal_bloom-01.jpg` missing `alt` tag
     * Image `peltier_algal_bloom-02.jpg` missing `alt` tag
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
-    * Text `Source: Minnesota Department of Natural Resources` is too small at 10px
-    * Text `The distribution of Minnesota lakes based on their ice cover days, ` is too small at 10px
-    * Text `averaged by decade.` is too small at 10px
-    * Text `1940` is too small at 10px
-    * Text `1950` is too small at 10px
-    * Text `1960` is too small at 10px
-    * Text `1970` is too small at 10px
-    * *and 58 more*
+    * Text `100` is too small at 9px
+    * Text `150` is too small at 9px
+    * Text `200 days` is too small at 9px
+    * Text `Source: Minnesota Department of Natural Resources | Chart by June Kim` is too small at 10px
+    * Text `Duration of ice cover days, averaged by decade.` is too small at 9px
+    * Text `Ice is first observed.` is too small at 9px
+    * Text `Lake is covered with ice.` is too small at 9px
+    * *and 46 more*
+* Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
+    * `Roboto` font not found, used in 32 text objects. Example: _Minnesota lakes are covered by ice for fewer days than before., The distribution of Minnesota lakes based on their ice cover days, averaged by decade., 1940_
 
 **https://junekim6.github.io/seoul-forest-loss/**
 
@@ -518,11 +518,11 @@ No issues found! 🎉
    * Text `:` overlaps with `Source` at screen width 400
    * Text `:` overlaps with `Korea Forest Service` at screen width 400
    * Text `Source` overlaps with `Korea Forest Service` at screen width 400
-   * Text `:` overlaps with `Source` at screen width 900
-   * Text `:` overlaps with `Korea Forest Service` at screen width 900
+   * Text `area. This is equivalent to` overlaps with `16 times` at screen width 900
+   * Text `16 times` overlaps with `the size of` at screen width 900
+   * Text `Source` overlaps with `:` at screen width 900
    * Text `Source` overlaps with `Korea Forest Service` at screen width 900
-   * Text `:` overlaps with `Source` at screen width 1300
-   * *and 2 more*
+   * *and 6 more*
 
 
 
@@ -652,7 +652,7 @@ No issues found! 🎉
    * Text `O` overlaps with `S` at screen width 400
    * Text `O` overlaps with `N` at screen width 400
    * Text `S` overlaps with `A` at screen width 400
-   * *and 6 more*
+   * *and 19 more*
 
 
 
@@ -786,10 +786,10 @@ No issues found! 🎉
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
     * Image `Images/rp_icon.png` missing `alt` tag
     * Image `Images/goingtomalaysia.gif` missing `alt` tag
+    * Image `Images/fec_pro_act.jpg` missing `alt` tag
     * Image `Images/ceocompstory.png` missing `alt` tag
     * Image `Images/disability_workers.png` missing `alt` tag
-    * Image `Images/workplacedeaths.gif` missing `alt` tag
-    * *and 32 more*
+    * *and 33 more*
 
 **https://rachel-el-p.github.io/ceocompensation/**
 
@@ -827,6 +827,7 @@ No issues found! 🎉
 **https://rachel-el-p.github.io/disabilities_workers/**
 
 * Change URL to use `-` instead of spaces or underscores
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `COVID-19 starts` is too small at 9px
     * Text `Jan 2023` is too small at 8px
@@ -837,14 +838,14 @@ No issues found! 🎉
     * Text `Apr 2021` is too small at 8px
     * *and 284 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `from COVID-19 highs, but still higher than those with no disabilities` overlaps with `People with disabilities are about twice as likely to be unemployed` at screen width 400
-   * Text `Jan 2023` overlaps with `Oct 2022` at screen width 400
-   * Text `Oct 2022` overlaps with `Apr 2022` at screen width 400
-   * Text `Oct 2020` overlaps with `Apr 2021` at screen width 400
-   * Text `Apr 2021` overlaps with `Oct 2021` at screen width 400
-   * Text `Oct 2021` overlaps with `Apr 2022` at screen width 400
-   * Text `More people with disabilities are entering the labor force` overlaps with `But people with disabilities are only half as likely to be employed` at screen width 400
-   * *and 323 more*
+   * Text `Apr 2020` overlaps with `Jul 2020` at screen width 400
+   * Text `ai2html-settings` overlaps with `ai2html-settings` at screen width 400
+   * Text `settings_version: 0.115.5` overlaps with `settings_version: 0.115.5` at screen width 400
+   * Text `image_format: auto` overlaps with `image_format: auto` at screen width 400
+   * Text `responsiveness: fixed` overlaps with `responsiveness: fixed` at screen width 400
+   * Text `output: one-file` overlaps with `output: one-file` at screen width 400
+   * Text `html_output_path: /ai2html-output/` overlaps with `html_output_path: /ai2html-output/` at screen width 400
+   * *and 320 more*
 
 **https://rachel-el-p.github.io/Workplace-deaths-final-project/**
 
@@ -898,7 +899,6 @@ No issues found! 🎉
     * Text `33 killed` is too small at 6px
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
    * Text `Q4 21` overlaps with `242` at screen width 400
-   * Text `26 killed` overlaps with `7 killed` at screen width 1300
 
 
 
@@ -950,7 +950,7 @@ No issues found! 🎉
    * Text `Product` overlaps with `1657` at screen width 400
    * Text `Founders` overlaps with `5291` at screen width 400
    * Text `Engineers` overlaps with `13960 jobs` at screen width 400
-   * *and 4 more*
+   * *and 5 more*
 
 
 
