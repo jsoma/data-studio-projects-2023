@@ -115,7 +115,7 @@ No issues found! 🎉
    * Text `2018` overlaps with `2018` at screen width 900
    * Text `Uttar Pradesh has always been the most unsafe state for minorities` overlaps with `Uttar Pradesh has always been the most unsafe state for minorities` at screen width 900
    * Text `2021` overlaps with `2021` at screen width 900
-   * *and 1 more*
+   * *and 2 more*
 
 
 
@@ -1078,7 +1078,7 @@ No issues found! 🎉
    * Text `Chemicals` overlaps with `Plastic products` at screen width 400
    * Text `9 million` overlaps with `Textile products` at screen width 400
    * Text `9 million` overlaps with `dollars` at screen width 400
-   * *and 46 more*
+   * *and 66 more*
 
 **https://yong-xiong.github.io/peoples-daily-natural-gas-complaints/**
 
