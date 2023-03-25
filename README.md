@@ -115,7 +115,7 @@ No issues found! 🎉
    * Text `2018` overlaps with `2018` at screen width 900
    * Text `Uttar Pradesh has always been the most unsafe state for minorities` overlaps with `Uttar Pradesh has always been the most unsafe state for minorities` at screen width 900
    * Text `2021` overlaps with `2021` at screen width 900
-   * *and 5 more*
+   * *and 1 more*
 
 
 
@@ -203,10 +203,7 @@ No issues found! 🎉
 **https://itsliuhongyu.github.io/**
 
 * Add a link to your project's GitHub repo, so people can review your code
-* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-    * Image `./portfolio_files/icons/profile-photo.jpg` missing `alt` tag
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://itsliuhongyu.github.io/1_Subway_change/**
 
@@ -255,7 +252,7 @@ No issues found! 🎉
 * Add a link to your project's GitHub repo, so people can review your code
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
     * Image `https://www-dirtfish.imgix.net/2021/11/LoebO11FR13_SVessely012.jpg?fit=crop&fm=pjpg&h=500&ixlib=php-3.3.1&q=70&rect=0%2C275%2C3543%2C1107&w=1600&wpsize=panorama` missing `alt` tag
-    * Image `./for_website/images/introduction.svg` missing `alt` tag
+    * Image `./for_website/images/introduction.png` missing `alt` tag
     * Image `./for_website/images/visualization2.svg` missing `alt` tag
     * Image `https://cdn-wp.thesportsrush.com/2023/01/7ecdc2ab-id-3.jpg` missing `alt` tag
 * Change URL to use `-` instead of spaces or underscores
@@ -492,7 +489,7 @@ No issues found! 🎉
 **https://junekim6.github.io/korec_energy_permitting/**
 
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-    * Image `wind.jpeg` missing `alt` tag
+    * Image `solar.jpeg` missing `alt` tag
 * Change URL to use `-` instead of spaces or underscores
 
 **https://junekim6.github.io/minnesota-lakes/**
@@ -635,17 +632,16 @@ No issues found! 🎉
 
 **https://laurabejder.com/rain/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `20` is too small at 10px
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `+50 mm` overlaps with `+100 mm` at screen width 900
-   * Text `+15 mm` overlaps with `+25 mm` at screen width 900
-   * Text `J` overlaps with `M` at screen width 900
-   * Text `J` overlaps with `J` at screen width 900
-   * Text `O` overlaps with `S` at screen width 900
-   * Text `O` overlaps with `N` at screen width 900
-   * Text `S` overlaps with `A` at screen width 900
+   * Text `+50 mm` overlaps with `+100 mm` at screen width 400
+   * Text `+15 mm` overlaps with `+25 mm` at screen width 400
+   * Text `J` overlaps with `M` at screen width 400
+   * Text `J` overlaps with `J` at screen width 400
+   * Text `O` overlaps with `S` at screen width 400
+   * Text `O` overlaps with `N` at screen width 400
+   * Text `S` overlaps with `A` at screen width 400
    * *and 6 more*
 
 
@@ -821,6 +817,7 @@ No issues found! 🎉
 **https://rachel-el-p.github.io/disabilities_workers/**
 
 * Change URL to use `-` instead of spaces or underscores
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `COVID-19 starts` is too small at 9px
     * Text `Jan 2023` is too small at 8px
@@ -931,6 +928,7 @@ No issues found! 🎉
 **https://shivanireddy13.github.io/project3/docs/**
 
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `Product` is too small at 10px
     * Text `1657 ` is too small at 9px
@@ -943,7 +941,7 @@ No issues found! 🎉
    * Text `Product` overlaps with `1657` at screen width 400
    * Text `Founders` overlaps with `5291` at screen width 400
    * Text `Engineers` overlaps with `13960 jobs` at screen width 400
-   * *and 5 more*
+   * *and 4 more*
 
 
 
@@ -1070,7 +1068,7 @@ No issues found! 🎉
    * Text `Chemicals` overlaps with `Plastic products` at screen width 400
    * Text `9 million` overlaps with `Textile products` at screen width 400
    * Text `9 million` overlaps with `dollars` at screen width 400
-   * *and 56 more*
+   * *and 66 more*
 
 **https://yong-xiong.github.io/peoples-daily-natural-gas-complaints/**
 
