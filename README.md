@@ -201,10 +201,7 @@ No issues found! 🎉
 **https://itsliuhongyu.github.io/**
 
 * Add a link to your project's GitHub repo, so people can review your code
-* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-    * Image `./portfolio_files/icons/profile-photo.jpg` missing `alt` tag
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://itsliuhongyu.github.io/1_Subway_change/**
 
@@ -253,7 +250,7 @@ No issues found! 🎉
 * Add a link to your project's GitHub repo, so people can review your code
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
     * Image `https://www-dirtfish.imgix.net/2021/11/LoebO11FR13_SVessely012.jpg?fit=crop&fm=pjpg&h=500&ixlib=php-3.3.1&q=70&rect=0%2C275%2C3543%2C1107&w=1600&wpsize=panorama` missing `alt` tag
-    * Image `./for_website/images/introduction.svg` missing `alt` tag
+    * Image `./for_website/images/introduction.png` missing `alt` tag
     * Image `./for_website/images/visualization2.svg` missing `alt` tag
     * Image `https://cdn-wp.thesportsrush.com/2023/01/7ecdc2ab-id-3.jpg` missing `alt` tag
 * Change URL to use `-` instead of spaces or underscores
@@ -403,7 +400,7 @@ No issues found! 🎉
 |[Juhana Rossi's Portfolio](https://juhanarossi.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/juhanarossi.github.io/index.html-mobile-thumb.jpg)](screenshots/juhanarossi.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/juhanarossi.github.io/index.html-medium-thumb.jpg)](screenshots/juhanarossi.github.io/index.html-medium-full.jpg)|[![wide](screenshots/juhanarossi.github.io/index.html-wide-thumb.jpg)](screenshots/juhanarossi.github.io/index.html-wide-full.jpg)|
 |[Page not found · GitHub Pages](https://juhanarossi.github.io/BBC-film-map/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|request failed|request failed|request failed|
 |[Change in Day Length](https://juhanarossi.github.io/helsinki-nyc-days/)|[![mobile](screenshots/juhanarossi.github.io/helsinki-nyc-days_index.html-mobile-thumb.jpg)](screenshots/juhanarossi.github.io/helsinki-nyc-days_index.html-mobile-full.jpg)|[![medium](screenshots/juhanarossi.github.io/helsinki-nyc-days_index.html-medium-thumb.jpg)](screenshots/juhanarossi.github.io/helsinki-nyc-days_index.html-medium-full.jpg)|[![wide](screenshots/juhanarossi.github.io/helsinki-nyc-days_index.html-wide-thumb.jpg)](screenshots/juhanarossi.github.io/helsinki-nyc-days_index.html-wide-full.jpg)|
-|[Long Runways at High Airports](https://juhanarossi.github.io/high_elevation_airports-runways/)|[![mobile](screenshots/juhanarossi.github.io/high_elevation_airports-runways_index.html-mobile-thumb.jpg)](screenshots/juhanarossi.github.io/high_elevation_airports-runways_index.html-mobile-full.jpg)|[![medium](screenshots/juhanarossi.github.io/high_elevation_airports-runways_index.html-medium-thumb.jpg)](screenshots/juhanarossi.github.io/high_elevation_airports-runways_index.html-medium-full.jpg)|[![wide](screenshots/juhanarossi.github.io/high_elevation_airports-runways_index.html-wide-thumb.jpg)](screenshots/juhanarossi.github.io/high_elevation_airports-runways_index.html-wide-full.jpg)|
+|[Page not found · GitHub Pages](https://juhanarossi.github.io/high_elevation_airports-runways/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|request failed|request failed|request failed|
 |[Page not found · GitHub Pages](https://juhanarossi.github.io/PANYNJ-airport-stat-scrape/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|request failed|request failed|request failed|
 
 
@@ -427,6 +424,7 @@ No issues found! 🎉
 
 **https://juhanarossi.github.io/helsinki-nyc-days/**
 
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
    * Text `9:20 am` overlaps with `5 h 56 min` at screen width 400
    * Text `5 h 56 min` overlaps with `3:16 pm` at screen width 400
@@ -439,7 +437,10 @@ No issues found! 🎉
 
 **https://juhanarossi.github.io/high_elevation_airports-runways/**
 
+* **Could not access the page** - if you moved it, let me know!
 * Change URL to use `-` instead of spaces or underscores
+* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://juhanarossi.github.io/PANYNJ-airport-stat-scrape/**
 
@@ -458,7 +459,7 @@ No issues found! 🎉
 |[June Kim](https://junekim6.github.io)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/junekim6.github.io/index.html-mobile-thumb.jpg)](screenshots/junekim6.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/junekim6.github.io/index.html-medium-thumb.jpg)](screenshots/junekim6.github.io/index.html-medium-full.jpg)|[![wide](screenshots/junekim6.github.io/index.html-wide-thumb.jpg)](screenshots/junekim6.github.io/index.html-wide-full.jpg)|
 |[heat-pump-nyc](https://junekim6.github.io/heat-pump-nyc/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/junekim6.github.io/heat-pump-nyc_index.html-mobile-thumb.jpg)](screenshots/junekim6.github.io/heat-pump-nyc_index.html-mobile-full.jpg)|[![medium](screenshots/junekim6.github.io/heat-pump-nyc_index.html-medium-thumb.jpg)](screenshots/junekim6.github.io/heat-pump-nyc_index.html-medium-full.jpg)|[![wide](screenshots/junekim6.github.io/heat-pump-nyc_index.html-wide-thumb.jpg)](screenshots/junekim6.github.io/heat-pump-nyc_index.html-wide-full.jpg)|
 |[south korea energy permitting](https://junekim6.github.io/korec_energy_permitting/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/junekim6.github.io/korec_energy_permitting_index.html-mobile-thumb.jpg)](screenshots/junekim6.github.io/korec_energy_permitting_index.html-mobile-full.jpg)|[![medium](screenshots/junekim6.github.io/korec_energy_permitting_index.html-medium-thumb.jpg)](screenshots/junekim6.github.io/korec_energy_permitting_index.html-medium-full.jpg)|[![wide](screenshots/junekim6.github.io/korec_energy_permitting_index.html-wide-thumb.jpg)](screenshots/junekim6.github.io/korec_energy_permitting_index.html-wide-full.jpg)|
-|[This is your title](https://junekim6.github.io/minnesota-lakes/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/junekim6.github.io/minnesota-lakes_index.html-mobile-thumb.jpg)](screenshots/junekim6.github.io/minnesota-lakes_index.html-mobile-full.jpg)|[![medium](screenshots/junekim6.github.io/minnesota-lakes_index.html-medium-thumb.jpg)](screenshots/junekim6.github.io/minnesota-lakes_index.html-medium-full.jpg)|[![wide](screenshots/junekim6.github.io/minnesota-lakes_index.html-wide-thumb.jpg)](screenshots/junekim6.github.io/minnesota-lakes_index.html-wide-full.jpg)|
+|[Minnesota's warming lakes](https://junekim6.github.io/minnesota-lakes/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/junekim6.github.io/minnesota-lakes_index.html-mobile-thumb.jpg)](screenshots/junekim6.github.io/minnesota-lakes_index.html-mobile-full.jpg)|[![medium](screenshots/junekim6.github.io/minnesota-lakes_index.html-medium-thumb.jpg)](screenshots/junekim6.github.io/minnesota-lakes_index.html-medium-full.jpg)|[![wide](screenshots/junekim6.github.io/minnesota-lakes_index.html-wide-thumb.jpg)](screenshots/junekim6.github.io/minnesota-lakes_index.html-wide-full.jpg)|
 |[Seoul Forest](https://junekim6.github.io/seoul-forest-loss/)|[![mobile](screenshots/junekim6.github.io/seoul-forest-loss_index.html-mobile-thumb.jpg)](screenshots/junekim6.github.io/seoul-forest-loss_index.html-mobile-full.jpg)|[![medium](screenshots/junekim6.github.io/seoul-forest-loss_index.html-medium-thumb.jpg)](screenshots/junekim6.github.io/seoul-forest-loss_index.html-medium-full.jpg)|[![wide](screenshots/junekim6.github.io/seoul-forest-loss_index.html-wide-thumb.jpg)](screenshots/junekim6.github.io/seoul-forest-loss_index.html-wide-full.jpg)|
 
 
@@ -487,7 +488,7 @@ No issues found! 🎉
 **https://junekim6.github.io/korec_energy_permitting/**
 
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-    * Image `wind.jpeg` missing `alt` tag
+    * Image `solar.jpeg` missing `alt` tag
 * Change URL to use `-` instead of spaces or underscores
 
 **https://junekim6.github.io/minnesota-lakes/**
@@ -496,28 +497,30 @@ No issues found! 🎉
     * Image `peltier_ice_edited.jpg` missing `alt` tag
     * Image `peltier_algal_bloom-01.jpg` missing `alt` tag
     * Image `peltier_algal_bloom-02.jpg` missing `alt` tag
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
-    * Text `Source: Minnesota Department of Natural Resources` is too small at 10px
-    * Text `The distribution of Minnesota lakes based on their ice cover days, ` is too small at 10px
-    * Text `averaged by decade.` is too small at 10px
-    * Text `1940` is too small at 10px
-    * Text `1950` is too small at 10px
-    * Text `1960` is too small at 10px
-    * Text `1970` is too small at 10px
-    * *and 58 more*
+    * Text `100` is too small at 9px
+    * Text `150` is too small at 9px
+    * Text `200 days` is too small at 9px
+    * Text `Source: Minnesota Department of Natural Resources | Chart by June Kim` is too small at 10px
+    * Text `Duration of ice cover days, averaged by decade.` is too small at 9px
+    * Text `Ice is first observed.` is too small at 9px
+    * Text `Lake is covered with ice.` is too small at 9px
+    * *and 46 more*
+* Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
+    * `Roboto` font not found, used in 32 text objects. Example: _Minnesota lakes are covered by ice for fewer days than before., The distribution of Minnesota lakes based on their ice cover days, averaged by decade., 1940_
 
 **https://junekim6.github.io/seoul-forest-loss/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `area. This is equivalent to` overlaps with `16 times` at screen width 400
-   * Text `16 times` overlaps with `the size of` at screen width 400
-   * Text `Source` overlaps with `:` at screen width 400
-   * Text `Source` overlaps with `Korea Forest Service` at screen width 400
+   * Text `:` overlaps with `Source` at screen width 400
    * Text `:` overlaps with `Korea Forest Service` at screen width 400
+   * Text `Source` overlaps with `Korea Forest Service` at screen width 400
    * Text `area. This is equivalent to` overlaps with `16 times` at screen width 900
    * Text `16 times` overlaps with `the size of` at screen width 900
-   * *and 8 more*
+   * Text `Source` overlaps with `:` at screen width 900
+   * Text `Source` overlaps with `Korea Forest Service` at screen width 900
+   * *and 6 more*
 
 
 
@@ -582,16 +585,6 @@ No issues found! 🎉
 **https://kellywaldro.github.io/remittances/**
 
 * Add a link to your project's GitHub repo, so people can review your code
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
-* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `1990` overlaps with `1992` at screen width 400
-   * Text `1992` overlaps with `1994` at screen width 400
-   * Text `1994` overlaps with `1996` at screen width 400
-   * Text `1996` overlaps with `1998` at screen width 400
-   * Text `1998` overlaps with `2000` at screen width 400
-   * Text `2000` overlaps with `2002` at screen width 400
-   * Text `2002` overlaps with `2004` at screen width 400
-   * *and 23 more*
 
 
 
@@ -626,6 +619,7 @@ No issues found! 🎉
 
 **https://laurabejder.com/knitting/**
 
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `158` is too small at 10px
     * Text `Cannular or` is too small at 7px
@@ -648,7 +642,7 @@ No issues found! 🎉
    * Text `O` overlaps with `S` at screen width 400
    * Text `O` overlaps with `N` at screen width 400
    * Text `S` overlaps with `A` at screen width 400
-   * *and 6 more*
+   * *and 19 more*
 
 
 
@@ -700,7 +694,7 @@ No issues found! 🎉
 |[Pooja Chaudhuri](https://poojachaudhuri.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/poojachaudhuri.github.io/index.html-mobile-thumb.jpg)](screenshots/poojachaudhuri.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/poojachaudhuri.github.io/index.html-medium-thumb.jpg)](screenshots/poojachaudhuri.github.io/index.html-medium-full.jpg)|[![wide](screenshots/poojachaudhuri.github.io/index.html-wide-thumb.jpg)](screenshots/poojachaudhuri.github.io/index.html-wide-full.jpg)|
 |[caa-fact-checks/index.html](https://poojachaudhuri.github.io/caa-fact-checks/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/poojachaudhuri.github.io/caa-fact-checks_index.html-mobile-thumb.jpg)](screenshots/poojachaudhuri.github.io/caa-fact-checks_index.html-mobile-full.jpg)|[![medium](screenshots/poojachaudhuri.github.io/caa-fact-checks_index.html-medium-thumb.jpg)](screenshots/poojachaudhuri.github.io/caa-fact-checks_index.html-medium-full.jpg)|[![wide](screenshots/poojachaudhuri.github.io/caa-fact-checks_index.html-wide-thumb.jpg)](screenshots/poojachaudhuri.github.io/caa-fact-checks_index.html-wide-full.jpg)|
 |[Gulab Jamuns in NYC](https://poojachaudhuri.github.io/gulab-jamun-in-nyc/)<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/poojachaudhuri.github.io/gulab-jamun-in-nyc_index.html-mobile-thumb.jpg)](screenshots/poojachaudhuri.github.io/gulab-jamun-in-nyc_index.html-mobile-full.jpg)|[![medium](screenshots/poojachaudhuri.github.io/gulab-jamun-in-nyc_index.html-medium-thumb.jpg)](screenshots/poojachaudhuri.github.io/gulab-jamun-in-nyc_index.html-medium-full.jpg)|[![wide](screenshots/poojachaudhuri.github.io/gulab-jamun-in-nyc_index.html-wide-thumb.jpg)](screenshots/poojachaudhuri.github.io/gulab-jamun-in-nyc_index.html-wide-full.jpg)|
-|[Page not found · GitHub Pages](https://poojachaudhuri.github.io/Project-2/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|request failed|request failed|request failed|
+|[Mass shootings in the US has become more deadly in the past decade](https://poojachaudhuri.github.io/project-2/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/poojachaudhuri.github.io/project-2_index.html-mobile-thumb.jpg)](screenshots/poojachaudhuri.github.io/project-2_index.html-mobile-full.jpg)|[![medium](screenshots/poojachaudhuri.github.io/project-2_index.html-medium-thumb.jpg)](screenshots/poojachaudhuri.github.io/project-2_index.html-medium-full.jpg)|[![wide](screenshots/poojachaudhuri.github.io/project-2_index.html-wide-thumb.jpg)](screenshots/poojachaudhuri.github.io/project-2_index.html-wide-full.jpg)|
 |[Roosters keep NYC 311 busy with "illegal pet" complaints](https://poojachaudhuri.github.io/project-3/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/poojachaudhuri.github.io/project-3_index.html-mobile-thumb.jpg)](screenshots/poojachaudhuri.github.io/project-3_index.html-mobile-full.jpg)|[![medium](screenshots/poojachaudhuri.github.io/project-3_index.html-medium-thumb.jpg)](screenshots/poojachaudhuri.github.io/project-3_index.html-medium-full.jpg)|[![wide](screenshots/poojachaudhuri.github.io/project-3_index.html-wide-thumb.jpg)](screenshots/poojachaudhuri.github.io/project-3_index.html-wide-full.jpg)|
 
 
@@ -723,12 +717,28 @@ No issues found! 🎉
 
 No issues found! 🎉
 
-**https://poojachaudhuri.github.io/Project-2/**
+**https://poojachaudhuri.github.io/project-2/**
 
-* **Could not access the page** - if you moved it, let me know!
-* Change URL to be all in lowercase
-* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
+* Minimum font size should be 12px, enlarge text in Illustrator
+    * Text `4000` is too small at 9px
+    * Text `Number of people killed or injured` is too small at 10px
+    * Text `3000` is too small at 9px
+    * Text `2000` is too small at 9px
+    * Text `1000` is too small at 9px
+    * Text `2014` is too small at 9px
+    * Text `2019` is too small at 9px
+    * *and 122 more*
+* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `in the US` overlaps with `For the purpose of this chart, mass shooting has been defined as an incident where four` at screen width 400
+   * Text `Spike due to 2017 Las Vegas shooting` overlaps with `where 59 were killed, 441 injured` at screen width 400
+   * Text `2014` overlaps with `2015` at screen width 400
+   * Text `2019` overlaps with `2020` at screen width 400
+   * Text `2019` overlaps with `2018` at screen width 400
+   * Text `2020` overlaps with `2021` at screen width 400
+   * Text `2021` overlaps with `2022` at screen width 400
+   * *and 31 more*
+* Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
+    * `Georgia` font not found, used in 136 text objects. Example: _Mass shootings have become more deadly in the last decade, in the US, For the purpose of this chart, mass shooting has been defined as an incident where four_
 
 **https://poojachaudhuri.github.io/project-3/**
 
@@ -766,10 +776,10 @@ No issues found! 🎉
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
     * Image `Images/rp_icon.png` missing `alt` tag
     * Image `Images/goingtomalaysia.gif` missing `alt` tag
+    * Image `Images/fec_pro_act.jpg` missing `alt` tag
     * Image `Images/ceocompstory.png` missing `alt` tag
     * Image `Images/disability_workers.png` missing `alt` tag
-    * Image `Images/workplacedeaths.gif` missing `alt` tag
-    * *and 32 more*
+    * *and 33 more*
 
 **https://rachel-el-p.github.io/ceocompensation/**
 
@@ -878,7 +888,6 @@ No issues found! 🎉
     * Text `33 killed` is too small at 6px
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
    * Text `Q4 21` overlaps with `242` at screen width 400
-   * Text `26 killed` overlaps with `7 killed` at screen width 1300
 
 
 
@@ -918,19 +927,16 @@ No issues found! 🎉
 **https://shivanireddy13.github.io/project3/docs/**
 
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `Product` is too small at 10px
     * Text `1657 ` is too small at 9px
     * Text `3227 ` is too small at 10px
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `Marketing` overlaps with `Product` at screen width 400
-   * Text `Marketing` overlaps with `1657` at screen width 400
-   * Text `Marketing` overlaps with `3227` at screen width 400
-   * Text `Investors` overlaps with `7649` at screen width 400
-   * Text `Product` overlaps with `1657` at screen width 400
-   * Text `Founders` overlaps with `5291` at screen width 400
-   * Text `Engineers` overlaps with `13960 jobs` at screen width 400
-   * *and 4 more*
+   * Text `Marketing` overlaps with `Product` at screen width 900
+   * Text `Investors` overlaps with `7649` at screen width 900
+   * Text `Engineers` overlaps with `13960 jobs` at screen width 900
+   * Text `Marketing` overlaps with `Product` at screen width 1300
 
 
 
@@ -1049,6 +1055,7 @@ No issues found! 🎉
 **https://yong-xiong.github.io/china_russia_trade/**
 
 * Change URL to use `-` instead of spaces or underscores
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
    * Text `Electronics` overlaps with `Vehicles, aircraft & ships` at screen width 400
    * Text `Electronics` overlaps with `9 million` at screen width 400
@@ -1057,7 +1064,7 @@ No issues found! 🎉
    * Text `Chemicals` overlaps with `Plastic products` at screen width 400
    * Text `9 million` overlaps with `Textile products` at screen width 400
    * Text `9 million` overlaps with `dollars` at screen width 400
-   * *and 56 more*
+   * *and 46 more*
 
 **https://yong-xiong.github.io/peoples-daily-natural-gas-complaints/**
 
