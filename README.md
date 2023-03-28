@@ -897,6 +897,7 @@ No issues found! 🎉
     * Text `33 killed` is too small at 6px
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
    * Text `Q4 21` overlaps with `242` at screen width 400
+   * Text `26 killed` overlaps with `7 killed` at screen width 1300
 
 
 
@@ -1075,7 +1076,7 @@ No issues found! 🎉
    * Text `Chemicals` overlaps with `Plastic products` at screen width 400
    * Text `9 million` overlaps with `Textile products` at screen width 400
    * Text `9 million` overlaps with `dollars` at screen width 400
-   * *and 66 more*
+   * *and 56 more*
 
 **https://yong-xiong.github.io/peoples-daily-natural-gas-complaints/**
 
