@@ -95,7 +95,7 @@ No issues found! 🎉
    * Text `2018` overlaps with `2018` at screen width 900
    * Text `Uttar Pradesh has always been the most unsafe state for minorities` overlaps with `Uttar Pradesh has always been the most unsafe state for minorities` at screen width 900
    * Text `2021` overlaps with `2021` at screen width 900
-   * *and 1 more*
+   * *and 5 more*
 
 
 
@@ -434,8 +434,7 @@ No issues found! 🎉
 
 * Change URL to use `-` instead of spaces or underscores
 * Minimum font size should be 12px, enlarge text in Illustrator
-    * Text `262 medical visas granted*
-              ` is too small at 10px
+    * Text `262 medical visas granted* ` is too small at 10px
 
 **https://kellywaldro.github.io/pharmacies/**
 
@@ -448,14 +447,14 @@ No issues found! 🎉
 
 * Add a link to your project's GitHub repo, so people can review your code
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `1990` overlaps with `1992` at screen width 900
-   * Text `1992` overlaps with `1994` at screen width 900
-   * Text `1994` overlaps with `1996` at screen width 900
-   * Text `1996` overlaps with `1998` at screen width 900
-   * Text `1998` overlaps with `2000` at screen width 900
-   * Text `2000` overlaps with `2002` at screen width 900
-   * Text `2002` overlaps with `2004` at screen width 900
-   * *and 23 more*
+   * Text `1990` overlaps with `1992` at screen width 1300
+   * Text `1992` overlaps with `1994` at screen width 1300
+   * Text `1994` overlaps with `1996` at screen width 1300
+   * Text `1996` overlaps with `1998` at screen width 1300
+   * Text `1998` overlaps with `2000` at screen width 1300
+   * Text `2000` overlaps with `2002` at screen width 1300
+   * Text `2002` overlaps with `2004` at screen width 1300
+   * *and 8 more*
 
 
 
