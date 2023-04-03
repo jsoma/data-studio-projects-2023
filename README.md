@@ -20,7 +20,7 @@ Quick checks to make sure our pages are looking their best.
 <td><a href="#shivanireddy13githubio"><img src="screenshots/shivanireddy13.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>shivanireddy13.github.io</a></td>
 <td><a href="#vivek1799githubio"><img src="screenshots/vivek1799.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>vivek1799.github.io</a></td>
 <td><a href="#xinyitugithubio"><img src="screenshots/xinyitu.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>xinyitu.github.io</a></td>
-<td><a href="#yong-xionggithubio"><img src="screenshots/yong-xiong.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>yong-xiong.github.io</a></td>
+<td>yong-xiong.github.io request failed</td>
 </tr><tr>
 </tr></table>
 
@@ -399,11 +399,11 @@ No issues found! 🎉
    * Text `:` overlaps with `Source` at screen width 400
    * Text `:` overlaps with `Korea Forest Service` at screen width 400
    * Text `Source` overlaps with `Korea Forest Service` at screen width 400
-   * Text `:` overlaps with `Source` at screen width 900
-   * Text `:` overlaps with `Korea Forest Service` at screen width 900
+   * Text `area. This is equivalent to` overlaps with `16 times` at screen width 900
+   * Text `16 times` overlaps with `the size of` at screen width 900
+   * Text `Source` overlaps with `:` at screen width 900
    * Text `Source` overlaps with `Korea Forest Service` at screen width 900
-   * Text `area. This is equivalent to` overlaps with `16 times` at screen width 1300
-   * *and 4 more*
+   * *and 6 more*
 
 
 
@@ -435,9 +435,6 @@ No issues found! 🎉
 * Change URL to use `-` instead of spaces or underscores
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `262 medical visas granted* ` is too small at 10px
-* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `Western Australia` overlaps with `262 medical visas granted*` at screen width 900
-   * Text `Western Australia` overlaps with `262 medical visas granted*` at screen width 1300
 
 **https://kellywaldro.github.io/pharmacies/**
 
@@ -449,16 +446,15 @@ No issues found! 🎉
 **https://kellywaldro.github.io/remittances/**
 
 * Add a link to your project's GitHub repo, so people can review your code
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `1990` overlaps with `1992` at screen width 400
-   * Text `1992` overlaps with `1994` at screen width 400
-   * Text `1994` overlaps with `1996` at screen width 400
-   * Text `1996` overlaps with `1998` at screen width 400
-   * Text `1998` overlaps with `2000` at screen width 400
-   * Text `2000` overlaps with `2002` at screen width 400
-   * Text `2002` overlaps with `2004` at screen width 400
-   * *and 38 more*
+   * Text `1990` overlaps with `1992` at screen width 1300
+   * Text `1992` overlaps with `1994` at screen width 1300
+   * Text `1994` overlaps with `1996` at screen width 1300
+   * Text `1996` overlaps with `1998` at screen width 1300
+   * Text `1998` overlaps with `2000` at screen width 1300
+   * Text `2000` overlaps with `2002` at screen width 1300
+   * Text `2002` overlaps with `2004` at screen width 1300
+   * *and 8 more*
 
 
 
@@ -766,7 +762,7 @@ No issues found! 🎉
    * Text `Product` overlaps with `1657` at screen width 400
    * Text `Founders` overlaps with `5291` at screen width 400
    * Text `Engineers` overlaps with `13960 jobs` at screen width 400
-   * *and 5 more*
+   * *and 4 more*
 
 
 
@@ -870,7 +866,7 @@ No issues found! 🎉
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[Yong Xiong Porfolio Website](https://yong-xiong.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/yong-xiong.github.io/index.html-mobile-thumb.jpg)](screenshots/yong-xiong.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/yong-xiong.github.io/index.html-medium-thumb.jpg)](screenshots/yong-xiong.github.io/index.html-medium-full.jpg)|[![wide](screenshots/yong-xiong.github.io/index.html-wide-thumb.jpg)](screenshots/yong-xiong.github.io/index.html-wide-full.jpg)|
+|[Site not found · GitHub Pages](https://yong-xiong.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|request failed|request failed|request failed|
 |[Natural Gas Shortage Complaints in China](https://yong-xiong.github.io/peoples-daily-natural-gas-complaints/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/yong-xiong.github.io/peoples-daily-natural-gas-complaints_index.html-mobile-thumb.jpg)](screenshots/yong-xiong.github.io/peoples-daily-natural-gas-complaints_index.html-mobile-full.jpg)|[![medium](screenshots/yong-xiong.github.io/peoples-daily-natural-gas-complaints_index.html-medium-thumb.jpg)](screenshots/yong-xiong.github.io/peoples-daily-natural-gas-complaints_index.html-medium-full.jpg)|[![wide](screenshots/yong-xiong.github.io/peoples-daily-natural-gas-complaints_index.html-wide-thumb.jpg)](screenshots/yong-xiong.github.io/peoples-daily-natural-gas-complaints_index.html-wide-full.jpg)|
 |[Turkey earthquake and sftershocks count](https://yong-xiong.github.io/turkey-quake/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/yong-xiong.github.io/turkey-quake_index.html-mobile-thumb.jpg)](screenshots/yong-xiong.github.io/turkey-quake_index.html-mobile-full.jpg)|[![medium](screenshots/yong-xiong.github.io/turkey-quake_index.html-medium-thumb.jpg)](screenshots/yong-xiong.github.io/turkey-quake_index.html-medium-full.jpg)|[![wide](screenshots/yong-xiong.github.io/turkey-quake_index.html-wide-thumb.jpg)](screenshots/yong-xiong.github.io/turkey-quake_index.html-wide-full.jpg)|
 
@@ -879,7 +875,9 @@ No issues found! 🎉
 
 **https://yong-xiong.github.io/**
 
-No issues found! 🎉
+* **Could not access the page** - if you moved it, let me know!
+* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://yong-xiong.github.io/peoples-daily-natural-gas-complaints/**
 
