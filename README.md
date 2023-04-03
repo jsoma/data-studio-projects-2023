@@ -433,8 +433,13 @@ No issues found! 🎉
 **https://kellywaldro.github.io/medical_emigration/**
 
 * Change URL to use `-` instead of spaces or underscores
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `262 medical visas granted* ` is too small at 10px
+* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `Western Australia` overlaps with `262 medical visas granted*` at screen width 400
+   * Text `Western Australia` overlaps with `262 medical visas granted*` at screen width 900
+   * Text `Western Australia` overlaps with `262 medical visas granted*` at screen width 1300
 
 **https://kellywaldro.github.io/pharmacies/**
 
