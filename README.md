@@ -435,6 +435,9 @@ No issues found! 🎉
 * Change URL to use `-` instead of spaces or underscores
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `262 medical visas granted* ` is too small at 10px
+* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `Western Australia` overlaps with `262 medical visas granted*` at screen width 900
+   * Text `Western Australia` overlaps with `262 medical visas granted*` at screen width 1300
 
 **https://kellywaldro.github.io/pharmacies/**
 
@@ -483,7 +486,7 @@ No issues found! 🎉
 
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `158` is too small at 10px
-    * Text `Cannular or ` is too small at 7px
+    * Text `Cannular or` is too small at 7px
     * Text `IV protection` is too small at 7px
     * Text `58` is too small at 5px
     * Text `Heating or` is too small at 8px
@@ -750,7 +753,6 @@ No issues found! 🎉
 **https://shivanireddy13.github.io/project3/docs**
 
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `Product` is too small at 10px
     * Text `1657 ` is too small at 9px
@@ -763,7 +765,7 @@ No issues found! 🎉
    * Text `Product` overlaps with `1657` at screen width 400
    * Text `Founders` overlaps with `5291` at screen width 400
    * Text `Engineers` overlaps with `13960 jobs` at screen width 400
-   * *and 5 more*
+   * *and 4 more*
 
 
 
