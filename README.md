@@ -95,7 +95,7 @@ No issues found! 🎉
    * Text `2018` overlaps with `2018` at screen width 900
    * Text `Uttar Pradesh has always been the most unsafe state for minorities` overlaps with `Uttar Pradesh has always been the most unsafe state for minorities` at screen width 900
    * Text `2021` overlaps with `2021` at screen width 900
-   * *and 1 more*
+   * *and 5 more*
 
 
 
@@ -380,18 +380,13 @@ No issues found! 🎉
     * Image `peltier_ice_edited.jpg` missing `alt` tag
     * Image `peltier_algal_bloom-01.jpg` missing `alt` tag
     * Image `peltier_algal_bloom-02.jpg` missing `alt` tag
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `100` is too small at 9px
     * Text `150` is too small at 9px
     * Text `200 days` is too small at 9px
     * Text `Source: Minnesota Department of Natural Resources | Chart by June Kim` is too small at 10px
-    * Text `Duration of ice cover days, averaged by decade.` is too small at 9px
-    * Text `Ice is first observed.` is too small at 9px
-    * Text `Lake is covered with ice.` is too small at 9px
-    * *and 46 more*
 * Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
-    * `Roboto` font not found, used in 32 text objects. Example: _Minnesota lakes are covered by ice for fewer days than before., The distribution of Minnesota lakes based on their ice cover days, averaged by decade., 1940_
+    * `Roboto` font not found, used in 98 text objects. Example: _Minnesota lakes are covered by ice for fewer days than before., The distribution of Minnesota lakes based on their ice cover days, averaged by decade., 1940_
 
 **https://junekim6.github.io/seoul-forest-loss/**
 
@@ -433,8 +428,9 @@ No issues found! 🎉
 **https://kellywaldro.github.io/medical_emigration/**
 
 * Change URL to use `-` instead of spaces or underscores
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
-    * Text `262 medical visas granted*` is too small at 10px
+    * Text `262 medical visas granted* ` is too small at 10px
 
 **https://kellywaldro.github.io/pharmacies/**
 
