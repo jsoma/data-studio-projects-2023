@@ -95,7 +95,7 @@ No issues found! 🎉
    * Text `2018` overlaps with `2018` at screen width 900
    * Text `Uttar Pradesh has always been the most unsafe state for minorities` overlaps with `Uttar Pradesh has always been the most unsafe state for minorities` at screen width 900
    * Text `2021` overlaps with `2021` at screen width 900
-   * *and 1 more*
+   * *and 5 more*
 
 
 
@@ -164,7 +164,7 @@ No issues found! 🎉
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[Hongyu Liu's Portfolio](https://itsliuhongyu.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/itsliuhongyu.github.io/index.html-mobile-thumb.jpg)](screenshots/itsliuhongyu.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/itsliuhongyu.github.io/index.html-medium-thumb.jpg)](screenshots/itsliuhongyu.github.io/index.html-medium-full.jpg)|[![wide](screenshots/itsliuhongyu.github.io/index.html-wide-thumb.jpg)](screenshots/itsliuhongyu.github.io/index.html-wide-full.jpg)|
+|[Hi! I'm Hongyu Liu](https://itsliuhongyu.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/itsliuhongyu.github.io/index.html-mobile-thumb.jpg)](screenshots/itsliuhongyu.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/itsliuhongyu.github.io/index.html-medium-thumb.jpg)](screenshots/itsliuhongyu.github.io/index.html-medium-full.jpg)|[![wide](screenshots/itsliuhongyu.github.io/index.html-wide-thumb.jpg)](screenshots/itsliuhongyu.github.io/index.html-wide-full.jpg)|
 |[Why can't I ride the Beijing Subway without a map anymore?](https://itsliuhongyu.github.io/1_Subway_change/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/itsliuhongyu.github.io/1_Subway_change_index.html-mobile-thumb.jpg)](screenshots/itsliuhongyu.github.io/1_Subway_change_index.html-mobile-full.jpg)|[![medium](screenshots/itsliuhongyu.github.io/1_Subway_change_index.html-medium-thumb.jpg)](screenshots/itsliuhongyu.github.io/1_Subway_change_index.html-medium-full.jpg)|[![wide](screenshots/itsliuhongyu.github.io/1_Subway_change_index.html-wide-thumb.jpg)](screenshots/itsliuhongyu.github.io/1_Subway_change_index.html-wide-full.jpg)|
 |[A salty winter in New York City](https://itsliuhongyu.github.io/New_York_Salt/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/itsliuhongyu.github.io/New_York_Salt_index.html-mobile-thumb.jpg)](screenshots/itsliuhongyu.github.io/New_York_Salt_index.html-mobile-full.jpg)|[![medium](screenshots/itsliuhongyu.github.io/New_York_Salt_index.html-medium-thumb.jpg)](screenshots/itsliuhongyu.github.io/New_York_Salt_index.html-medium-full.jpg)|[![wide](screenshots/itsliuhongyu.github.io/New_York_Salt_index.html-wide-thumb.jpg)](screenshots/itsliuhongyu.github.io/New_York_Salt_index.html-wide-full.jpg)|
 |[Why do fans want a full-scale battle between Sébastien Loeb and Sébastien Ogier so much?](https://itsliuhongyu.github.io/Why_we_want_to_see_the_Seb_battle/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/itsliuhongyu.github.io/Why_we_want_to_see_the_Seb_battle_index.html-mobile-thumb.jpg)](screenshots/itsliuhongyu.github.io/Why_we_want_to_see_the_Seb_battle_index.html-mobile-full.jpg)|[![medium](screenshots/itsliuhongyu.github.io/Why_we_want_to_see_the_Seb_battle_index.html-medium-thumb.jpg)](screenshots/itsliuhongyu.github.io/Why_we_want_to_see_the_Seb_battle_index.html-medium-full.jpg)|[![wide](screenshots/itsliuhongyu.github.io/Why_we_want_to_see_the_Seb_battle_index.html-wide-thumb.jpg)](screenshots/itsliuhongyu.github.io/Why_we_want_to_see_the_Seb_battle_index.html-wide-full.jpg)|
@@ -275,7 +275,6 @@ No issues found! 🎉
     * Image `single_wave.gif` missing `alt` tag
     * Image `single_slit.gif` missing `alt` tag
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `Slits are 2 micrometers wide and 10 micrometers apart. Sensor is 200 micrometers away.` is too small at 10px
     * Text `More light` is too small at 8px
@@ -429,8 +428,13 @@ No issues found! 🎉
 **https://kellywaldro.github.io/medical_emigration/**
 
 * Change URL to use `-` instead of spaces or underscores
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
-    * Text `262 medical visas granted*` is too small at 10px
+    * Text `262 medical visas granted* ` is too small at 10px
+* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `Western Australia` overlaps with `262 medical visas granted*` at screen width 400
+   * Text `Western Australia` overlaps with `262 medical visas granted*` at screen width 900
+   * Text `Western Australia` overlaps with `262 medical visas granted*` at screen width 1300
 
 **https://kellywaldro.github.io/pharmacies/**
 
@@ -442,15 +446,6 @@ No issues found! 🎉
 **https://kellywaldro.github.io/remittances/**
 
 * Add a link to your project's GitHub repo, so people can review your code
-* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `1990` overlaps with `1992` at screen width 900
-   * Text `1992` overlaps with `1994` at screen width 900
-   * Text `1994` overlaps with `1996` at screen width 900
-   * Text `1996` overlaps with `1998` at screen width 900
-   * Text `1998` overlaps with `2000` at screen width 900
-   * Text `2000` overlaps with `2002` at screen width 900
-   * Text `2002` overlaps with `2004` at screen width 900
-   * *and 23 more*
 
 
 
@@ -758,7 +753,7 @@ No issues found! 🎉
    * Text `Product` overlaps with `1657` at screen width 400
    * Text `Founders` overlaps with `5291` at screen width 400
    * Text `Engineers` overlaps with `13960 jobs` at screen width 400
-   * *and 5 more*
+   * *and 4 more*
 
 
 
