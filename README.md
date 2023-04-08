@@ -311,6 +311,7 @@ No issues found! 🎉
 
 **https://juhanarossi.github.io/helsinki-nyc-days/**
 
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
    * Text `9:20 am` overlaps with `5 h 56 min` at screen width 400
    * Text `5 h 56 min` overlaps with `3:16 pm` at screen width 400
@@ -429,7 +430,9 @@ No issues found! 🎉
 
 * Change URL to use `-` instead of spaces or underscores
 * Minimum font size should be 12px, enlarge text in Illustrator
-    * Text `262 medical visas granted*` is too small at 10px
+    * Text `262 medical visas granted* ` is too small at 10px
+* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `Western Australia` overlaps with `262 medical visas granted*` at screen width 1300
 
 **https://kellywaldro.github.io/pharmacies/**
 
@@ -441,15 +444,6 @@ No issues found! 🎉
 **https://kellywaldro.github.io/remittances/**
 
 * Add a link to your project's GitHub repo, so people can review your code
-* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `1990` overlaps with `1992` at screen width 900
-   * Text `1992` overlaps with `1994` at screen width 900
-   * Text `1994` overlaps with `1996` at screen width 900
-   * Text `1996` overlaps with `1998` at screen width 900
-   * Text `1998` overlaps with `2000` at screen width 900
-   * Text `2000` overlaps with `2002` at screen width 900
-   * Text `2002` overlaps with `2004` at screen width 900
-   * *and 23 more*
 
 
 
@@ -478,7 +472,7 @@ No issues found! 🎉
 
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `158` is too small at 10px
-    * Text `Cannular or ` is too small at 7px
+    * Text `Cannular or` is too small at 7px
     * Text `IV protection` is too small at 7px
     * Text `58` is too small at 5px
     * Text `Heating or` is too small at 8px
@@ -498,7 +492,7 @@ No issues found! 🎉
    * Text `O` overlaps with `S` at screen width 400
    * Text `O` overlaps with `N` at screen width 400
    * Text `S` overlaps with `A` at screen width 400
-   * *and 6 more*
+   * *and 19 more*
 
 
 
