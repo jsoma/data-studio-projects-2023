@@ -95,7 +95,7 @@ No issues found! 🎉
    * Text `2018` overlaps with `2018` at screen width 900
    * Text `Uttar Pradesh has always been the most unsafe state for minorities` overlaps with `Uttar Pradesh has always been the most unsafe state for minorities` at screen width 900
    * Text `2021` overlaps with `2021` at screen width 900
-   * *and 5 more*
+   * *and 1 more*
 
 
 
@@ -394,11 +394,11 @@ No issues found! 🎉
    * Text `:` overlaps with `Source` at screen width 400
    * Text `:` overlaps with `Korea Forest Service` at screen width 400
    * Text `Source` overlaps with `Korea Forest Service` at screen width 400
-   * Text `:` overlaps with `Source` at screen width 900
-   * Text `:` overlaps with `Korea Forest Service` at screen width 900
+   * Text `area. This is equivalent to` overlaps with `16 times` at screen width 900
+   * Text `16 times` overlaps with `the size of` at screen width 900
+   * Text `Source` overlaps with `:` at screen width 900
    * Text `Source` overlaps with `Korea Forest Service` at screen width 900
-   * Text `area. This is equivalent to` overlaps with `16 times` at screen width 1300
-   * *and 4 more*
+   * *and 6 more*
 
 
 
@@ -430,6 +430,9 @@ No issues found! 🎉
 * Change URL to use `-` instead of spaces or underscores
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `262 medical visas granted* ` is too small at 10px
+* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `Western Australia` overlaps with `262 medical visas granted*` at screen width 900
+   * Text `Western Australia` overlaps with `262 medical visas granted*` at screen width 1300
 
 **https://kellywaldro.github.io/pharmacies/**
 
@@ -478,7 +481,7 @@ No issues found! 🎉
 
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `158` is too small at 10px
-    * Text `Cannular or` is too small at 7px
+    * Text `Cannular or ` is too small at 7px
     * Text `IV protection` is too small at 7px
     * Text `58` is too small at 5px
     * Text `Heating or` is too small at 8px
@@ -591,7 +594,6 @@ No issues found! 🎉
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
     * Image `images/month_year_image1.svg` missing `alt` tag
     * Image `images/month_year_image2.svg` missing `alt` tag
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `2000` is too small at 9px
     * Text `1500` is too small at 9px
@@ -680,7 +682,7 @@ No issues found! 🎉
    * Text `Apr 2021` overlaps with `Oct 2021` at screen width 400
    * Text `Oct 2021` overlaps with `Apr 2022` at screen width 400
    * Text `More people with disabilities are entering the labor force` overlaps with `But people with disabilities are only half as likely to be employed` at screen width 400
-   * *and 323 more*
+   * *and 41 more*
 
 
 
@@ -758,7 +760,7 @@ No issues found! 🎉
    * Text `Product` overlaps with `1657` at screen width 400
    * Text `Founders` overlaps with `5291` at screen width 400
    * Text `Engineers` overlaps with `13960 jobs` at screen width 400
-   * *and 4 more*
+   * *and 5 more*
 
 
 
