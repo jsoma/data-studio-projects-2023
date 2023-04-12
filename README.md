@@ -429,8 +429,13 @@ No issues found! 🎉
 **https://kellywaldro.github.io/medical_emigration/**
 
 * Change URL to use `-` instead of spaces or underscores
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `262 medical visas granted* ` is too small at 10px
+* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `Western Australia` overlaps with `262 medical visas granted*` at screen width 400
+   * Text `Western Australia` overlaps with `262 medical visas granted*` at screen width 900
+   * Text `Western Australia` overlaps with `262 medical visas granted*` at screen width 1300
 
 **https://kellywaldro.github.io/pharmacies/**
 
@@ -443,14 +448,14 @@ No issues found! 🎉
 
 * Add a link to your project's GitHub repo, so people can review your code
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `1990` overlaps with `1992` at screen width 900
-   * Text `1992` overlaps with `1994` at screen width 900
-   * Text `1994` overlaps with `1996` at screen width 900
-   * Text `1996` overlaps with `1998` at screen width 900
-   * Text `1998` overlaps with `2000` at screen width 900
-   * Text `2000` overlaps with `2002` at screen width 900
-   * Text `2002` overlaps with `2004` at screen width 900
-   * *and 23 more*
+   * Text `1990` overlaps with `1992` at screen width 1300
+   * Text `1992` overlaps with `1994` at screen width 1300
+   * Text `1994` overlaps with `1996` at screen width 1300
+   * Text `1996` overlaps with `1998` at screen width 1300
+   * Text `1998` overlaps with `2000` at screen width 1300
+   * Text `2000` overlaps with `2002` at screen width 1300
+   * Text `2002` overlaps with `2004` at screen width 1300
+   * *and 8 more*
 
 
 
@@ -499,7 +504,7 @@ No issues found! 🎉
    * Text `O` overlaps with `S` at screen width 400
    * Text `O` overlaps with `N` at screen width 400
    * Text `S` overlaps with `A` at screen width 400
-   * *and 6 more*
+   * *and 19 more*
 
 
 
@@ -767,8 +772,8 @@ No issues found! 🎉
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[Elena's glamourous Portfolio](https://vivek1799.github.io)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/vivek1799.github.io/index.html-mobile-thumb.jpg)](screenshots/vivek1799.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/vivek1799.github.io/index.html-medium-thumb.jpg)](screenshots/vivek1799.github.io/index.html-medium-full.jpg)|[![wide](screenshots/vivek1799.github.io/index.html-wide-thumb.jpg)](screenshots/vivek1799.github.io/index.html-wide-full.jpg)|
-|[Elena's glamourous Portfolio](https://vivek1799.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/vivek1799.github.io/index.html-mobile-thumb.jpg)](screenshots/vivek1799.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/vivek1799.github.io/index.html-medium-thumb.jpg)](screenshots/vivek1799.github.io/index.html-medium-full.jpg)|[![wide](screenshots/vivek1799.github.io/index.html-wide-thumb.jpg)](screenshots/vivek1799.github.io/index.html-wide-full.jpg)|
+|[Vivek's Portfolio](https://vivek1799.github.io)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/vivek1799.github.io/index.html-mobile-thumb.jpg)](screenshots/vivek1799.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/vivek1799.github.io/index.html-medium-thumb.jpg)](screenshots/vivek1799.github.io/index.html-medium-full.jpg)|[![wide](screenshots/vivek1799.github.io/index.html-wide-thumb.jpg)](screenshots/vivek1799.github.io/index.html-wide-full.jpg)|
+|[Vivek's Portfolio](https://vivek1799.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/vivek1799.github.io/index.html-mobile-thumb.jpg)](screenshots/vivek1799.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/vivek1799.github.io/index.html-medium-thumb.jpg)](screenshots/vivek1799.github.io/index.html-medium-full.jpg)|[![wide](screenshots/vivek1799.github.io/index.html-wide-thumb.jpg)](screenshots/vivek1799.github.io/index.html-wide-full.jpg)|
 |[Essential_Grocery_Prices_around_Columbia_University/index.html](https://vivek1799.github.io/Essential_Grocery_Prices_around_Columbia_University/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/vivek1799.github.io/Essential_Grocery_Prices_around_Columbia_University_index.html-mobile-thumb.jpg)](screenshots/vivek1799.github.io/Essential_Grocery_Prices_around_Columbia_University_index.html-mobile-full.jpg)|[![medium](screenshots/vivek1799.github.io/Essential_Grocery_Prices_around_Columbia_University_index.html-medium-thumb.jpg)](screenshots/vivek1799.github.io/Essential_Grocery_Prices_around_Columbia_University_index.html-medium-full.jpg)|[![wide](screenshots/vivek1799.github.io/Essential_Grocery_Prices_around_Columbia_University_index.html-wide-thumb.jpg)](screenshots/vivek1799.github.io/Essential_Grocery_Prices_around_Columbia_University_index.html-wide-full.jpg)|
 |[Financial-News-companies-scraped-for-tesla/index.html](https://vivek1799.github.io/Financial-News-companies-scraped-for-tesla/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/vivek1799.github.io/Financial-News-companies-scraped-for-tesla_index.html-mobile-thumb.jpg)](screenshots/vivek1799.github.io/Financial-News-companies-scraped-for-tesla_index.html-mobile-full.jpg)|[![medium](screenshots/vivek1799.github.io/Financial-News-companies-scraped-for-tesla_index.html-medium-thumb.jpg)](screenshots/vivek1799.github.io/Financial-News-companies-scraped-for-tesla_index.html-medium-full.jpg)|[![wide](screenshots/vivek1799.github.io/Financial-News-companies-scraped-for-tesla_index.html-wide-thumb.jpg)](screenshots/vivek1799.github.io/Financial-News-companies-scraped-for-tesla_index.html-wide-full.jpg)|
 |[Indian cities and Congestion](https://vivek1799.github.io/Indian-cities-congestion-problem/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/vivek1799.github.io/Indian-cities-congestion-problem_index.html-mobile-thumb.jpg)](screenshots/vivek1799.github.io/Indian-cities-congestion-problem_index.html-mobile-full.jpg)|[![medium](screenshots/vivek1799.github.io/Indian-cities-congestion-problem_index.html-medium-thumb.jpg)](screenshots/vivek1799.github.io/Indian-cities-congestion-problem_index.html-medium-full.jpg)|[![wide](screenshots/vivek1799.github.io/Indian-cities-congestion-problem_index.html-wide-thumb.jpg)](screenshots/vivek1799.github.io/Indian-cities-congestion-problem_index.html-wide-full.jpg)|
