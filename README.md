@@ -95,7 +95,7 @@ No issues found! 🎉
    * Text `2018` overlaps with `2018` at screen width 900
    * Text `Uttar Pradesh has always been the most unsafe state for minorities` overlaps with `Uttar Pradesh has always been the most unsafe state for minorities` at screen width 900
    * Text `2021` overlaps with `2021` at screen width 900
-   * *and 5 more*
+   * *and 2 more*
 
 
 
@@ -429,6 +429,7 @@ No issues found! 🎉
 **https://kellywaldro.github.io/medical_emigration/**
 
 * Change URL to use `-` instead of spaces or underscores
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `262 medical visas granted* ` is too small at 10px
 
@@ -748,8 +749,8 @@ No issues found! 🎉
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `Product` is too small at 10px
-    * Text `1657 ` is too small at 9px
-    * Text `3227 ` is too small at 10px
+    * Text `1657` is too small at 9px
+    * Text `3227` is too small at 10px
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
    * Text `Marketing` overlaps with `Product` at screen width 400
    * Text `Marketing` overlaps with `1657` at screen width 400
