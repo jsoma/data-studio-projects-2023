@@ -95,7 +95,7 @@ No issues found! 🎉
    * Text `2018` overlaps with `2018` at screen width 900
    * Text `Uttar Pradesh has always been the most unsafe state for minorities` overlaps with `Uttar Pradesh has always been the most unsafe state for minorities` at screen width 900
    * Text `2021` overlaps with `2021` at screen width 900
-   * *and 1 more*
+   * *and 2 more*
 
 
 
@@ -430,7 +430,7 @@ No issues found! 🎉
 
 * Change URL to use `-` instead of spaces or underscores
 * Minimum font size should be 12px, enlarge text in Illustrator
-    * Text `262 medical visas granted*` is too small at 10px
+    * Text `262 medical visas granted* ` is too small at 10px
 
 **https://kellywaldro.github.io/pharmacies/**
 
@@ -442,16 +442,6 @@ No issues found! 🎉
 **https://kellywaldro.github.io/remittances/**
 
 * Add a link to your project's GitHub repo, so people can review your code
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
-* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `1990` overlaps with `1992` at screen width 400
-   * Text `1992` overlaps with `1994` at screen width 400
-   * Text `1994` overlaps with `1996` at screen width 400
-   * Text `1996` overlaps with `1998` at screen width 400
-   * Text `1998` overlaps with `2000` at screen width 400
-   * Text `2000` overlaps with `2002` at screen width 400
-   * Text `2002` overlaps with `2004` at screen width 400
-   * *and 38 more*
 
 
 
@@ -480,7 +470,7 @@ No issues found! 🎉
 
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `158` is too small at 10px
-    * Text `Cannular or ` is too small at 7px
+    * Text `Cannular or` is too small at 7px
     * Text `IV protection` is too small at 7px
     * Text `58` is too small at 5px
     * Text `Heating or` is too small at 8px
@@ -490,17 +480,9 @@ No issues found! 🎉
 
 **https://laurabejder.com/rain/**
 
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `20` is too small at 10px
-* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `+50 mm` overlaps with `+100 mm` at screen width 400
-   * Text `+15 mm` overlaps with `+25 mm` at screen width 400
-   * Text `J` overlaps with `M` at screen width 400
-   * Text `J` overlaps with `J` at screen width 400
-   * Text `O` overlaps with `S` at screen width 400
-   * Text `O` overlaps with `N` at screen width 400
-   * Text `S` overlaps with `A` at screen width 400
-   * *and 6 more*
 
 
 
@@ -664,7 +646,6 @@ No issues found! 🎉
 **https://rachel-el-p.github.io/disabilities_workers/**
 
 * Change URL to use `-` instead of spaces or underscores
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `COVID-19 starts` is too small at 9px
     * Text `Jan 2023` is too small at 8px
@@ -760,7 +741,7 @@ No issues found! 🎉
    * Text `Product` overlaps with `1657` at screen width 400
    * Text `Founders` overlaps with `5291` at screen width 400
    * Text `Engineers` overlaps with `13960 jobs` at screen width 400
-   * *and 4 more*
+   * *and 5 more*
 
 
 
