@@ -459,7 +459,6 @@ No issues found! 🎉
 **https://juhanarossi.github.io/project-pax-airliners-B737-A320/**
 
 * Change URL to be all in lowercase
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `Other types` is too small at 10px
     * Text `A320` is too small at 10px
@@ -469,6 +468,8 @@ No issues found! 🎉
     * Text `in 2022` is too small at 8px
     * Text `10.0 mil. pax` is too small at 8px
     * *and 28 more*
+* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `1990` overlaps with `0.8` at screen width 400
 
 
 
@@ -591,6 +592,9 @@ No issues found! 🎉
 * Change URL to use `-` instead of spaces or underscores
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `262 medical visas granted* ` is too small at 10px
+* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `Western Australia` overlaps with `262 medical visas granted*` at screen width 900
+   * Text `Western Australia` overlaps with `262 medical visas granted*` at screen width 1300
 
 **https://kellywaldro.github.io/pharmacies/**
 
@@ -602,15 +606,16 @@ No issues found! 🎉
 **https://kellywaldro.github.io/remittances/**
 
 * Add a link to your project's GitHub repo, so people can review your code
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `1990` overlaps with `1992` at screen width 1300
-   * Text `1992` overlaps with `1994` at screen width 1300
-   * Text `1994` overlaps with `1996` at screen width 1300
-   * Text `1996` overlaps with `1998` at screen width 1300
-   * Text `1998` overlaps with `2000` at screen width 1300
-   * Text `2000` overlaps with `2002` at screen width 1300
-   * Text `2002` overlaps with `2004` at screen width 1300
-   * *and 8 more*
+   * Text `1990` overlaps with `1992` at screen width 900
+   * Text `1992` overlaps with `1994` at screen width 900
+   * Text `1994` overlaps with `1996` at screen width 900
+   * Text `1996` overlaps with `1998` at screen width 900
+   * Text `1998` overlaps with `2000` at screen width 900
+   * Text `2000` overlaps with `2002` at screen width 900
+   * Text `2002` overlaps with `2004` at screen width 900
+   * *and 23 more*
 
 
 
@@ -652,7 +657,7 @@ No issues found! 🎉
 
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `158` is too small at 10px
-    * Text `Cannular or` is too small at 7px
+    * Text `Cannular or ` is too small at 7px
     * Text `IV protection` is too small at 7px
     * Text `58` is too small at 5px
     * Text `Heating or` is too small at 8px
@@ -946,7 +951,7 @@ No issues found! 🎉
    * Text `2013` overlaps with `2014` at screen width 400
    * Text `2014` overlaps with `2015` at screen width 400
    * Text `2015` overlaps with `2016` at screen width 400
-   * *and 41 more*
+   * *and 45 more*
 
 **https://shalakas.github.io/judiciary-project/**
 
@@ -995,19 +1000,11 @@ No issues found! 🎉
 **https://shivanireddy13.github.io/project3/docs**
 
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `Product` is too small at 10px
     * Text `1657 ` is too small at 9px
     * Text `3227 ` is too small at 10px
-* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `Marketing` overlaps with `Product` at screen width 400
-   * Text `Marketing` overlaps with `1657` at screen width 400
-   * Text `Marketing` overlaps with `3227` at screen width 400
-   * Text `Investors` overlaps with `7649` at screen width 400
-   * Text `Product` overlaps with `1657` at screen width 400
-   * Text `Founders` overlaps with `5291` at screen width 400
-   * Text `Engineers` overlaps with `13960 jobs` at screen width 400
-   * *and 4 more*
 
 **https://shivanireddy13.github.io/project4/html/**
 
@@ -1035,7 +1032,7 @@ No issues found! 🎉
    * Text `‘12` overlaps with `‘13` at screen width 400
    * Text `‘13` overlaps with `‘14` at screen width 400
    * Text `‘14` overlaps with `‘15` at screen width 400
-   * *and 84 more*
+   * *and 115 more*
 
 
 
@@ -1161,7 +1158,7 @@ No issues found! 🎉
 **https://xinyitu.github.io/precinct-parking/**
 
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-    * Image `image/94th-map.png` missing `alt` tag
+    * Image `image/114th-map.png` missing `alt` tag
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `September, 2013 via Google StreetView` is too small at 6px
     * Text `November, 2021 via Google StreetView` is too small at 6px
