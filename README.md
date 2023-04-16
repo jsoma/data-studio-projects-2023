@@ -360,6 +360,7 @@ No issues found! 🎉
 **https://jakeneenan.github.io/boston-wealth/**
 
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `In the greater Boston area, white households are vastly more wealthy than` is too small at 9px
     * Text `nonwhite households ` is too small at 9px
@@ -371,6 +372,8 @@ No issues found! 🎉
     * *and 201 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
    * Text `2.0` overlaps with `Cape Verdean` at screen width 400
+   * Text `2.0` overlaps with `Cape Verdean` at screen width 900
+   * Text `2.0` overlaps with `Cape Verdean` at screen width 1300
 
 **https://jakeneenan.github.io/bpd_project/**
 
@@ -585,13 +588,16 @@ No issues found! 🎉
    * Text `i` overlaps with `a` at screen width 400
    * Text `m` overlaps with `a` at screen width 400
    * Text `m` overlaps with `n` at screen width 400
-   * *and 66 more*
+   * *and 136 more*
 
 **https://kellywaldro.github.io/medical_emigration/**
 
 * Change URL to use `-` instead of spaces or underscores
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `262 medical visas granted* ` is too small at 10px
+* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `Western Australia` overlaps with `262 medical visas granted*` at screen width 900
+   * Text `Western Australia` overlaps with `262 medical visas granted*` at screen width 1300
 
 **https://kellywaldro.github.io/pharmacies/**
 
@@ -871,6 +877,7 @@ No issues found! 🎉
 **https://rachel-el-p.github.io/disabilities_workers/**
 
 * Change URL to use `-` instead of spaces or underscores
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `COVID-19 starts` is too small at 9px
     * Text `Jan 2023` is too small at 8px
@@ -996,11 +1003,19 @@ No issues found! 🎉
 **https://shivanireddy13.github.io/project3/docs**
 
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `Product` is too small at 10px
     * Text `1657 ` is too small at 9px
     * Text `3227 ` is too small at 10px
+* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `Marketing` overlaps with `Product` at screen width 400
+   * Text `Marketing` overlaps with `1657` at screen width 400
+   * Text `Marketing` overlaps with `3227` at screen width 400
+   * Text `Investors` overlaps with `7649` at screen width 400
+   * Text `Product` overlaps with `1657` at screen width 400
+   * Text `Founders` overlaps with `5291` at screen width 400
+   * Text `Engineers` overlaps with `13960 jobs` at screen width 400
+   * *and 5 more*
 
 **https://shivanireddy13.github.io/project4/html/**
 
@@ -1028,7 +1043,7 @@ No issues found! 🎉
    * Text `‘10` overlaps with `‘11` at screen width 400
    * Text `‘11` overlaps with `‘12` at screen width 400
    * Text `‘12` overlaps with `‘13` at screen width 400
-   * *and 77 more*
+   * *and 46 more*
 
 
 
@@ -1139,17 +1154,22 @@ No issues found! 🎉
 
 **https://xinyitu.github.io/grammys/**
 
+* Minimum font size should be 12px, enlarge text in Illustrator
+    * Text `winner` is too small at 10px
+    * Text `non-white nominee` is too small at 10px
+    * Text `white nominee` is too small at 10px
+    * Text `...This only happened twice to non-white artists` is too small at 9px
+    * Text `From 2009 to 2014, all major awards went to white nominees` is too small at 10px
+    * Text `43% of all nominees were artists of color ` is too small at 10px
+    * Text `1990` is too small at 9px
+    * *and 20 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `43% of all nominees were artists of color` overlaps with `2000` at screen width 400
-   * Text `43% of all nominees were artists of color` overlaps with `2010` at screen width 400
-   * Text `Album of the Year` overlaps with `15%` at screen width 400
-   * Text `Record of the Year` overlaps with `12%` at screen width 400
-   * Text `16%` overlaps with `18%` at screen width 400
-   * Text `16%` overlaps with `14%` at screen width 400
-   * Text `16%` overlaps with `overall chance of winning` at screen width 400
-   * *and 12 more*
-* Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
-    * `"Source Sans Pro"` font not found, used in 48 text objects. Example: _57% of all nominees were white artists, white, nominees_
+   * Text `Average percentage` overlaps with `From 2009 to 2014, all major awards went to white nominees` at screen width 400
+   * Text `Average percentage` overlaps with `43% of all nominees were artists of color` at screen width 400
+   * Text `of white nominees` overlaps with `From 2009 to 2014, all major awards went to white nominees` at screen width 400
+   * Text `of white nominees` overlaps with `43% of all nominees were artists of color` at screen width 400
+   * Text `dropped to 39%` overlaps with `43% of all nominees were artists of color` at screen width 400
+   * Text `From 2009 to 2014, all major awards went to white nominees` overlaps with `43% of all nominees were artists of color` at screen width 400
 
 **https://xinyitu.github.io/precinct-parking/**
 
