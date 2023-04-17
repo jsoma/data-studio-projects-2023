@@ -472,7 +472,6 @@ No issues found! 🎉
     * *and 28 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
    * Text `1990` overlaps with `0.8` at screen width 400
-   * Text `1990` overlaps with `0.8` at screen width 900
 
 
 
@@ -546,11 +545,11 @@ No issues found! 🎉
    * Text `:` overlaps with `Source` at screen width 400
    * Text `:` overlaps with `Korea Forest Service` at screen width 400
    * Text `Source` overlaps with `Korea Forest Service` at screen width 400
-   * Text `:` overlaps with `Source` at screen width 900
-   * Text `:` overlaps with `Korea Forest Service` at screen width 900
+   * Text `area. This is equivalent to` overlaps with `16 times` at screen width 900
+   * Text `16 times` overlaps with `the size of` at screen width 900
+   * Text `Source` overlaps with `:` at screen width 900
    * Text `Source` overlaps with `Korea Forest Service` at screen width 900
-   * Text `:` overlaps with `Source` at screen width 1300
-   * *and 2 more*
+   * *and 6 more*
 
 
 
@@ -594,7 +593,7 @@ No issues found! 🎉
 
 * Change URL to use `-` instead of spaces or underscores
 * Minimum font size should be 12px, enlarge text in Illustrator
-    * Text `262 medical visas granted*` is too small at 10px
+    * Text `262 medical visas granted* ` is too small at 10px
 
 **https://kellywaldro.github.io/pharmacies/**
 
@@ -650,7 +649,7 @@ No issues found! 🎉
    * Text `Netherlands` overlaps with `Switzerland` at screen width 400
    * Text `Romania` overlaps with `N. Macedonia` at screen width 400
    * Text `N. Macedonia` overlaps with `Bulgaria` at screen width 400
-   * *and 7 more*
+   * *and 12 more*
 
 **https://laurabejder.com/knitting/**
 
@@ -791,6 +790,7 @@ No issues found! 🎉
 
 **https://poojachaudhuri.github.io/project-4/**
 
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `One` is too small at 8px
     * Text `zip code` is too small at 8px
@@ -803,14 +803,14 @@ No issues found! 🎉
     * Text `of each zip code.` is too small at 6px
     * *and 112 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `Complaints normalized by` overlaps with `population` at screen width 400
-   * Text `2` overlaps with `2` at screen width 400
-   * Text `2` overlaps with `2` at screen width 400
    * Text `11,311` overlaps with `11,311` at screen width 400
    * Text `11,311` overlaps with `11,311` at screen width 400
    * Text `2` overlaps with `2` at screen width 400
+   * Text `2` overlaps with `2` at screen width 400
    * Text `11,311` overlaps with `11,311` at screen width 400
-   * *and 17 more*
+   * Text `2` overlaps with `2` at screen width 400
+   * Text `Created with` overlaps with `Datawrapper and cleaned on Adobe Illustrator` at screen width 400
+   * *and 14 more*
 
 
 
@@ -891,7 +891,7 @@ No issues found! 🎉
    * Text `Apr 2021` overlaps with `Oct 2021` at screen width 400
    * Text `Oct 2021` overlaps with `Apr 2022` at screen width 400
    * Text `More people with disabilities are entering the labor force` overlaps with `But people with disabilities are only half as likely to be employed` at screen width 400
-   * *and 182 more*
+   * *and 323 more*
 
 **https://rachel-el-p.github.io/train_derailment_and_profits/**
 
@@ -950,7 +950,7 @@ No issues found! 🎉
    * Text `2013` overlaps with `2014` at screen width 400
    * Text `2014` overlaps with `2015` at screen width 400
    * Text `2015` overlaps with `2016` at screen width 400
-   * *and 53 more*
+   * *and 41 more*
 
 **https://shalakas.github.io/judiciary-project/**
 
@@ -1032,14 +1032,14 @@ No issues found! 🎉
     * Text `250` is too small at 6px
     * *and 173 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `‘07` overlaps with `‘06` at screen width 400
+   * Text `‘07` overlaps with `‘08` at screen width 400
    * Text `‘09` overlaps with `‘10` at screen width 400
    * Text `‘09` overlaps with `‘08` at screen width 400
+   * Text `‘10` overlaps with `‘11` at screen width 400
    * Text `‘11` overlaps with `‘12` at screen width 400
-   * Text `‘11` overlaps with `‘10` at screen width 400
    * Text `‘12` overlaps with `‘13` at screen width 400
-   * Text `‘13` overlaps with `‘14` at screen width 400
-   * Text `‘14` overlaps with `‘15` at screen width 400
-   * *and 84 more*
+   * *and 77 more*
 
 
 
