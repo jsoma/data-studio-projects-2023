@@ -35,7 +35,7 @@ Quick checks to make sure our pages are looking their best.
 |[Ahan Penkar](https://ahanpenkar.github.io)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/ahanpenkar.github.io/index.html-mobile-thumb.jpg)](screenshots/ahanpenkar.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/ahanpenkar.github.io/index.html-medium-thumb.jpg)](screenshots/ahanpenkar.github.io/index.html-medium-full.jpg)|[![wide](screenshots/ahanpenkar.github.io/index.html-wide-thumb.jpg)](screenshots/ahanpenkar.github.io/index.html-wide-full.jpg)|
 |[Keeping the Faith](https://ahanpenkar.github.io/foreign-direct-investment)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/ahanpenkar.github.io/foreign-direct-investment_index.html-mobile-thumb.jpg)](screenshots/ahanpenkar.github.io/foreign-direct-investment_index.html-mobile-full.jpg)|[![medium](screenshots/ahanpenkar.github.io/foreign-direct-investment_index.html-medium-thumb.jpg)](screenshots/ahanpenkar.github.io/foreign-direct-investment_index.html-medium-full.jpg)|[![wide](screenshots/ahanpenkar.github.io/foreign-direct-investment_index.html-wide-thumb.jpg)](screenshots/ahanpenkar.github.io/foreign-direct-investment_index.html-wide-full.jpg)|
 |[Dosa Batter Madness](https://ahanpenkar.github.io/my-dosa-project/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/ahanpenkar.github.io/my-dosa-project_index.html-mobile-thumb.jpg)](screenshots/ahanpenkar.github.io/my-dosa-project_index.html-mobile-full.jpg)|[![medium](screenshots/ahanpenkar.github.io/my-dosa-project_index.html-medium-thumb.jpg)](screenshots/ahanpenkar.github.io/my-dosa-project_index.html-medium-full.jpg)|[![wide](screenshots/ahanpenkar.github.io/my-dosa-project_index.html-wide-thumb.jpg)](screenshots/ahanpenkar.github.io/my-dosa-project_index.html-wide-full.jpg)|
-|[Transfer Window Madness](https://ahanpenkar.github.io/transfer-analysis/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/ahanpenkar.github.io/transfer-analysis_index.html-mobile-thumb.jpg)](screenshots/ahanpenkar.github.io/transfer-analysis_index.html-mobile-full.jpg)|[![medium](screenshots/ahanpenkar.github.io/transfer-analysis_index.html-medium-thumb.jpg)](screenshots/ahanpenkar.github.io/transfer-analysis_index.html-medium-full.jpg)|[![wide](screenshots/ahanpenkar.github.io/transfer-analysis_index.html-wide-thumb.jpg)](screenshots/ahanpenkar.github.io/transfer-analysis_index.html-wide-full.jpg)|
+|[Window Madness](https://ahanpenkar.github.io/transfer-analysis/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/ahanpenkar.github.io/transfer-analysis_index.html-mobile-thumb.jpg)](screenshots/ahanpenkar.github.io/transfer-analysis_index.html-mobile-full.jpg)|[![medium](screenshots/ahanpenkar.github.io/transfer-analysis_index.html-medium-thumb.jpg)](screenshots/ahanpenkar.github.io/transfer-analysis_index.html-medium-full.jpg)|[![wide](screenshots/ahanpenkar.github.io/transfer-analysis_index.html-wide-thumb.jpg)](screenshots/ahanpenkar.github.io/transfer-analysis_index.html-wide-full.jpg)|
 |[Keeping the Faith](https://ahanpenkar.github.io/violence-against-christians/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/ahanpenkar.github.io/violence-against-christians_index.html-mobile-thumb.jpg)](screenshots/ahanpenkar.github.io/violence-against-christians_index.html-mobile-full.jpg)|[![medium](screenshots/ahanpenkar.github.io/violence-against-christians_index.html-medium-thumb.jpg)](screenshots/ahanpenkar.github.io/violence-against-christians_index.html-medium-full.jpg)|[![wide](screenshots/ahanpenkar.github.io/violence-against-christians_index.html-wide-thumb.jpg)](screenshots/ahanpenkar.github.io/violence-against-christians_index.html-wide-full.jpg)|
 
 
@@ -73,7 +73,7 @@ Quick checks to make sure our pages are looking their best.
    * Text `$6B` overlaps with `$5.9B` at screen width 400
    * Text `Singapore` overlaps with `$130B` at screen width 400
    * Text `and Mauritius` overlaps with `$130B` at screen width 400
-   * *and 21 more*
+   * *and 28 more*
 
 **https://ahanpenkar.github.io/my-dosa-project/**
 
@@ -81,24 +81,8 @@ No issues found! 🎉
 
 **https://ahanpenkar.github.io/transfer-analysis/**
 
-* Minimum font size should be 12px, enlarge text in Illustrator
-    * Text `€3200` is too small at 6px
-    * Text `€3200` is too small at 6px
-    * Text `€1700` is too small at 6px
-    * Text `€580` is too small at 6px
-    * Text `€316` is too small at 6px
-    * Text `The Pandemic crippled La Liga` is too small at 7px
-    * Text `€335` is too small at 6px
-    * *and 17 more*
-* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `Premier League clubs have spent twice as much as La liga since 2000` overlaps with `€580` at screen width 400
-   * Text `€335` overlaps with `€159` at screen width 400
-   * Text `€1540` overlaps with `€1800` at screen width 400
-   * Text `€159` overlaps with `€424` at screen width 400
-   * Text `€424` overlaps with `€510.` at screen width 400
-   * Text `€1800` overlaps with `€1525` at screen width 400
-   * Text `€24 Bn` overlaps with `€11 Bn` at screen width 400
-   * *and 17 more*
+* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+    * Image `image4.png` missing `alt` tag
 
 **https://ahanpenkar.github.io/violence-against-christians/**
 
@@ -460,7 +444,6 @@ No issues found! 🎉
 **https://juhanarossi.github.io/project-pax-airliners-B737-A320/**
 
 * Change URL to be all in lowercase
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `Other types` is too small at 10px
     * Text `A320` is too small at 10px
@@ -470,6 +453,9 @@ No issues found! 🎉
     * Text `in 2022` is too small at 8px
     * Text `10.0 mil. pax` is too small at 8px
     * *and 28 more*
+* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `1990` overlaps with `0.8` at screen width 400
+   * Text `1990` overlaps with `0.8` at screen width 900
 
 
 
@@ -590,9 +576,11 @@ No issues found! 🎉
 **https://kellywaldro.github.io/medical_emigration/**
 
 * Change URL to use `-` instead of spaces or underscores
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `262 medical visas granted* ` is too small at 10px
+* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `Western Australia` overlaps with `262 medical visas granted*` at screen width 900
+   * Text `Western Australia` overlaps with `262 medical visas granted*` at screen width 1300
 
 **https://kellywaldro.github.io/pharmacies/**
 
@@ -648,13 +636,13 @@ No issues found! 🎉
    * Text `Netherlands` overlaps with `Switzerland` at screen width 400
    * Text `Romania` overlaps with `N. Macedonia` at screen width 400
    * Text `N. Macedonia` overlaps with `Bulgaria` at screen width 400
-   * *and 12 more*
+   * *and 7 more*
 
 **https://laurabejder.com/knitting/**
 
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `158` is too small at 10px
-    * Text `Cannular or ` is too small at 7px
+    * Text `Cannular or` is too small at 7px
     * Text `IV protection` is too small at 7px
     * Text `58` is too small at 5px
     * Text `Heating or` is too small at 8px
@@ -777,7 +765,6 @@ No issues found! 🎉
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
     * Image `images/month_year_image1.svg` missing `alt` tag
     * Image `images/month_year_image2.svg` missing `alt` tag
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `2000` is too small at 9px
     * Text `1500` is too small at 9px
@@ -897,11 +884,10 @@ No issues found! 🎉
 * Change URL to use `-` instead of spaces or underscores
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `Accidents are those recorded by the Federal Railroad Administration between 2017 and 2022` is too small at 9px
-    * Text ` ` is too small at 9px
     * Text `The stock price percentage change is the difference between April 1 2023 and May 1 2018’s prices` is too small at 9px
     * Text `Source: Yahoo! Finance, Federal Railroad Administration` is too small at 9px
     * Text `153 derailments annually between 2018 and 2022` is too small at 10px
-    * Text `yet stock price rose 35%` is too small at 8px
+    * Text `yet stock price rose 35% ` is too small at 8px
     * Text `JAN` is too small at 5px
     * *and 109 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
@@ -950,7 +936,7 @@ No issues found! 🎉
    * Text `2013` overlaps with `2014` at screen width 400
    * Text `2014` overlaps with `2015` at screen width 400
    * Text `2015` overlaps with `2016` at screen width 400
-   * *and 41 more*
+   * *and 45 more*
 
 **https://shalakas.github.io/judiciary-project/**
 
@@ -1011,7 +997,7 @@ No issues found! 🎉
    * Text `Product` overlaps with `1657` at screen width 400
    * Text `Founders` overlaps with `5291` at screen width 400
    * Text `Engineers` overlaps with `13960 jobs` at screen width 400
-   * *and 5 more*
+   * *and 4 more*
 
 **https://shivanireddy13.github.io/project4/html/**
 
@@ -1039,7 +1025,7 @@ No issues found! 🎉
    * Text `‘12` overlaps with `‘13` at screen width 400
    * Text `‘13` overlaps with `‘14` at screen width 400
    * Text `‘14` overlaps with `‘15` at screen width 400
-   * *and 84 more*
+   * *and 115 more*
 
 
 
