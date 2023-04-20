@@ -455,7 +455,6 @@ No issues found! 🎉
     * *and 28 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
    * Text `1990` overlaps with `0.8` at screen width 400
-   * Text `1990` overlaps with `0.8` at screen width 900
 
 
 
@@ -793,7 +792,7 @@ No issues found! 🎉
    * Text `11,311` overlaps with `11,311` at screen width 400
    * Text `2` overlaps with `2` at screen width 400
    * Text `11,311` overlaps with `11,311` at screen width 400
-   * *and 17 more*
+   * *and 20 more*
 
 
 
@@ -857,7 +856,6 @@ No issues found! 🎉
 **https://rachel-el-p.github.io/disabilities_workers/**
 
 * Change URL to use `-` instead of spaces or underscores
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `COVID-19 starts` is too small at 9px
     * Text `Jan 2023` is too small at 8px
@@ -868,25 +866,24 @@ No issues found! 🎉
     * Text `Apr 2021` is too small at 8px
     * *and 284 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `Apr 2020` overlaps with `Jul 2020` at screen width 400
-   * Text `ai2html-settings` overlaps with `ai2html-settings` at screen width 400
-   * Text `settings_version: 0.115.5` overlaps with `settings_version: 0.115.5` at screen width 400
-   * Text `image_format: auto` overlaps with `image_format: auto` at screen width 400
-   * Text `responsiveness: fixed` overlaps with `responsiveness: fixed` at screen width 400
-   * Text `output: one-file` overlaps with `output: one-file` at screen width 400
-   * Text `html_output_path: /ai2html-output/` overlaps with `html_output_path: /ai2html-output/` at screen width 400
-   * *and 320 more*
+   * Text `from COVID-19 highs, but still higher than those with no disabilities` overlaps with `People with disabilities are about twice as likely to be unemployed` at screen width 400
+   * Text `Jan 2023` overlaps with `Oct 2022` at screen width 400
+   * Text `Oct 2022` overlaps with `Apr 2022` at screen width 400
+   * Text `Oct 2020` overlaps with `Apr 2021` at screen width 400
+   * Text `Apr 2021` overlaps with `Oct 2021` at screen width 400
+   * Text `Oct 2021` overlaps with `Apr 2022` at screen width 400
+   * Text `More people with disabilities are entering the labor force` overlaps with `But people with disabilities are only half as likely to be employed` at screen width 400
+   * *and 323 more*
 
 **https://rachel-el-p.github.io/train_derailment_and_profits/**
 
 * Change URL to use `-` instead of spaces or underscores
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `Accidents are those recorded by the Federal Railroad Administration between 2017 and 2022` is too small at 9px
-    * Text ` ` is too small at 9px
     * Text `The stock price percentage change is the difference between April 1 2023 and May 1 2018’s prices` is too small at 9px
     * Text `Source: Yahoo! Finance, Federal Railroad Administration` is too small at 9px
     * Text `153 derailments annually between 2018 and 2022` is too small at 10px
-    * Text `yet stock price rose 35%` is too small at 8px
+    * Text `yet stock price rose 35% ` is too small at 8px
     * Text `JAN` is too small at 5px
     * *and 109 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
@@ -935,7 +932,7 @@ No issues found! 🎉
    * Text `2013` overlaps with `2014` at screen width 400
    * Text `2014` overlaps with `2015` at screen width 400
    * Text `2015` overlaps with `2016` at screen width 400
-   * *and 53 more*
+   * *and 41 more*
 
 **https://shalakas.github.io/judiciary-project/**
 
@@ -996,7 +993,7 @@ No issues found! 🎉
    * Text `Product` overlaps with `1657` at screen width 400
    * Text `Founders` overlaps with `5291` at screen width 400
    * Text `Engineers` overlaps with `13960 jobs` at screen width 400
-   * *and 4 more*
+   * *and 5 more*
 
 **https://shivanireddy13.github.io/project4/html/**
 
