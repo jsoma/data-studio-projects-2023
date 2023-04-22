@@ -93,10 +93,8 @@ No issues found! 🎉
    * Text `Uttar Pradesh has always been the most unsafe state for minorities` overlaps with `Uttar Pradesh has always been the most unsafe state for minorities` at screen width 400
    * Text `2021` overlaps with `2021` at screen width 400
    * Text `Madhya Pradesh and Chhattisgarh and Karnataka saw a nearly five-fold increase in violence` overlaps with `Madhya Pradesh and Chhattisgarh and Karnataka saw a nearly five-fold increase in violence` at screen width 400
-   * Text `2018` overlaps with `2018` at screen width 900
    * Text `Uttar Pradesh has always been the most unsafe state for minorities` overlaps with `Uttar Pradesh has always been the most unsafe state for minorities` at screen width 900
-   * Text `2021` overlaps with `2021` at screen width 900
-   * *and 2 more*
+   * Text `Uttar Pradesh has always been the most unsafe state for minorities` overlaps with `Uttar Pradesh has always been the most unsafe state for minorities` at screen width 1300
 
 
 
@@ -450,7 +448,6 @@ No issues found! 🎉
     * *and 28 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
    * Text `1990` overlaps with `0.8` at screen width 400
-   * Text `1990` overlaps with `0.8` at screen width 900
 
 
 
@@ -572,7 +569,7 @@ No issues found! 🎉
 
 * Change URL to use `-` instead of spaces or underscores
 * Minimum font size should be 12px, enlarge text in Illustrator
-    * Text `262 medical visas granted*` is too small at 10px
+    * Text `262 medical visas granted* ` is too small at 10px
 
 **https://kellywaldro.github.io/pharmacies/**
 
@@ -644,6 +641,7 @@ No issues found! 🎉
 
 **https://laurabejder.com/rain/**
 
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `20` is too small at 10px
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
@@ -911,7 +909,6 @@ No issues found! 🎉
 
 **https://shalakas.github.io/blueberry-production-peru/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `% Change in annual production percent (2012 to 2021)` is too small at 5px
     * Text `50` is too small at 5px
@@ -922,14 +919,14 @@ No issues found! 🎉
     * Text `World production` is too small at 5px
     * *and 79 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `True hemp` overlaps with `Blueberries` at screen width 400
-   * Text `Cajamarca` overlaps with `Lambayeque` at screen width 400
-   * Text `La Libertad` overlaps with `PACIFIC OCEAN` at screen width 400
-   * Text `PACIFIC OCEAN` overlaps with `Ancash` at screen width 400
-   * Text `PACIFIC OCEAN` overlaps with `Lima` at screen width 400
-   * Text `PACIFIC OCEAN` overlaps with `Ica` at screen width 400
-   * Text `True hemp` overlaps with `Blueberries` at screen width 900
-   * *and 23 more*
+   * Text `2012` overlaps with `2013` at screen width 400
+   * Text `2020` overlaps with `2021` at screen width 400
+   * Text `227k` overlaps with `Peru` at screen width 400
+   * Text `2012` overlaps with `2013` at screen width 400
+   * Text `2013` overlaps with `2014` at screen width 400
+   * Text `2014` overlaps with `2015` at screen width 400
+   * Text `2015` overlaps with `2016` at screen width 400
+   * *and 41 more*
 
 **https://shalakas.github.io/judiciary-project/**
 
