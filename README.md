@@ -572,7 +572,6 @@ No issues found! 🎉
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `262 medical visas granted* ` is too small at 10px
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `Western Australia` overlaps with `262 medical visas granted*` at screen width 900
    * Text `Western Australia` overlaps with `262 medical visas granted*` at screen width 1300
 
 **https://kellywaldro.github.io/pharmacies/**
@@ -770,7 +769,6 @@ No issues found! 🎉
 
 **https://poojachaudhuri.github.io/project-4/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `One` is too small at 8px
     * Text `zip code` is too small at 8px
@@ -783,14 +781,14 @@ No issues found! 🎉
     * Text `of each zip code.` is too small at 6px
     * *and 112 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `11,311` overlaps with `11,311` at screen width 400
-   * Text `11,311` overlaps with `11,311` at screen width 400
+   * Text `Complaints normalized by` overlaps with `population` at screen width 400
    * Text `2` overlaps with `2` at screen width 400
    * Text `2` overlaps with `2` at screen width 400
    * Text `11,311` overlaps with `11,311` at screen width 400
+   * Text `11,311` overlaps with `11,311` at screen width 400
    * Text `2` overlaps with `2` at screen width 400
-   * Text `Created with` overlaps with `Datawrapper and cleaned on Adobe Illustrator` at screen width 400
-   * *and 14 more*
+   * Text `11,311` overlaps with `11,311` at screen width 400
+   * *and 17 more*
 
 
 
@@ -913,7 +911,6 @@ No issues found! 🎉
 
 **https://shalakas.github.io/blueberry-production-peru/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `% Change in annual production percent (2012 to 2021)` is too small at 5px
     * Text `50` is too small at 5px
@@ -924,14 +921,14 @@ No issues found! 🎉
     * Text `World production` is too small at 5px
     * *and 79 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `True hemp` overlaps with `Blueberries` at screen width 400
-   * Text `Cajamarca` overlaps with `Lambayeque` at screen width 400
-   * Text `La Libertad` overlaps with `PACIFIC OCEAN` at screen width 400
-   * Text `PACIFIC OCEAN` overlaps with `Ancash` at screen width 400
-   * Text `PACIFIC OCEAN` overlaps with `Lima` at screen width 400
-   * Text `PACIFIC OCEAN` overlaps with `Ica` at screen width 400
-   * Text `True hemp` overlaps with `Blueberries` at screen width 900
-   * *and 23 more*
+   * Text `2012` overlaps with `2013` at screen width 400
+   * Text `2020` overlaps with `2021` at screen width 400
+   * Text `227k` overlaps with `Peru` at screen width 400
+   * Text `2012` overlaps with `2013` at screen width 400
+   * Text `2013` overlaps with `2014` at screen width 400
+   * Text `2014` overlaps with `2015` at screen width 400
+   * Text `2015` overlaps with `2016` at screen width 400
+   * *and 41 more*
 
 **https://shalakas.github.io/judiciary-project/**
 
@@ -980,6 +977,7 @@ No issues found! 🎉
 **https://shivanireddy13.github.io/project3/docs**
 
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `Product` is too small at 10px
     * Text `1657 ` is too small at 9px
