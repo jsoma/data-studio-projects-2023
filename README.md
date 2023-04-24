@@ -44,12 +44,11 @@ Quick checks to make sure our pages are looking their best.
 **https://ahanpenkar.github.io**
 
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-    * Image `https://believersportal.com/wp-content/uploads/2021/12/india-2048x1152.webp` missing `alt` tag
+    * Image `images/vio_map.png` missing `alt` tag
 
 **https://ahanpenkar.github.io/foreign-direct-investment**
 
 * Add a link to your project's GitHub repo, so people can review your code
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `France` is too small at 10px
     * Text `Germany` is too small at 10px
@@ -60,13 +59,13 @@ Quick checks to make sure our pages are looking their best.
     * Text `$6B` is too small at 10px
     * *and 1 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `JIO Platforms` overlaps with `$15B` at screen width 400
-   * Text `Vodafone IDEA` overlaps with `$10B` at screen width 400
-   * Text `Amazon Services` overlaps with `$4.8B` at screen width 400
-   * Text `Cayman Islands` overlaps with `USA` at screen width 400
-   * Text `Airtel` overlaps with `$2.5B` at screen width 400
-   * Text `Axis Bank` overlaps with `$2.5B` at screen width 400
-   * Text `OYO Rooms` overlaps with `$2.2B` at screen width 400
+   * Text `Netherlands` overlaps with `UK` at screen width 400
+   * Text `UK` overlaps with `$7.4B` at screen width 400
+   * Text `UAE` overlaps with `Switzerland` at screen width 400
+   * Text `Switzerland` overlaps with `$6B` at screen width 400
+   * Text `$6B` overlaps with `$5.9B` at screen width 400
+   * Text `Singapore` overlaps with `$130B` at screen width 400
+   * Text `and Mauritius` overlaps with `$130B` at screen width 400
    * *and 21 more*
 
 **https://ahanpenkar.github.io/my-dosa-project/**
@@ -565,7 +564,7 @@ No issues found! 🎉
    * Text `i` overlaps with `a` at screen width 400
    * Text `m` overlaps with `a` at screen width 400
    * Text `m` overlaps with `n` at screen width 400
-   * *and 66 more*
+   * *and 136 more*
 
 **https://kellywaldro.github.io/medical_emigration/**
 
@@ -653,7 +652,7 @@ No issues found! 🎉
    * Text `O` overlaps with `S` at screen width 400
    * Text `O` overlaps with `N` at screen width 400
    * Text `S` overlaps with `A` at screen width 400
-   * *and 6 more*
+   * *and 19 more*
 
 
 
@@ -1009,14 +1008,14 @@ No issues found! 🎉
     * Text `250` is too small at 6px
     * *and 173 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `‘07` overlaps with `‘06` at screen width 400
+   * Text `‘07` overlaps with `‘08` at screen width 400
    * Text `‘09` overlaps with `‘10` at screen width 400
    * Text `‘09` overlaps with `‘08` at screen width 400
+   * Text `‘10` overlaps with `‘11` at screen width 400
    * Text `‘11` overlaps with `‘12` at screen width 400
-   * Text `‘11` overlaps with `‘10` at screen width 400
    * Text `‘12` overlaps with `‘13` at screen width 400
-   * Text `‘13` overlaps with `‘14` at screen width 400
-   * Text `‘14` overlaps with `‘15` at screen width 400
-   * *and 84 more*
+   * *and 46 more*
 
 
 
