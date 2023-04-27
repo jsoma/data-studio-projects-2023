@@ -93,10 +93,7 @@ No issues found! 🎉
    * Text `Uttar Pradesh has always been the most unsafe state for minorities` overlaps with `Uttar Pradesh has always been the most unsafe state for minorities` at screen width 400
    * Text `2021` overlaps with `2021` at screen width 400
    * Text `Madhya Pradesh and Chhattisgarh and Karnataka saw a nearly five-fold increase in violence` overlaps with `Madhya Pradesh and Chhattisgarh and Karnataka saw a nearly five-fold increase in violence` at screen width 400
-   * Text `2018` overlaps with `2018` at screen width 900
    * Text `Uttar Pradesh has always been the most unsafe state for minorities` overlaps with `Uttar Pradesh has always been the most unsafe state for minorities` at screen width 900
-   * Text `2021` overlaps with `2021` at screen width 900
-   * *and 1 more*
 
 
 
@@ -450,6 +447,7 @@ No issues found! 🎉
     * *and 28 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
    * Text `1990` overlaps with `0.8` at screen width 400
+   * Text `1990` overlaps with `0.8` at screen width 900
 
 
 
@@ -523,11 +521,11 @@ No issues found! 🎉
    * Text `:` overlaps with `Source` at screen width 400
    * Text `:` overlaps with `Korea Forest Service` at screen width 400
    * Text `Source` overlaps with `Korea Forest Service` at screen width 400
-   * Text `area. This is equivalent to` overlaps with `16 times` at screen width 900
-   * Text `16 times` overlaps with `the size of` at screen width 900
-   * Text `Source` overlaps with `:` at screen width 900
+   * Text `:` overlaps with `Source` at screen width 900
+   * Text `:` overlaps with `Korea Forest Service` at screen width 900
    * Text `Source` overlaps with `Korea Forest Service` at screen width 900
-   * *and 6 more*
+   * Text `area. This is equivalent to` overlaps with `16 times` at screen width 1300
+   * *and 4 more*
 
 
 
@@ -570,12 +568,8 @@ No issues found! 🎉
 **https://kellywaldro.github.io/medical_emigration/**
 
 * Change URL to use `-` instead of spaces or underscores
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `262 medical visas granted* ` is too small at 10px
-* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `Western Australia` overlaps with `262 medical visas granted*` at screen width 900
-   * Text `Western Australia` overlaps with `262 medical visas granted*` at screen width 1300
 
 **https://kellywaldro.github.io/pharmacies/**
 
@@ -587,16 +581,15 @@ No issues found! 🎉
 **https://kellywaldro.github.io/remittances/**
 
 * Add a link to your project's GitHub repo, so people can review your code
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `1990` overlaps with `1992` at screen width 1300
-   * Text `1992` overlaps with `1994` at screen width 1300
-   * Text `1994` overlaps with `1996` at screen width 1300
-   * Text `1996` overlaps with `1998` at screen width 1300
-   * Text `1998` overlaps with `2000` at screen width 1300
-   * Text `2000` overlaps with `2002` at screen width 1300
-   * Text `2002` overlaps with `2004` at screen width 1300
-   * *and 8 more*
+   * Text `1990` overlaps with `1992` at screen width 900
+   * Text `1992` overlaps with `1994` at screen width 900
+   * Text `1994` overlaps with `1996` at screen width 900
+   * Text `1996` overlaps with `1998` at screen width 900
+   * Text `1998` overlaps with `2000` at screen width 900
+   * Text `2000` overlaps with `2002` at screen width 900
+   * Text `2002` overlaps with `2004` at screen width 900
+   * *and 23 more*
 
 
 
@@ -648,7 +641,6 @@ No issues found! 🎉
 
 **https://laurabejder.com/rain/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `20` is too small at 10px
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
@@ -793,7 +785,7 @@ No issues found! 🎉
    * Text `11,311` overlaps with `11,311` at screen width 400
    * Text `2` overlaps with `2` at screen width 400
    * Text `11,311` overlaps with `11,311` at screen width 400
-   * *and 17 more*
+   * *and 20 more*
 
 
 
@@ -879,7 +871,6 @@ No issues found! 🎉
 **https://rachel-el-p.github.io/train_derailment_and_profits/**
 
 * Change URL to use `-` instead of spaces or underscores
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `Accidents are those recorded by the Federal Railroad Administration between 2017 and 2022` is too small at 9px
     * Text `The stock price percentage change is the difference between April 1 2023 and May 1 2018’s prices` is too small at 9px
@@ -889,8 +880,8 @@ No issues found! 🎉
     * Text `JAN` is too small at 5px
     * *and 109 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `2021` overlaps with `In 2018, the same trains derailed 856 times,` at screen width 400
-   * Text `2018` overlaps with `2019` at screen width 400
+   * Text `2023 Apr: $205` overlaps with `APR` at screen width 400
+   * Text `2018 May: $152` overlaps with `250` at screen width 400
    * Text `2021` overlaps with `In 2018, the same trains derailed 856 times,` at screen width 900
    * Text `2018` overlaps with `2019` at screen width 900
    * Text `2021` overlaps with `In 2018, the same trains derailed 856 times,` at screen width 1300
@@ -934,7 +925,7 @@ No issues found! 🎉
    * Text `2013` overlaps with `2014` at screen width 400
    * Text `2014` overlaps with `2015` at screen width 400
    * Text `2015` overlaps with `2016` at screen width 400
-   * *and 41 more*
+   * *and 45 more*
 
 **https://shalakas.github.io/judiciary-project/**
 
