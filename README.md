@@ -75,7 +75,7 @@ No issues found! 🎉
 **https://ahanpenkar.github.io/transfer-analysis/**
 
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-    * Image `image5.jpeg` missing `alt` tag
+    * Image `image4.png` missing `alt` tag
 
 **https://ahanpenkar.github.io/violence-against-christians/**
 
@@ -94,7 +94,6 @@ No issues found! 🎉
    * Text `2021` overlaps with `2021` at screen width 400
    * Text `Madhya Pradesh and Chhattisgarh and Karnataka saw a nearly five-fold increase in violence` overlaps with `Madhya Pradesh and Chhattisgarh and Karnataka saw a nearly five-fold increase in violence` at screen width 400
    * Text `Uttar Pradesh has always been the most unsafe state for minorities` overlaps with `Uttar Pradesh has always been the most unsafe state for minorities` at screen width 900
-   * Text `Uttar Pradesh has always been the most unsafe state for minorities` overlaps with `Uttar Pradesh has always been the most unsafe state for minorities` at screen width 1300
 
 
 
@@ -642,7 +641,7 @@ No issues found! 🎉
    * Text `O` overlaps with `S` at screen width 400
    * Text `O` overlaps with `N` at screen width 400
    * Text `S` overlaps with `A` at screen width 400
-   * *and 19 more*
+   * *and 6 more*
 
 
 
@@ -857,7 +856,7 @@ No issues found! 🎉
    * Text `Apr 2021` overlaps with `Oct 2021` at screen width 400
    * Text `Oct 2021` overlaps with `Apr 2022` at screen width 400
    * Text `More people with disabilities are entering the labor force` overlaps with `But people with disabilities are only half as likely to be employed` at screen width 400
-   * *and 323 more*
+   * *and 182 more*
 
 **https://rachel-el-p.github.io/train_derailment_and_profits/**
 
@@ -1005,7 +1004,7 @@ No issues found! 🎉
    * Text `‘12` overlaps with `‘13` at screen width 400
    * Text `‘13` overlaps with `‘14` at screen width 400
    * Text `‘14` overlaps with `‘15` at screen width 400
-   * *and 84 more*
+   * *and 115 more*
 
 
 
