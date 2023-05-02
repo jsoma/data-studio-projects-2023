@@ -224,6 +224,11 @@ No issues found! 🎉
     * Text `63` is too small at 10px
     * Text `Manhattan` is too small at 10px
     * *and 3 more*
+* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `George` overlaps with `92` at screen width 400
+   * Text `Washington` overlaps with `92` at screen width 400
+   * Text `Frederick` overlaps with `91` at screen width 400
+   * Text `Law Olmsted` overlaps with `91` at screen width 400
 * Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
     * `LibreFranklinRoman` font not found, used in 56 text objects. Example: _Robert Moses was mentioned in more historical signs than anyone else, Top five most mentioned person on the historical signs made by NYC Parks and Recreation, 302_
 
@@ -443,7 +448,7 @@ No issues found! 🎉
     * Text `10.0 mil. pax` is too small at 8px
     * *and 28 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `1990` overlaps with `0.8` at screen width 400
+   * Text `1990` overlaps with `0.8` at screen width 900
 
 
 
@@ -781,7 +786,7 @@ No issues found! 🎉
    * Text `11,311` overlaps with `11,311` at screen width 400
    * Text `2` overlaps with `2` at screen width 400
    * Text `11,311` overlaps with `11,311` at screen width 400
-   * *and 20 more*
+   * *and 17 more*
 
 
 
@@ -970,19 +975,15 @@ No issues found! 🎉
 **https://shivanireddy13.github.io/project3/docs**
 
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `Product` is too small at 10px
     * Text `1657 ` is too small at 9px
     * Text `3227 ` is too small at 10px
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `Marketing` overlaps with `Product` at screen width 400
-   * Text `Marketing` overlaps with `1657` at screen width 400
-   * Text `Marketing` overlaps with `3227` at screen width 400
-   * Text `Investors` overlaps with `7649` at screen width 400
-   * Text `Product` overlaps with `1657` at screen width 400
-   * Text `Founders` overlaps with `5291` at screen width 400
-   * Text `Engineers` overlaps with `13960 jobs` at screen width 400
-   * *and 4 more*
+   * Text `Marketing` overlaps with `Product` at screen width 900
+   * Text `Investors` overlaps with `7649` at screen width 900
+   * Text `Engineers` overlaps with `13960 jobs` at screen width 900
 
 **https://shivanireddy13.github.io/project4/html/**
 
@@ -1003,14 +1004,14 @@ No issues found! 🎉
     * Text `250` is too small at 6px
     * *and 173 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `‘07` overlaps with `‘06` at screen width 400
-   * Text `‘07` overlaps with `‘08` at screen width 400
    * Text `‘09` overlaps with `‘10` at screen width 400
    * Text `‘09` overlaps with `‘08` at screen width 400
-   * Text `‘10` overlaps with `‘11` at screen width 400
    * Text `‘11` overlaps with `‘12` at screen width 400
+   * Text `‘11` overlaps with `‘10` at screen width 400
    * Text `‘12` overlaps with `‘13` at screen width 400
-   * *and 77 more*
+   * Text `‘13` overlaps with `‘14` at screen width 400
+   * Text `‘14` overlaps with `‘15` at screen width 400
+   * *and 84 more*
 
 
 
