@@ -93,8 +93,10 @@ No issues found! 🎉
    * Text `Uttar Pradesh has always been the most unsafe state for minorities` overlaps with `Uttar Pradesh has always been the most unsafe state for minorities` at screen width 400
    * Text `2021` overlaps with `2021` at screen width 400
    * Text `Madhya Pradesh and Chhattisgarh and Karnataka saw a nearly five-fold increase in violence` overlaps with `Madhya Pradesh and Chhattisgarh and Karnataka saw a nearly five-fold increase in violence` at screen width 400
+   * Text `2018` overlaps with `2018` at screen width 900
    * Text `Uttar Pradesh has always been the most unsafe state for minorities` overlaps with `Uttar Pradesh has always been the most unsafe state for minorities` at screen width 900
-   * Text `Uttar Pradesh has always been the most unsafe state for minorities` overlaps with `Uttar Pradesh has always been the most unsafe state for minorities` at screen width 1300
+   * Text `2021` overlaps with `2021` at screen width 900
+   * *and 1 more*
 
 
 
@@ -340,12 +342,12 @@ No issues found! 🎉
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `In the greater Boston area, white households are vastly more wealthy than` is too small at 9px
-    * Text `nonwhite households ` is too small at 9px
-    * Text `Median household net worth by race ` is too small at 6px
+    * Text `nonwhite households` is too small at 9px
+    * Text `Median household net worth by race` is too small at 6px
     * Text `Not elsewhere` is too small at 5px
     * Text `classified` is too small at 5px
     * Text `Caribbean Black` is too small at 6px
-    * Text `Puerto ` is too small at 5px
+    * Text `Puerto` is too small at 5px
     * *and 201 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
    * Text `2.0` overlaps with `Cape Verdean` at screen width 400
@@ -582,7 +584,6 @@ No issues found! 🎉
 **https://kellywaldro.github.io/remittances/**
 
 * Add a link to your project's GitHub repo, so people can review your code
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
    * Text `1990` overlaps with `1992` at screen width 1300
    * Text `1992` overlaps with `1994` at screen width 1300
@@ -868,7 +869,7 @@ No issues found! 🎉
    * Text `Apr 2021` overlaps with `Oct 2021` at screen width 400
    * Text `Oct 2021` overlaps with `Apr 2022` at screen width 400
    * Text `More people with disabilities are entering the labor force` overlaps with `But people with disabilities are only half as likely to be employed` at screen width 400
-   * *and 323 more*
+   * *and 182 more*
 
 **https://rachel-el-p.github.io/train_derailment_and_profits/**
 
@@ -988,7 +989,7 @@ No issues found! 🎉
    * Text `Product` overlaps with `1657` at screen width 400
    * Text `Founders` overlaps with `5291` at screen width 400
    * Text `Engineers` overlaps with `13960 jobs` at screen width 400
-   * *and 4 more*
+   * *and 5 more*
 
 **https://shivanireddy13.github.io/project4/html/**
 
@@ -1009,14 +1010,14 @@ No issues found! 🎉
     * Text `250` is too small at 6px
     * *and 173 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `‘07` overlaps with `‘06` at screen width 400
+   * Text `‘07` overlaps with `‘08` at screen width 400
    * Text `‘09` overlaps with `‘10` at screen width 400
    * Text `‘09` overlaps with `‘08` at screen width 400
+   * Text `‘10` overlaps with `‘11` at screen width 400
    * Text `‘11` overlaps with `‘12` at screen width 400
-   * Text `‘11` overlaps with `‘10` at screen width 400
    * Text `‘12` overlaps with `‘13` at screen width 400
-   * Text `‘13` overlaps with `‘14` at screen width 400
-   * Text `‘14` overlaps with `‘15` at screen width 400
-   * *and 84 more*
+   * *and 46 more*
 
 
 
@@ -1137,17 +1138,12 @@ No issues found! 🎉
     * Text `1990` is too small at 9px
     * *and 20 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `Average percentage` overlaps with `From 2009 to 2014, all major awards went to white nominees` at screen width 400
-   * Text `Average percentage` overlaps with `43% of all nominees were artists of color` at screen width 400
-   * Text `of white nominees` overlaps with `From 2009 to 2014, all major awards went to white nominees` at screen width 400
-   * Text `of white nominees` overlaps with `43% of all nominees were artists of color` at screen width 400
-   * Text `dropped to 39%` overlaps with `43% of all nominees were artists of color` at screen width 400
    * Text `From 2009 to 2014, all major awards went to white nominees` overlaps with `43% of all nominees were artists of color` at screen width 400
 
 **https://xinyitu.github.io/precinct-parking/**
 
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-    * Image `image/94th-map.png` missing `alt` tag
+    * Image `image/84th-map.png` missing `alt` tag
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `September, 2013 via Google StreetView` is too small at 6px
