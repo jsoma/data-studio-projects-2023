@@ -49,6 +49,7 @@ Quick checks to make sure our pages are looking their best.
 **https://ahanpenkar.github.io/foreign-direct-investment**
 
 * Add a link to your project's GitHub repo, so people can review your code
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `France` is too small at 10px
     * Text `Germany` is too small at 10px
@@ -59,14 +60,14 @@ Quick checks to make sure our pages are looking their best.
     * Text `$6B` is too small at 10px
     * *and 1 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `Netherlands` overlaps with `UK` at screen width 400
-   * Text `UK` overlaps with `$7.4B` at screen width 400
-   * Text `UAE` overlaps with `Switzerland` at screen width 400
-   * Text `Switzerland` overlaps with `$6B` at screen width 400
-   * Text `$6B` overlaps with `$5.9B` at screen width 400
-   * Text `Singapore` overlaps with `$130B` at screen width 400
-   * Text `and Mauritius` overlaps with `$130B` at screen width 400
-   * *and 28 more*
+   * Text `JIO Platforms` overlaps with `$15B` at screen width 400
+   * Text `Vodafone IDEA` overlaps with `$10B` at screen width 400
+   * Text `Amazon Services` overlaps with `$4.8B` at screen width 400
+   * Text `Cayman Islands` overlaps with `USA` at screen width 400
+   * Text `Airtel` overlaps with `$2.5B` at screen width 400
+   * Text `Axis Bank` overlaps with `$2.5B` at screen width 400
+   * Text `OYO Rooms` overlaps with `$2.2B` at screen width 400
+   * *and 21 more*
 
 **https://ahanpenkar.github.io/my-dosa-project/**
 
@@ -75,7 +76,7 @@ No issues found! 🎉
 **https://ahanpenkar.github.io/transfer-analysis/**
 
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-    * Image `image5.jpeg` missing `alt` tag
+    * Image `image4.png` missing `alt` tag
 
 **https://ahanpenkar.github.io/violence-against-christians/**
 
@@ -93,7 +94,10 @@ No issues found! 🎉
    * Text `Uttar Pradesh has always been the most unsafe state for minorities` overlaps with `Uttar Pradesh has always been the most unsafe state for minorities` at screen width 400
    * Text `2021` overlaps with `2021` at screen width 400
    * Text `Madhya Pradesh and Chhattisgarh and Karnataka saw a nearly five-fold increase in violence` overlaps with `Madhya Pradesh and Chhattisgarh and Karnataka saw a nearly five-fold increase in violence` at screen width 400
+   * Text `2018` overlaps with `2018` at screen width 900
    * Text `Uttar Pradesh has always been the most unsafe state for minorities` overlaps with `Uttar Pradesh has always been the most unsafe state for minorities` at screen width 900
+   * Text `2021` overlaps with `2021` at screen width 900
+   * *and 1 more*
 
 
 
@@ -520,11 +524,11 @@ No issues found! 🎉
    * Text `:` overlaps with `Source` at screen width 400
    * Text `:` overlaps with `Korea Forest Service` at screen width 400
    * Text `Source` overlaps with `Korea Forest Service` at screen width 400
-   * Text `:` overlaps with `Source` at screen width 900
-   * Text `:` overlaps with `Korea Forest Service` at screen width 900
+   * Text `area. This is equivalent to` overlaps with `16 times` at screen width 900
+   * Text `16 times` overlaps with `the size of` at screen width 900
+   * Text `Source` overlaps with `:` at screen width 900
    * Text `Source` overlaps with `Korea Forest Service` at screen width 900
-   * Text `area. This is equivalent to` overlaps with `16 times` at screen width 1300
-   * *and 4 more*
+   * *and 6 more*
 
 
 
@@ -580,16 +584,6 @@ No issues found! 🎉
 **https://kellywaldro.github.io/remittances/**
 
 * Add a link to your project's GitHub repo, so people can review your code
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
-* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `1990` overlaps with `1992` at screen width 400
-   * Text `1992` overlaps with `1994` at screen width 400
-   * Text `1994` overlaps with `1996` at screen width 400
-   * Text `1996` overlaps with `1998` at screen width 400
-   * Text `1998` overlaps with `2000` at screen width 400
-   * Text `2000` overlaps with `2002` at screen width 400
-   * Text `2002` overlaps with `2004` at screen width 400
-   * *and 38 more*
 
 
 
@@ -631,7 +625,7 @@ No issues found! 🎉
 
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `158` is too small at 10px
-    * Text `Cannular or ` is too small at 7px
+    * Text `Cannular or` is too small at 7px
     * Text `IV protection` is too small at 7px
     * Text `58` is too small at 5px
     * Text `Heating or` is too small at 8px
@@ -849,6 +843,7 @@ No issues found! 🎉
 **https://rachel-el-p.github.io/disabilities_workers/**
 
 * Change URL to use `-` instead of spaces or underscores
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `COVID-19 starts` is too small at 9px
     * Text `Jan 2023` is too small at 8px
@@ -859,14 +854,14 @@ No issues found! 🎉
     * Text `Apr 2021` is too small at 8px
     * *and 284 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `from COVID-19 highs, but still higher than those with no disabilities` overlaps with `People with disabilities are about twice as likely to be unemployed` at screen width 400
-   * Text `Jan 2023` overlaps with `Oct 2022` at screen width 400
-   * Text `Oct 2022` overlaps with `Apr 2022` at screen width 400
-   * Text `Oct 2020` overlaps with `Apr 2021` at screen width 400
-   * Text `Apr 2021` overlaps with `Oct 2021` at screen width 400
-   * Text `Oct 2021` overlaps with `Apr 2022` at screen width 400
-   * Text `More people with disabilities are entering the labor force` overlaps with `But people with disabilities are only half as likely to be employed` at screen width 400
-   * *and 323 more*
+   * Text `Apr 2020` overlaps with `Jul 2020` at screen width 400
+   * Text `ai2html-settings` overlaps with `ai2html-settings` at screen width 400
+   * Text `settings_version: 0.115.5` overlaps with `settings_version: 0.115.5` at screen width 400
+   * Text `image_format: auto` overlaps with `image_format: auto` at screen width 400
+   * Text `responsiveness: fixed` overlaps with `responsiveness: fixed` at screen width 400
+   * Text `output: one-file` overlaps with `output: one-file` at screen width 400
+   * Text `html_output_path: /ai2html-output/` overlaps with `html_output_path: /ai2html-output/` at screen width 400
+   * *and 320 more*
 
 **https://rachel-el-p.github.io/train_derailment_and_profits/**
 
@@ -998,7 +993,7 @@ No issues found! 🎉
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
-    * Text `Each point represents the median fastest lap at that year’s Grand Prix. ` is too small at 9px
+    * Text `Each point represents the median fastest lap at that year’s Grand Prix.` is too small at 9px
     * Text `Monaco did not have a GP in 2020 due to the pandemic.` is too small at 9px
     * Text `Belgian Grand Prix` is too small at 7px
     * Text `Italian Grand Prix` is too small at 7px
@@ -1014,7 +1009,7 @@ No issues found! 🎉
    * Text `‘12` overlaps with `‘13` at screen width 400
    * Text `‘13` overlaps with `‘14` at screen width 400
    * Text `‘14` overlaps with `‘15` at screen width 400
-   * *and 115 more*
+   * *and 84 more*
 
 
 
