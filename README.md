@@ -94,7 +94,6 @@ No issues found! 🎉
    * Text `2021` overlaps with `2021` at screen width 400
    * Text `Madhya Pradesh and Chhattisgarh and Karnataka saw a nearly five-fold increase in violence` overlaps with `Madhya Pradesh and Chhattisgarh and Karnataka saw a nearly five-fold increase in violence` at screen width 400
    * Text `Uttar Pradesh has always been the most unsafe state for minorities` overlaps with `Uttar Pradesh has always been the most unsafe state for minorities` at screen width 900
-   * Text `Uttar Pradesh has always been the most unsafe state for minorities` overlaps with `Uttar Pradesh has always been the most unsafe state for minorities` at screen width 1300
 
 
 
@@ -368,6 +367,7 @@ No issues found! 🎉
     * Image `single_wave.gif` missing `alt` tag
     * Image `single_slit.gif` missing `alt` tag
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `Slits are 2 micrometers wide and 10 micrometers apart. Sensor is 200 micrometers away.` is too small at 10px
     * Text `More light` is too small at 8px
@@ -448,7 +448,6 @@ No issues found! 🎉
     * *and 28 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
    * Text `1990` overlaps with `0.8` at screen width 400
-   * Text `1990` overlaps with `0.8` at screen width 900
 
 
 
@@ -522,11 +521,11 @@ No issues found! 🎉
    * Text `:` overlaps with `Source` at screen width 400
    * Text `:` overlaps with `Korea Forest Service` at screen width 400
    * Text `Source` overlaps with `Korea Forest Service` at screen width 400
-   * Text `area. This is equivalent to` overlaps with `16 times` at screen width 900
-   * Text `16 times` overlaps with `the size of` at screen width 900
-   * Text `Source` overlaps with `:` at screen width 900
+   * Text `:` overlaps with `Source` at screen width 900
+   * Text `:` overlaps with `Korea Forest Service` at screen width 900
    * Text `Source` overlaps with `Korea Forest Service` at screen width 900
-   * *and 6 more*
+   * Text `area. This is equivalent to` overlaps with `16 times` at screen width 1300
+   * *and 4 more*
 
 
 
@@ -582,16 +581,15 @@ No issues found! 🎉
 **https://kellywaldro.github.io/remittances/**
 
 * Add a link to your project's GitHub repo, so people can review your code
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `1990` overlaps with `1992` at screen width 400
-   * Text `1992` overlaps with `1994` at screen width 400
-   * Text `1994` overlaps with `1996` at screen width 400
-   * Text `1996` overlaps with `1998` at screen width 400
-   * Text `1998` overlaps with `2000` at screen width 400
-   * Text `2000` overlaps with `2002` at screen width 400
-   * Text `2002` overlaps with `2004` at screen width 400
-   * *and 38 more*
+   * Text `1990` overlaps with `1992` at screen width 1300
+   * Text `1992` overlaps with `1994` at screen width 1300
+   * Text `1994` overlaps with `1996` at screen width 1300
+   * Text `1996` overlaps with `1998` at screen width 1300
+   * Text `1998` overlaps with `2000` at screen width 1300
+   * Text `2000` overlaps with `2002` at screen width 1300
+   * Text `2002` overlaps with `2004` at screen width 1300
+   * *and 8 more*
 
 
 
@@ -631,7 +629,6 @@ No issues found! 🎉
 
 **https://laurabejder.com/knitting/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `158` is too small at 10px
     * Text `Cannular or` is too small at 7px
@@ -644,17 +641,16 @@ No issues found! 🎉
 
 **https://laurabejder.com/rain/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `20` is too small at 10px
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `+50 mm` overlaps with `+100 mm` at screen width 900
-   * Text `+15 mm` overlaps with `+25 mm` at screen width 900
-   * Text `J` overlaps with `M` at screen width 900
-   * Text `J` overlaps with `J` at screen width 900
-   * Text `O` overlaps with `S` at screen width 900
-   * Text `O` overlaps with `N` at screen width 900
-   * Text `S` overlaps with `A` at screen width 900
+   * Text `+50 mm` overlaps with `+100 mm` at screen width 400
+   * Text `+15 mm` overlaps with `+25 mm` at screen width 400
+   * Text `J` overlaps with `M` at screen width 400
+   * Text `J` overlaps with `J` at screen width 400
+   * Text `O` overlaps with `S` at screen width 400
+   * Text `O` overlaps with `N` at screen width 400
+   * Text `S` overlaps with `A` at screen width 400
    * *and 6 more*
 
 
@@ -704,7 +700,6 @@ No issues found! 🎉
 * All HTML files should be named `index.html`. If this is a personal project, move `Project4.html` into a folder (or repo) called `Project4`, then rename the file `index.html`. That way the project can be found at **/Project4** instead of **/Project4.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505) or how it works specifically with GitHub repos [on Fancy GitHub](https://jonathansoma.com/fancy-github/github-pages/#choosing-your-url)
 * Change URL to be all in lowercase
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 
 
@@ -990,7 +985,7 @@ No issues found! 🎉
    * Text `Product` overlaps with `1657` at screen width 400
    * Text `Founders` overlaps with `5291` at screen width 400
    * Text `Engineers` overlaps with `13960 jobs` at screen width 400
-   * *and 4 more*
+   * *and 5 more*
 
 **https://shivanireddy13.github.io/project4/html/**
 
@@ -1011,14 +1006,14 @@ No issues found! 🎉
     * Text `250` is too small at 6px
     * *and 173 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `‘07` overlaps with `‘06` at screen width 400
+   * Text `‘07` overlaps with `‘08` at screen width 400
    * Text `‘09` overlaps with `‘10` at screen width 400
    * Text `‘09` overlaps with `‘08` at screen width 400
+   * Text `‘10` overlaps with `‘11` at screen width 400
    * Text `‘11` overlaps with `‘12` at screen width 400
-   * Text `‘11` overlaps with `‘10` at screen width 400
    * Text `‘12` overlaps with `‘13` at screen width 400
-   * Text `‘13` overlaps with `‘14` at screen width 400
-   * Text `‘14` overlaps with `‘15` at screen width 400
-   * *and 84 more*
+   * *and 46 more*
 
 
 
