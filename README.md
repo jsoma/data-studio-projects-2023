@@ -75,7 +75,7 @@ No issues found! 🎉
 **https://ahanpenkar.github.io/transfer-analysis/**
 
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-    * Image `image5.jpeg` missing `alt` tag
+    * Image `image4.png` missing `alt` tag
 
 **https://ahanpenkar.github.io/violence-against-christians/**
 
@@ -224,6 +224,11 @@ No issues found! 🎉
     * Text `63` is too small at 10px
     * Text `Manhattan` is too small at 10px
     * *and 3 more*
+* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `George` overlaps with `92` at screen width 400
+   * Text `Washington` overlaps with `92` at screen width 400
+   * Text `Frederick` overlaps with `91` at screen width 400
+   * Text `Law Olmsted` overlaps with `91` at screen width 400
 * Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
     * `LibreFranklinRoman` font not found, used in 56 text objects. Example: _Robert Moses was mentioned in more historical signs than anyone else, Top five most mentioned person on the historical signs made by NYC Parks and Recreation, 302_
 
@@ -363,6 +368,7 @@ No issues found! 🎉
     * Image `single_wave.gif` missing `alt` tag
     * Image `single_slit.gif` missing `alt` tag
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `Slits are 2 micrometers wide and 10 micrometers apart. Sensor is 200 micrometers away.` is too small at 10px
     * Text `More light` is too small at 8px
@@ -565,7 +571,7 @@ No issues found! 🎉
 
 * Change URL to use `-` instead of spaces or underscores
 * Minimum font size should be 12px, enlarge text in Illustrator
-    * Text `262 medical visas granted* ` is too small at 10px
+    * Text `262 medical visas granted*` is too small at 10px
 
 **https://kellywaldro.github.io/pharmacies/**
 
@@ -578,14 +584,14 @@ No issues found! 🎉
 
 * Add a link to your project's GitHub repo, so people can review your code
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `1990` overlaps with `1992` at screen width 1300
-   * Text `1992` overlaps with `1994` at screen width 1300
-   * Text `1994` overlaps with `1996` at screen width 1300
-   * Text `1996` overlaps with `1998` at screen width 1300
-   * Text `1998` overlaps with `2000` at screen width 1300
-   * Text `2000` overlaps with `2002` at screen width 1300
-   * Text `2002` overlaps with `2004` at screen width 1300
-   * *and 8 more*
+   * Text `1990` overlaps with `1992` at screen width 900
+   * Text `1992` overlaps with `1994` at screen width 900
+   * Text `1994` overlaps with `1996` at screen width 900
+   * Text `1996` overlaps with `1998` at screen width 900
+   * Text `1998` overlaps with `2000` at screen width 900
+   * Text `2000` overlaps with `2002` at screen width 900
+   * Text `2002` overlaps with `2004` at screen width 900
+   * *and 23 more*
 
 
 
@@ -696,6 +702,7 @@ No issues found! 🎉
 * All HTML files should be named `index.html`. If this is a personal project, move `Project4.html` into a folder (or repo) called `Project4`, then rename the file `index.html`. That way the project can be found at **/Project4** instead of **/Project4.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505) or how it works specifically with GitHub repos [on Fancy GitHub](https://jonathansoma.com/fancy-github/github-pages/#choosing-your-url)
 * Change URL to be all in lowercase
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 
 
@@ -981,7 +988,7 @@ No issues found! 🎉
    * Text `Product` overlaps with `1657` at screen width 400
    * Text `Founders` overlaps with `5291` at screen width 400
    * Text `Engineers` overlaps with `13960 jobs` at screen width 400
-   * *and 5 more*
+   * *and 4 more*
 
 **https://shivanireddy13.github.io/project4/html/**
 
@@ -1002,14 +1009,14 @@ No issues found! 🎉
     * Text `250` is too small at 6px
     * *and 173 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `‘07` overlaps with `‘06` at screen width 400
+   * Text `‘07` overlaps with `‘08` at screen width 400
    * Text `‘09` overlaps with `‘10` at screen width 400
    * Text `‘09` overlaps with `‘08` at screen width 400
+   * Text `‘10` overlaps with `‘11` at screen width 400
    * Text `‘11` overlaps with `‘12` at screen width 400
-   * Text `‘11` overlaps with `‘10` at screen width 400
    * Text `‘12` overlaps with `‘13` at screen width 400
-   * Text `‘13` overlaps with `‘14` at screen width 400
-   * Text `‘14` overlaps with `‘15` at screen width 400
-   * *and 84 more*
+   * *and 46 more*
 
 
 
@@ -1130,7 +1137,7 @@ No issues found! 🎉
     * Text `1990` is too small at 9px
     * *and 20 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `...This only happened twice to non-white artists` overlaps with `43% of all nominees were artists of color` at screen width 400
+   * Text `From 2009 to 2014, all major awards went to white nominees` overlaps with `43% of all nominees were artists of color` at screen width 400
 
 **https://xinyitu.github.io/precinct-parking/**
 
