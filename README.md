@@ -93,10 +93,8 @@ No issues found! 🎉
    * Text `Uttar Pradesh has always been the most unsafe state for minorities` overlaps with `Uttar Pradesh has always been the most unsafe state for minorities` at screen width 400
    * Text `2021` overlaps with `2021` at screen width 400
    * Text `Madhya Pradesh and Chhattisgarh and Karnataka saw a nearly five-fold increase in violence` overlaps with `Madhya Pradesh and Chhattisgarh and Karnataka saw a nearly five-fold increase in violence` at screen width 400
-   * Text `2018` overlaps with `2018` at screen width 900
    * Text `Uttar Pradesh has always been the most unsafe state for minorities` overlaps with `Uttar Pradesh has always been the most unsafe state for minorities` at screen width 900
-   * Text `2021` overlaps with `2021` at screen width 900
-   * *and 2 more*
+   * Text `Uttar Pradesh has always been the most unsafe state for minorities` overlaps with `Uttar Pradesh has always been the most unsafe state for minorities` at screen width 1300
 
 
 
@@ -226,6 +224,11 @@ No issues found! 🎉
     * Text `63` is too small at 10px
     * Text `Manhattan` is too small at 10px
     * *and 3 more*
+* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `George` overlaps with `92` at screen width 400
+   * Text `Washington` overlaps with `92` at screen width 400
+   * Text `Frederick` overlaps with `91` at screen width 400
+   * Text `Law Olmsted` overlaps with `91` at screen width 400
 * Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
     * `LibreFranklinRoman` font not found, used in 56 text objects. Example: _Robert Moses was mentioned in more historical signs than anyone else, Top five most mentioned person on the historical signs made by NYC Parks and Recreation, 302_
 
@@ -622,13 +625,13 @@ No issues found! 🎉
    * Text `Netherlands` overlaps with `Switzerland` at screen width 400
    * Text `Romania` overlaps with `N. Macedonia` at screen width 400
    * Text `N. Macedonia` overlaps with `Bulgaria` at screen width 400
-   * *and 12 more*
+   * *and 7 more*
 
 **https://laurabejder.com/knitting/**
 
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `158` is too small at 10px
-    * Text `Cannular or` is too small at 7px
+    * Text `Cannular or ` is too small at 7px
     * Text `IV protection` is too small at 7px
     * Text `58` is too small at 5px
     * Text `Heating or` is too small at 8px
@@ -763,6 +766,7 @@ No issues found! 🎉
 
 **https://poojachaudhuri.github.io/project-4/**
 
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `One` is too small at 8px
     * Text `zip code` is too small at 8px
@@ -775,14 +779,14 @@ No issues found! 🎉
     * Text `of each zip code.` is too small at 6px
     * *and 112 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `Complaints normalized by` overlaps with `population` at screen width 400
-   * Text `2` overlaps with `2` at screen width 400
-   * Text `2` overlaps with `2` at screen width 400
    * Text `11,311` overlaps with `11,311` at screen width 400
    * Text `11,311` overlaps with `11,311` at screen width 400
    * Text `2` overlaps with `2` at screen width 400
+   * Text `2` overlaps with `2` at screen width 400
    * Text `11,311` overlaps with `11,311` at screen width 400
-   * *and 17 more*
+   * Text `2` overlaps with `2` at screen width 400
+   * Text `Created with` overlaps with `Datawrapper and cleaned on Adobe Illustrator` at screen width 400
+   * *and 14 more*
 
 
 
@@ -1004,14 +1008,14 @@ No issues found! 🎉
     * Text `250` is too small at 6px
     * *and 173 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `‘07` overlaps with `‘06` at screen width 400
-   * Text `‘07` overlaps with `‘08` at screen width 400
    * Text `‘09` overlaps with `‘10` at screen width 400
    * Text `‘09` overlaps with `‘08` at screen width 400
-   * Text `‘10` overlaps with `‘11` at screen width 400
    * Text `‘11` overlaps with `‘12` at screen width 400
+   * Text `‘11` overlaps with `‘10` at screen width 400
    * Text `‘12` overlaps with `‘13` at screen width 400
-   * *and 46 more*
+   * Text `‘13` overlaps with `‘14` at screen width 400
+   * Text `‘14` overlaps with `‘15` at screen width 400
+   * *and 84 more*
 
 
 
