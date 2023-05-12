@@ -49,7 +49,6 @@ Quick checks to make sure our pages are looking their best.
 **https://ahanpenkar.github.io/foreign-direct-investment**
 
 * Add a link to your project's GitHub repo, so people can review your code
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `France` is too small at 10px
     * Text `Germany` is too small at 10px
@@ -60,13 +59,13 @@ Quick checks to make sure our pages are looking their best.
     * Text `$6B` is too small at 10px
     * *and 1 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `JIO Platforms` overlaps with `$15B` at screen width 400
-   * Text `Vodafone IDEA` overlaps with `$10B` at screen width 400
-   * Text `Amazon Services` overlaps with `$4.8B` at screen width 400
-   * Text `Cayman Islands` overlaps with `USA` at screen width 400
-   * Text `Airtel` overlaps with `$2.5B` at screen width 400
-   * Text `Axis Bank` overlaps with `$2.5B` at screen width 400
-   * Text `OYO Rooms` overlaps with `$2.2B` at screen width 400
+   * Text `Netherlands` overlaps with `UK` at screen width 400
+   * Text `UK` overlaps with `$7.4B` at screen width 400
+   * Text `UAE` overlaps with `Switzerland` at screen width 400
+   * Text `Switzerland` overlaps with `$6B` at screen width 400
+   * Text `$6B` overlaps with `$5.9B` at screen width 400
+   * Text `Singapore` overlaps with `$130B` at screen width 400
+   * Text `and Mauritius` overlaps with `$130B` at screen width 400
    * *and 21 more*
 
 **https://ahanpenkar.github.io/my-dosa-project/**
@@ -583,14 +582,14 @@ No issues found! 🎉
 
 * Add a link to your project's GitHub repo, so people can review your code
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `1990` overlaps with `1992` at screen width 1300
-   * Text `1992` overlaps with `1994` at screen width 1300
-   * Text `1994` overlaps with `1996` at screen width 1300
-   * Text `1996` overlaps with `1998` at screen width 1300
-   * Text `1998` overlaps with `2000` at screen width 1300
-   * Text `2000` overlaps with `2002` at screen width 1300
-   * Text `2002` overlaps with `2004` at screen width 1300
-   * *and 8 more*
+   * Text `1990` overlaps with `1992` at screen width 900
+   * Text `1992` overlaps with `1994` at screen width 900
+   * Text `1994` overlaps with `1996` at screen width 900
+   * Text `1996` overlaps with `1998` at screen width 900
+   * Text `1998` overlaps with `2000` at screen width 900
+   * Text `2000` overlaps with `2002` at screen width 900
+   * Text `2002` overlaps with `2004` at screen width 900
+   * *and 23 more*
 
 
 
@@ -630,10 +629,9 @@ No issues found! 🎉
 
 **https://laurabejder.com/knitting/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `158` is too small at 10px
-    * Text `Cannular or` is too small at 7px
+    * Text `Cannular or ` is too small at 7px
     * Text `IV protection` is too small at 7px
     * Text `58` is too small at 5px
     * Text `Heating or` is too small at 8px
@@ -653,7 +651,7 @@ No issues found! 🎉
    * Text `O` overlaps with `S` at screen width 400
    * Text `O` overlaps with `N` at screen width 400
    * Text `S` overlaps with `A` at screen width 400
-   * *and 19 more*
+   * *and 6 more*
 
 
 
@@ -702,7 +700,6 @@ No issues found! 🎉
 * All HTML files should be named `index.html`. If this is a personal project, move `Project4.html` into a folder (or repo) called `Project4`, then rename the file `index.html`. That way the project can be found at **/Project4** instead of **/Project4.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505) or how it works specifically with GitHub repos [on Fancy GitHub](https://jonathansoma.com/fancy-github/github-pages/#choosing-your-url)
 * Change URL to be all in lowercase
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 
 
@@ -927,7 +924,7 @@ No issues found! 🎉
    * Text `2013` overlaps with `2014` at screen width 400
    * Text `2014` overlaps with `2015` at screen width 400
    * Text `2015` overlaps with `2016` at screen width 400
-   * *and 53 more*
+   * *and 41 more*
 
 **https://shalakas.github.io/judiciary-project/**
 
@@ -988,7 +985,7 @@ No issues found! 🎉
    * Text `Product` overlaps with `1657` at screen width 400
    * Text `Founders` overlaps with `5291` at screen width 400
    * Text `Engineers` overlaps with `13960 jobs` at screen width 400
-   * *and 4 more*
+   * *and 5 more*
 
 **https://shivanireddy13.github.io/project4/html/**
 
@@ -1016,7 +1013,7 @@ No issues found! 🎉
    * Text `‘12` overlaps with `‘13` at screen width 400
    * Text `‘13` overlaps with `‘14` at screen width 400
    * Text `‘14` overlaps with `‘15` at screen width 400
-   * *and 115 more*
+   * *and 84 more*
 
 
 
