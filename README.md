@@ -582,14 +582,14 @@ No issues found! 🎉
 
 * Add a link to your project's GitHub repo, so people can review your code
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `1990` overlaps with `1992` at screen width 1300
-   * Text `1992` overlaps with `1994` at screen width 1300
-   * Text `1994` overlaps with `1996` at screen width 1300
-   * Text `1996` overlaps with `1998` at screen width 1300
-   * Text `1998` overlaps with `2000` at screen width 1300
-   * Text `2000` overlaps with `2002` at screen width 1300
-   * Text `2002` overlaps with `2004` at screen width 1300
-   * *and 8 more*
+   * Text `1990` overlaps with `1992` at screen width 900
+   * Text `1992` overlaps with `1994` at screen width 900
+   * Text `1994` overlaps with `1996` at screen width 900
+   * Text `1996` overlaps with `1998` at screen width 900
+   * Text `1998` overlaps with `2000` at screen width 900
+   * Text `2000` overlaps with `2002` at screen width 900
+   * Text `2002` overlaps with `2004` at screen width 900
+   * *and 23 more*
 
 
 
@@ -766,7 +766,6 @@ No issues found! 🎉
 
 **https://poojachaudhuri.github.io/project-4/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `One` is too small at 8px
     * Text `zip code` is too small at 8px
@@ -779,14 +778,14 @@ No issues found! 🎉
     * Text `of each zip code.` is too small at 6px
     * *and 112 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `11,311` overlaps with `11,311` at screen width 400
-   * Text `11,311` overlaps with `11,311` at screen width 400
+   * Text `Complaints normalized by` overlaps with `population` at screen width 400
    * Text `2` overlaps with `2` at screen width 400
    * Text `2` overlaps with `2` at screen width 400
    * Text `11,311` overlaps with `11,311` at screen width 400
+   * Text `11,311` overlaps with `11,311` at screen width 400
    * Text `2` overlaps with `2` at screen width 400
-   * Text `Created with` overlaps with `Datawrapper and cleaned on Adobe Illustrator` at screen width 400
-   * *and 14 more*
+   * Text `11,311` overlaps with `11,311` at screen width 400
+   * *and 17 more*
 
 
 
@@ -987,7 +986,7 @@ No issues found! 🎉
    * Text `Product` overlaps with `1657` at screen width 400
    * Text `Founders` overlaps with `5291` at screen width 400
    * Text `Engineers` overlaps with `13960 jobs` at screen width 400
-   * *and 5 more*
+   * *and 4 more*
 
 **https://shivanireddy13.github.io/project4/html/**
 
