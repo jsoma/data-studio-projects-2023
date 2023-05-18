@@ -93,10 +93,8 @@ No issues found! 🎉
    * Text `Uttar Pradesh has always been the most unsafe state for minorities` overlaps with `Uttar Pradesh has always been the most unsafe state for minorities` at screen width 400
    * Text `2021` overlaps with `2021` at screen width 400
    * Text `Madhya Pradesh and Chhattisgarh and Karnataka saw a nearly five-fold increase in violence` overlaps with `Madhya Pradesh and Chhattisgarh and Karnataka saw a nearly five-fold increase in violence` at screen width 400
-   * Text `2018` overlaps with `2018` at screen width 900
    * Text `Uttar Pradesh has always been the most unsafe state for minorities` overlaps with `Uttar Pradesh has always been the most unsafe state for minorities` at screen width 900
-   * Text `2021` overlaps with `2021` at screen width 900
-   * *and 1 more*
+   * Text `Uttar Pradesh has always been the most unsafe state for minorities` overlaps with `Uttar Pradesh has always been the most unsafe state for minorities` at screen width 1300
 
 
 
@@ -531,13 +529,14 @@ No issues found! 🎉
     * *and 28 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
    * Text `1990` overlaps with `0.8` at screen width 400
+   * Text `1990` overlaps with `0.8` at screen width 900
 
 **https://juhanarossi.github.io/finnish-summer-cabin/**
 
 * Needs a title, add a `<title>` tag to the `<head>`
 * Add a link to your project's GitHub repo, so people can review your code
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-    * Image `chimney.JPG` missing `alt` tag
+    * Image `privy.JPG` missing `alt` tag
 
 
 
@@ -683,7 +682,6 @@ No issues found! 🎉
 **https://kellywaldro.github.io/medical_emigration/**
 
 * Change URL to use `-` instead of spaces or underscores
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `262 medical visas granted* ` is too small at 10px
 
@@ -698,14 +696,14 @@ No issues found! 🎉
 
 * Add a link to your project's GitHub repo, so people can review your code
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `1990` overlaps with `1992` at screen width 1300
-   * Text `1992` overlaps with `1994` at screen width 1300
-   * Text `1994` overlaps with `1996` at screen width 1300
-   * Text `1996` overlaps with `1998` at screen width 1300
-   * Text `1998` overlaps with `2000` at screen width 1300
-   * Text `2000` overlaps with `2002` at screen width 1300
-   * Text `2002` overlaps with `2004` at screen width 1300
-   * *and 8 more*
+   * Text `1990` overlaps with `1992` at screen width 900
+   * Text `1992` overlaps with `1994` at screen width 900
+   * Text `1994` overlaps with `1996` at screen width 900
+   * Text `1996` overlaps with `1998` at screen width 900
+   * Text `1998` overlaps with `2000` at screen width 900
+   * Text `2000` overlaps with `2002` at screen width 900
+   * Text `2002` overlaps with `2004` at screen width 900
+   * *and 23 more*
 
 **https://kellywaldro.github.io/processing-times/**
 
@@ -1058,13 +1056,13 @@ No issues found! 🎉
     * *and 21 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
    * Text `CARLYLE` overlaps with `105` at screen width 400
-   * Text `CARLYLE` overlaps with `105` at screen width 900
    * Text `California Public` overlaps with `California State` at screen width 1300
    * Text `Employees` overlaps with `Teachers’` at screen width 1300
    * Text `Retirement System` overlaps with `Retirement System` at screen width 1300
    * Text `California State` overlaps with `Washington State` at screen width 1300
    * Text `Teachers’` overlaps with `Board of Investment` at screen width 1300
-   * *and 2 more*
+   * Text `Texas Teachers` overlaps with `Washington State` at screen width 1300
+   * *and 1 more*
 
 **https://rachel-el-p.github.io/pe_game/**
 
@@ -1093,6 +1091,7 @@ No issues found! 🎉
 
 **https://shalakas.github.io/blueberry-production-peru/**
 
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `% Change in annual production percent (2012 to 2021)` is too small at 5px
     * Text `50` is too small at 5px
@@ -1103,14 +1102,14 @@ No issues found! 🎉
     * Text `World production` is too small at 5px
     * *and 79 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `2012` overlaps with `2013` at screen width 400
-   * Text `2020` overlaps with `2021` at screen width 400
-   * Text `227k` overlaps with `Peru` at screen width 400
-   * Text `2012` overlaps with `2013` at screen width 400
-   * Text `2013` overlaps with `2014` at screen width 400
-   * Text `2014` overlaps with `2015` at screen width 400
-   * Text `2015` overlaps with `2016` at screen width 400
-   * *and 41 more*
+   * Text `True hemp` overlaps with `Blueberries` at screen width 400
+   * Text `Cajamarca` overlaps with `Lambayeque` at screen width 400
+   * Text `La Libertad` overlaps with `PACIFIC OCEAN` at screen width 400
+   * Text `PACIFIC OCEAN` overlaps with `Ancash` at screen width 400
+   * Text `PACIFIC OCEAN` overlaps with `Lima` at screen width 400
+   * Text `PACIFIC OCEAN` overlaps with `Ica` at screen width 400
+   * Text `2012` overlaps with `2013` at screen width 900
+   * *and 27 more*
 
 **https://shalakas.github.io/judiciary-project/**
 
@@ -1348,7 +1347,7 @@ No issues found! 🎉
 **https://xinyitu.github.io/precinct-parking/**
 
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-    * Image `image/84th-map.png` missing `alt` tag
+    * Image `image/94th-map.png` missing `alt` tag
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `September, 2013 via Google StreetView` is too small at 6px
