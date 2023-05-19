@@ -314,9 +314,9 @@ No issues found! 🎉
    * Text `Imola` overlaps with `Mexico City` at screen width 400
    * Text `Imola` overlaps with `Sochi` at screen width 400
    * Text `Mexico City` overlaps with `Monaco` at screen width 400
-   * Text `Autodromo Enzo e Dino Ferrari (Imola)` overlaps with `Autódromo Hermanos Rodríguez (Mexico City)` at screen width 900
-   * Text `Autodromo Enzo e Dino Ferrari (Imola)` overlaps with `Sochi Autodrom` at screen width 900
-   * Text `Autódromo Hermanos Rodríguez (Mexico City)` overlaps with `Circuit de Monaco` at screen width 900
+   * Text `Austin` overlaps with `Sochi` at screen width 900
+   * Text `Imola` overlaps with `Mexico City` at screen width 900
+   * Text `Imola` overlaps with `Sochi` at screen width 900
    * *and 5 more*
 * Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
     * `"IBM Plex Serif"` font not found, used in 24 text objects. Example: _FIA issued slightly more out of track penalties to F1 drivers in the Circuit of the America, The number of out of track penalties FIA issued to drivers during Formula One races from 2014-2023, 5_
@@ -529,14 +529,13 @@ No issues found! 🎉
     * *and 28 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
    * Text `1990` overlaps with `0.8` at screen width 400
-   * Text `1990` overlaps with `0.8` at screen width 900
 
 **https://juhanarossi.github.io/finnish-summer-cabin/**
 
 * Needs a title, add a `<title>` tag to the `<head>`
 * Add a link to your project's GitHub repo, so people can review your code
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-    * Image `privy.JPG` missing `alt` tag
+    * Image `chimney.JPG` missing `alt` tag
 
 
 
@@ -659,13 +658,7 @@ No issues found! 🎉
 
 **https://kellywaldro.github.io/**
 
-* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-    * Image `./images/kibale-min.jpg` missing `alt` tag
-    * Image `./images/bagamoyo-min.jpg` missing `alt` tag
-    * Image `./images/market-min.jpg` missing `alt` tag
-    * Image `./images/havana.jpg` missing `alt` tag
-    * Image `./images/naivasha-min.jpg` missing `alt` tag
-    * *and 14 more*
+No issues found! 🎉
 
 **https://kellywaldro.github.io/macron-agenda/**
 
@@ -696,14 +689,14 @@ No issues found! 🎉
 
 * Add a link to your project's GitHub repo, so people can review your code
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `1990` overlaps with `1992` at screen width 900
-   * Text `1992` overlaps with `1994` at screen width 900
-   * Text `1994` overlaps with `1996` at screen width 900
-   * Text `1996` overlaps with `1998` at screen width 900
-   * Text `1998` overlaps with `2000` at screen width 900
-   * Text `2000` overlaps with `2002` at screen width 900
-   * Text `2002` overlaps with `2004` at screen width 900
-   * *and 23 more*
+   * Text `1990` overlaps with `1992` at screen width 1300
+   * Text `1992` overlaps with `1994` at screen width 1300
+   * Text `1994` overlaps with `1996` at screen width 1300
+   * Text `1996` overlaps with `1998` at screen width 1300
+   * Text `1998` overlaps with `2000` at screen width 1300
+   * Text `2000` overlaps with `2002` at screen width 1300
+   * Text `2002` overlaps with `2004` at screen width 1300
+   * *and 8 more*
 
 **https://kellywaldro.github.io/processing-times/**
 
@@ -1056,13 +1049,6 @@ No issues found! 🎉
     * *and 21 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
    * Text `CARLYLE` overlaps with `105` at screen width 400
-   * Text `California Public` overlaps with `California State` at screen width 1300
-   * Text `Employees` overlaps with `Teachers’` at screen width 1300
-   * Text `Retirement System` overlaps with `Retirement System` at screen width 1300
-   * Text `California State` overlaps with `Washington State` at screen width 1300
-   * Text `Teachers’` overlaps with `Board of Investment` at screen width 1300
-   * Text `Texas Teachers` overlaps with `Washington State` at screen width 1300
-   * *and 1 more*
 
 **https://rachel-el-p.github.io/pe_game/**
 
@@ -1091,7 +1077,6 @@ No issues found! 🎉
 
 **https://shalakas.github.io/blueberry-production-peru/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `% Change in annual production percent (2012 to 2021)` is too small at 5px
     * Text `50` is too small at 5px
@@ -1102,14 +1087,14 @@ No issues found! 🎉
     * Text `World production` is too small at 5px
     * *and 79 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `True hemp` overlaps with `Blueberries` at screen width 400
-   * Text `Cajamarca` overlaps with `Lambayeque` at screen width 400
-   * Text `La Libertad` overlaps with `PACIFIC OCEAN` at screen width 400
-   * Text `PACIFIC OCEAN` overlaps with `Ancash` at screen width 400
-   * Text `PACIFIC OCEAN` overlaps with `Lima` at screen width 400
-   * Text `PACIFIC OCEAN` overlaps with `Ica` at screen width 400
-   * Text `2012` overlaps with `2013` at screen width 900
-   * *and 27 more*
+   * Text `2012` overlaps with `2013` at screen width 400
+   * Text `2020` overlaps with `2021` at screen width 400
+   * Text `227k` overlaps with `Peru` at screen width 400
+   * Text `2012` overlaps with `2013` at screen width 400
+   * Text `2013` overlaps with `2014` at screen width 400
+   * Text `2014` overlaps with `2015` at screen width 400
+   * Text `2015` overlaps with `2016` at screen width 400
+   * *and 41 more*
 
 **https://shalakas.github.io/judiciary-project/**
 
@@ -1203,7 +1188,7 @@ No issues found! 🎉
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
-    * Text `Each point represents the median fastest lap at that year’s Grand Prix. ` is too small at 9px
+    * Text `Each point represents the median fastest lap at that year’s Grand Prix.` is too small at 9px
     * Text `Monaco did not have a GP in 2020 due to the pandemic.` is too small at 9px
     * Text `Belgian Grand Prix` is too small at 7px
     * Text `Italian Grand Prix` is too small at 7px
@@ -1219,7 +1204,7 @@ No issues found! 🎉
    * Text `‘12` overlaps with `‘13` at screen width 400
    * Text `‘13` overlaps with `‘14` at screen width 400
    * Text `‘14` overlaps with `‘15` at screen width 400
-   * *and 84 more*
+   * *and 115 more*
 
 
 
