@@ -518,6 +518,7 @@ No issues found! 🎉
 **https://juhanarossi.github.io/project-pax-airliners-B737-A320/**
 
 * Change URL to be all in lowercase
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `Other types` is too small at 10px
     * Text `A320` is too small at 10px
@@ -527,15 +528,13 @@ No issues found! 🎉
     * Text `in 2022` is too small at 8px
     * Text `10.0 mil. pax` is too small at 8px
     * *and 28 more*
-* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `1990` overlaps with `0.8` at screen width 400
 
 **https://juhanarossi.github.io/finnish-summer-cabin/**
 
 * Needs a title, add a `<title>` tag to the `<head>`
 * Add a link to your project's GitHub repo, so people can review your code
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-    * Image `chimney.JPG` missing `alt` tag
+    * Image `privy.JPG` missing `alt` tag
 
 
 
@@ -610,11 +609,11 @@ No issues found! 🎉
    * Text `:` overlaps with `Source` at screen width 400
    * Text `:` overlaps with `Korea Forest Service` at screen width 400
    * Text `Source` overlaps with `Korea Forest Service` at screen width 400
-   * Text `:` overlaps with `Source` at screen width 900
-   * Text `:` overlaps with `Korea Forest Service` at screen width 900
+   * Text `area. This is equivalent to` overlaps with `16 times` at screen width 900
+   * Text `16 times` overlaps with `the size of` at screen width 900
+   * Text `Source` overlaps with `:` at screen width 900
    * Text `Source` overlaps with `Korea Forest Service` at screen width 900
-   * Text `area. This is equivalent to` overlaps with `16 times` at screen width 1300
-   * *and 4 more*
+   * *and 6 more*
 
 **https://junekim6.github.io/electric-disturbance-events/**
 
@@ -994,6 +993,7 @@ No issues found! 🎉
 **https://rachel-el-p.github.io/disabilities_workers/**
 
 * Change URL to use `-` instead of spaces or underscores
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `COVID-19 starts` is too small at 9px
     * Text `Jan 2023` is too small at 8px
@@ -1004,14 +1004,14 @@ No issues found! 🎉
     * Text `Apr 2021` is too small at 8px
     * *and 284 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `from COVID-19 highs, but still higher than those with no disabilities` overlaps with `People with disabilities are about twice as likely to be unemployed` at screen width 400
-   * Text `Jan 2023` overlaps with `Oct 2022` at screen width 400
-   * Text `Oct 2022` overlaps with `Apr 2022` at screen width 400
-   * Text `Oct 2020` overlaps with `Apr 2021` at screen width 400
-   * Text `Apr 2021` overlaps with `Oct 2021` at screen width 400
-   * Text `Oct 2021` overlaps with `Apr 2022` at screen width 400
-   * Text `More people with disabilities are entering the labor force` overlaps with `But people with disabilities are only half as likely to be employed` at screen width 400
-   * *and 323 more*
+   * Text `Apr 2020` overlaps with `Jul 2020` at screen width 400
+   * Text `ai2html-settings` overlaps with `ai2html-settings` at screen width 400
+   * Text `settings_version: 0.115.5` overlaps with `settings_version: 0.115.5` at screen width 400
+   * Text `image_format: auto` overlaps with `image_format: auto` at screen width 400
+   * Text `responsiveness: fixed` overlaps with `responsiveness: fixed` at screen width 400
+   * Text `output: one-file` overlaps with `output: one-file` at screen width 400
+   * Text `html_output_path: /ai2html-output/` overlaps with `html_output_path: /ai2html-output/` at screen width 400
+   * *and 320 more*
 
 **https://rachel-el-p.github.io/train_derailment_and_profits/**
 
@@ -1027,8 +1027,8 @@ No issues found! 🎉
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
    * Text `2023 Apr: $205` overlaps with `APR` at screen width 400
    * Text `2018 May: $152` overlaps with `250` at screen width 400
-   * Text `yet stock price rose 35%` overlaps with `250` at screen width 900
-   * Text `2023 Apr: $205` overlaps with `APR` at screen width 900
+   * Text `2021` overlaps with `In 2018, the same trains derailed 856 times,` at screen width 900
+   * Text `2018` overlaps with `2019` at screen width 900
    * Text `2021` overlaps with `In 2018, the same trains derailed 856 times,` at screen width 1300
    * Text `2018` overlaps with `2019` at screen width 1300
 
@@ -1183,7 +1183,7 @@ No issues found! 🎉
    * Text `Product` overlaps with `1657` at screen width 400
    * Text `Founders` overlaps with `5291` at screen width 400
    * Text `Engineers` overlaps with `13960 jobs` at screen width 400
-   * *and 5 more*
+   * *and 4 more*
 
 **https://shivanireddy13.github.io/project4/html/**
 
@@ -1204,14 +1204,14 @@ No issues found! 🎉
     * Text `250` is too small at 6px
     * *and 173 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `‘07` overlaps with `‘06` at screen width 400
+   * Text `‘07` overlaps with `‘08` at screen width 400
    * Text `‘09` overlaps with `‘10` at screen width 400
    * Text `‘09` overlaps with `‘08` at screen width 400
+   * Text `‘10` overlaps with `‘11` at screen width 400
    * Text `‘11` overlaps with `‘12` at screen width 400
-   * Text `‘11` overlaps with `‘10` at screen width 400
    * Text `‘12` overlaps with `‘13` at screen width 400
-   * Text `‘13` overlaps with `‘14` at screen width 400
-   * Text `‘14` overlaps with `‘15` at screen width 400
-   * *and 84 more*
+   * *and 77 more*
 
 
 
