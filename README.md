@@ -49,7 +49,6 @@ Quick checks to make sure our pages are looking their best.
 **https://ahanpenkar.github.io/foreign-direct-investment**
 
 * Add a link to your project's GitHub repo, so people can review your code
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `France` is too small at 10px
     * Text `Germany` is too small at 10px
@@ -60,13 +59,13 @@ Quick checks to make sure our pages are looking their best.
     * Text `$6B` is too small at 10px
     * *and 1 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `JIO Platforms` overlaps with `$15B` at screen width 400
-   * Text `Vodafone IDEA` overlaps with `$10B` at screen width 400
-   * Text `Amazon Services` overlaps with `$4.8B` at screen width 400
-   * Text `Cayman Islands` overlaps with `USA` at screen width 400
-   * Text `Airtel` overlaps with `$2.5B` at screen width 400
-   * Text `Axis Bank` overlaps with `$2.5B` at screen width 400
-   * Text `OYO Rooms` overlaps with `$2.2B` at screen width 400
+   * Text `Netherlands` overlaps with `UK` at screen width 400
+   * Text `UK` overlaps with `$7.4B` at screen width 400
+   * Text `UAE` overlaps with `Switzerland` at screen width 400
+   * Text `Switzerland` overlaps with `$6B` at screen width 400
+   * Text `$6B` overlaps with `$5.9B` at screen width 400
+   * Text `Singapore` overlaps with `$130B` at screen width 400
+   * Text `and Mauritius` overlaps with `$130B` at screen width 400
    * *and 21 more*
 
 **https://ahanpenkar.github.io/my-dosa-project/**
@@ -76,7 +75,7 @@ No issues found! 🎉
 **https://ahanpenkar.github.io/transfer-analysis/**
 
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-    * Image `image5.jpeg` missing `alt` tag
+    * Image `image4.png` missing `alt` tag
 
 **https://ahanpenkar.github.io/violence-against-christians/**
 
@@ -95,7 +94,6 @@ No issues found! 🎉
    * Text `2021` overlaps with `2021` at screen width 400
    * Text `Madhya Pradesh and Chhattisgarh and Karnataka saw a nearly five-fold increase in violence` overlaps with `Madhya Pradesh and Chhattisgarh and Karnataka saw a nearly five-fold increase in violence` at screen width 400
    * Text `Uttar Pradesh has always been the most unsafe state for minorities` overlaps with `Uttar Pradesh has always been the most unsafe state for minorities` at screen width 900
-   * Text `Uttar Pradesh has always been the most unsafe state for minorities` overlaps with `Uttar Pradesh has always been the most unsafe state for minorities` at screen width 1300
 
 
 
@@ -438,7 +436,6 @@ No issues found! 🎉
     * Image `single_wave.gif` missing `alt` tag
     * Image `single_slit.gif` missing `alt` tag
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `Slits are 2 micrometers wide and 10 micrometers apart. Sensor is 200 micrometers away.` is too small at 10px
     * Text `More light` is too small at 8px
@@ -537,7 +534,7 @@ No issues found! 🎉
 * Needs a title, add a `<title>` tag to the `<head>`
 * Add a link to your project's GitHub repo, so people can review your code
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-    * Image `privy.JPG` missing `alt` tag
+    * Image `chimney.JPG` missing `alt` tag
 
 
 
@@ -612,11 +609,11 @@ No issues found! 🎉
    * Text `:` overlaps with `Source` at screen width 400
    * Text `:` overlaps with `Korea Forest Service` at screen width 400
    * Text `Source` overlaps with `Korea Forest Service` at screen width 400
-   * Text `:` overlaps with `Source` at screen width 900
-   * Text `:` overlaps with `Korea Forest Service` at screen width 900
+   * Text `area. This is equivalent to` overlaps with `16 times` at screen width 900
+   * Text `16 times` overlaps with `the size of` at screen width 900
+   * Text `Source` overlaps with `:` at screen width 900
    * Text `Source` overlaps with `Korea Forest Service` at screen width 900
-   * Text `area. This is equivalent to` overlaps with `16 times` at screen width 1300
-   * *and 4 more*
+   * *and 6 more*
 
 **https://junekim6.github.io/electric-disturbance-events/**
 
@@ -691,14 +688,14 @@ No issues found! 🎉
 
 * Add a link to your project's GitHub repo, so people can review your code
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `1990` overlaps with `1992` at screen width 1300
-   * Text `1992` overlaps with `1994` at screen width 1300
-   * Text `1994` overlaps with `1996` at screen width 1300
-   * Text `1996` overlaps with `1998` at screen width 1300
-   * Text `1998` overlaps with `2000` at screen width 1300
-   * Text `2000` overlaps with `2002` at screen width 1300
-   * Text `2002` overlaps with `2004` at screen width 1300
-   * *and 8 more*
+   * Text `1990` overlaps with `1992` at screen width 900
+   * Text `1992` overlaps with `1994` at screen width 900
+   * Text `1994` overlaps with `1996` at screen width 900
+   * Text `1996` overlaps with `1998` at screen width 900
+   * Text `1998` overlaps with `2000` at screen width 900
+   * Text `2000` overlaps with `2002` at screen width 900
+   * Text `2002` overlaps with `2004` at screen width 900
+   * *and 23 more*
 
 **https://kellywaldro.github.io/processing-times/**
 
@@ -821,6 +818,7 @@ No issues found! 🎉
 * All HTML files should be named `index.html`. If this is a personal project, move `Project4.html` into a folder (or repo) called `Project4`, then rename the file `index.html`. That way the project can be found at **/Project4** instead of **/Project4.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505) or how it works specifically with GitHub repos [on Fancy GitHub](https://jonathansoma.com/fancy-github/github-pages/#choosing-your-url)
 * Change URL to be all in lowercase
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://meganwordell.github.io/Project5.html**
 
@@ -1012,17 +1010,18 @@ No issues found! 🎉
    * Text `Apr 2021` overlaps with `Oct 2021` at screen width 400
    * Text `Oct 2021` overlaps with `Apr 2022` at screen width 400
    * Text `More people with disabilities are entering the labor force` overlaps with `But people with disabilities are only half as likely to be employed` at screen width 400
-   * *and 182 more*
+   * *and 323 more*
 
 **https://rachel-el-p.github.io/train_derailment_and_profits/**
 
 * Change URL to use `-` instead of spaces or underscores
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `Accidents are those recorded by the Federal Railroad Administration between 2017 and 2022` is too small at 9px
+    * Text ` ` is too small at 9px
     * Text `The stock price percentage change is the difference between April 1 2023 and May 1 2018’s prices` is too small at 9px
     * Text `Source: Yahoo! Finance, Federal Railroad Administration` is too small at 9px
     * Text `153 derailments annually between 2018 and 2022` is too small at 10px
-    * Text `yet stock price rose 35% ` is too small at 8px
+    * Text `yet stock price rose 35%` is too small at 8px
     * Text `JAN` is too small at 5px
     * *and 109 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
@@ -1041,22 +1040,22 @@ No issues found! 🎉
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `Source: Company filings` is too small at 10px
-    * Text `Note: Carlyle’s private equity assets under management only includes corporate` is too small at 10px
-    * Text `private equity and excludes assets in real estate and natural resources` is too small at 10px
+    * Text `Note: Carlyle’s private equity assets under management only includes corporate ` is too small at 10px
+    * Text `private equity and excludes assets in real estate and natural resources ` is too small at 10px
     * Text ` ` is too small at 10px
     * Text `Source: Company filings` is too small at 10px
-    * Text `Note: Carlyle’s private equity assets under ` is too small at 10px
-    * Text `management only includes corporate private equity ` is too small at 10px
+    * Text `Note: Carlyle’s private equity assets under` is too small at 10px
+    * Text `management only includes corporate private equity` is too small at 10px
     * *and 21 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
    * Text `CARLYLE` overlaps with `105` at screen width 400
-   * Text `CARLYLE` overlaps with `105` at screen width 900
    * Text `California Public` overlaps with `California State` at screen width 1300
    * Text `Employees` overlaps with `Teachers’` at screen width 1300
    * Text `Retirement System` overlaps with `Retirement System` at screen width 1300
    * Text `California State` overlaps with `Washington State` at screen width 1300
    * Text `Teachers’` overlaps with `Board of Investment` at screen width 1300
-   * *and 2 more*
+   * Text `Texas Teachers` overlaps with `Washington State` at screen width 1300
+   * *and 1 more*
 
 **https://rachel-el-p.github.io/pe_game/**
 
@@ -1212,7 +1211,7 @@ No issues found! 🎉
    * Text `‘12` overlaps with `‘13` at screen width 400
    * Text `‘13` overlaps with `‘14` at screen width 400
    * Text `‘14` overlaps with `‘15` at screen width 400
-   * *and 115 more*
+   * *and 84 more*
 
 
 
