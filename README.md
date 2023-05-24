@@ -93,10 +93,8 @@ No issues found! 🎉
    * Text `Uttar Pradesh has always been the most unsafe state for minorities` overlaps with `Uttar Pradesh has always been the most unsafe state for minorities` at screen width 400
    * Text `2021` overlaps with `2021` at screen width 400
    * Text `Madhya Pradesh and Chhattisgarh and Karnataka saw a nearly five-fold increase in violence` overlaps with `Madhya Pradesh and Chhattisgarh and Karnataka saw a nearly five-fold increase in violence` at screen width 400
-   * Text `2018` overlaps with `2018` at screen width 900
    * Text `Uttar Pradesh has always been the most unsafe state for minorities` overlaps with `Uttar Pradesh has always been the most unsafe state for minorities` at screen width 900
-   * Text `2021` overlaps with `2021` at screen width 900
-   * *and 1 more*
+   * Text `Uttar Pradesh has always been the most unsafe state for minorities` overlaps with `Uttar Pradesh has always been the most unsafe state for minorities` at screen width 1300
 
 
 
@@ -316,9 +314,9 @@ No issues found! 🎉
    * Text `Imola` overlaps with `Mexico City` at screen width 400
    * Text `Imola` overlaps with `Sochi` at screen width 400
    * Text `Mexico City` overlaps with `Monaco` at screen width 400
-   * Text `Austin` overlaps with `Sochi` at screen width 900
-   * Text `Imola` overlaps with `Mexico City` at screen width 900
-   * Text `Imola` overlaps with `Sochi` at screen width 900
+   * Text `Autodromo Enzo e Dino Ferrari (Imola)` overlaps with `Autódromo Hermanos Rodríguez (Mexico City)` at screen width 900
+   * Text `Autodromo Enzo e Dino Ferrari (Imola)` overlaps with `Sochi Autodrom` at screen width 900
+   * Text `Autódromo Hermanos Rodríguez (Mexico City)` overlaps with `Circuit de Monaco` at screen width 900
    * *and 5 more*
 * Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
     * `"IBM Plex Serif"` font not found, used in 24 text objects. Example: _FIA issued slightly more out of track penalties to F1 drivers in the Circuit of the America, The number of out of track penalties FIA issued to drivers during Formula One races from 2014-2023, 5_
@@ -532,7 +530,6 @@ No issues found! 🎉
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
    * Text `1990` overlaps with `0.8` at screen width 400
    * Text `1990` overlaps with `0.8` at screen width 900
-   * Text `1990` overlaps with `0.8` at screen width 1300
 
 **https://juhanarossi.github.io/finnish-summer-cabin/**
 
@@ -692,6 +689,15 @@ No issues found! 🎉
 **https://kellywaldro.github.io/remittances/**
 
 * Add a link to your project's GitHub repo, so people can review your code
+* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `1990` overlaps with `1992` at screen width 900
+   * Text `1992` overlaps with `1994` at screen width 900
+   * Text `1994` overlaps with `1996` at screen width 900
+   * Text `1996` overlaps with `1998` at screen width 900
+   * Text `1998` overlaps with `2000` at screen width 900
+   * Text `2000` overlaps with `2002` at screen width 900
+   * Text `2002` overlaps with `2004` at screen width 900
+   * *and 23 more*
 
 **https://kellywaldro.github.io/processing-times/**
 
@@ -748,17 +754,16 @@ No issues found! 🎉
 
 **https://laurabejder.com/rain/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `20` is too small at 10px
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `+50 mm` overlaps with `+100 mm` at screen width 900
-   * Text `+15 mm` overlaps with `+25 mm` at screen width 900
-   * Text `J` overlaps with `M` at screen width 900
-   * Text `J` overlaps with `J` at screen width 900
-   * Text `O` overlaps with `S` at screen width 900
-   * Text `O` overlaps with `N` at screen width 900
-   * Text `S` overlaps with `A` at screen width 900
+   * Text `+50 mm` overlaps with `+100 mm` at screen width 400
+   * Text `+15 mm` overlaps with `+25 mm` at screen width 400
+   * Text `J` overlaps with `M` at screen width 400
+   * Text `J` overlaps with `J` at screen width 400
+   * Text `O` overlaps with `S` at screen width 400
+   * Text `O` overlaps with `N` at screen width 400
+   * Text `S` overlaps with `A` at screen width 400
    * *and 6 more*
 
 **https://laurabejder.com/danish-court-cases/**
