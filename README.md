@@ -314,9 +314,9 @@ No issues found! 🎉
    * Text `Imola` overlaps with `Mexico City` at screen width 400
    * Text `Imola` overlaps with `Sochi` at screen width 400
    * Text `Mexico City` overlaps with `Monaco` at screen width 400
-   * Text `Autodromo Enzo e Dino Ferrari (Imola)` overlaps with `Autódromo Hermanos Rodríguez (Mexico City)` at screen width 900
-   * Text `Autodromo Enzo e Dino Ferrari (Imola)` overlaps with `Sochi Autodrom` at screen width 900
-   * Text `Autódromo Hermanos Rodríguez (Mexico City)` overlaps with `Circuit de Monaco` at screen width 900
+   * Text `Austin` overlaps with `Sochi` at screen width 900
+   * Text `Imola` overlaps with `Mexico City` at screen width 900
+   * Text `Imola` overlaps with `Sochi` at screen width 900
    * *and 5 more*
 * Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
     * `"IBM Plex Serif"` font not found, used in 24 text objects. Example: _FIA issued slightly more out of track penalties to F1 drivers in the Circuit of the America, The number of out of track penalties FIA issued to drivers during Formula One races from 2014-2023, 5_
@@ -487,7 +487,6 @@ No issues found! 🎉
 
 **https://juhanarossi.github.io/helsinki-nyc-days/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
    * Text `9:20 am` overlaps with `5 h 56 min` at screen width 400
    * Text `5 h 56 min` overlaps with `3:16 pm` at screen width 400
@@ -519,7 +518,6 @@ No issues found! 🎉
 **https://juhanarossi.github.io/project-pax-airliners-B737-A320/**
 
 * Change URL to be all in lowercase
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `Other types` is too small at 10px
     * Text `A320` is too small at 10px
@@ -531,6 +529,7 @@ No issues found! 🎉
     * *and 28 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
    * Text `1990` overlaps with `0.8` at screen width 400
+   * Text `1990` overlaps with `0.8` at screen width 900
 
 **https://juhanarossi.github.io/finnish-summer-cabin/**
 
@@ -691,15 +690,6 @@ No issues found! 🎉
 **https://kellywaldro.github.io/remittances/**
 
 * Add a link to your project's GitHub repo, so people can review your code
-* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `1990` overlaps with `1992` at screen width 900
-   * Text `1992` overlaps with `1994` at screen width 900
-   * Text `1994` overlaps with `1996` at screen width 900
-   * Text `1996` overlaps with `1998` at screen width 900
-   * Text `1998` overlaps with `2000` at screen width 900
-   * Text `2000` overlaps with `2002` at screen width 900
-   * Text `2002` overlaps with `2004` at screen width 900
-   * *and 23 more*
 
 **https://kellywaldro.github.io/processing-times/**
 
@@ -822,7 +812,6 @@ No issues found! 🎉
 * All HTML files should be named `index.html`. If this is a personal project, move `Project4.html` into a folder (or repo) called `Project4`, then rename the file `index.html`. That way the project can be found at **/Project4** instead of **/Project4.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505) or how it works specifically with GitHub repos [on Fancy GitHub](https://jonathansoma.com/fancy-github/github-pages/#choosing-your-url)
 * Change URL to be all in lowercase
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://meganwordell.github.io/Project5.html**
 
@@ -1019,6 +1008,7 @@ No issues found! 🎉
 **https://rachel-el-p.github.io/train_derailment_and_profits/**
 
 * Change URL to use `-` instead of spaces or underscores
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `Accidents are those recorded by the Federal Railroad Administration between 2017 and 2022` is too small at 9px
     * Text `The stock price percentage change is the difference between April 1 2023 and May 1 2018’s prices` is too small at 9px
@@ -1028,10 +1018,10 @@ No issues found! 🎉
     * Text `JAN` is too small at 5px
     * *and 109 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `2023 Apr: $205` overlaps with `APR` at screen width 400
-   * Text `2018 May: $152` overlaps with `250` at screen width 400
-   * Text `2021` overlaps with `In 2018, the same trains derailed 856 times,` at screen width 900
-   * Text `2018` overlaps with `2019` at screen width 900
+   * Text `2021` overlaps with `In 2018, the same trains derailed 856 times,` at screen width 400
+   * Text `2018` overlaps with `2019` at screen width 400
+   * Text `yet stock price rose 35%` overlaps with `250` at screen width 900
+   * Text `2023 Apr: $205` overlaps with `APR` at screen width 900
    * Text `2021` overlaps with `In 2018, the same trains derailed 856 times,` at screen width 1300
    * Text `2018` overlaps with `2019` at screen width 1300
 
@@ -1052,6 +1042,8 @@ No issues found! 🎉
     * *and 21 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
    * Text `CARLYLE` overlaps with `105` at screen width 400
+   * Text `CARLYLE` overlaps with `105` at screen width 900
+   * Text `CARLYLE` overlaps with `105` at screen width 1300
 
 **https://rachel-el-p.github.io/pe_game/**
 
@@ -1207,7 +1199,7 @@ No issues found! 🎉
    * Text `‘12` overlaps with `‘13` at screen width 400
    * Text `‘13` overlaps with `‘14` at screen width 400
    * Text `‘14` overlaps with `‘15` at screen width 400
-   * *and 115 more*
+   * *and 84 more*
 
 
 
@@ -1330,6 +1322,11 @@ No issues found! 🎉
     * Text `1990` is too small at 9px
     * *and 20 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `Average percentage` overlaps with `From 2009 to 2014, all major awards went to white nominees` at screen width 400
+   * Text `Average percentage` overlaps with `43% of all nominees were artists of color` at screen width 400
+   * Text `of white nominees` overlaps with `From 2009 to 2014, all major awards went to white nominees` at screen width 400
+   * Text `of white nominees` overlaps with `43% of all nominees were artists of color` at screen width 400
+   * Text `dropped to 39%` overlaps with `43% of all nominees were artists of color` at screen width 400
    * Text `From 2009 to 2014, all major awards went to white nominees` overlaps with `43% of all nominees were artists of color` at screen width 400
 
 **https://xinyitu.github.io/precinct-parking/**
