@@ -66,7 +66,7 @@ Quick checks to make sure our pages are looking their best.
    * Text `$6B` overlaps with `$5.9B` at screen width 400
    * Text `Singapore` overlaps with `$130B` at screen width 400
    * Text `and Mauritius` overlaps with `$130B` at screen width 400
-   * *and 28 more*
+   * *and 21 more*
 
 **https://ahanpenkar.github.io/my-dosa-project/**
 
@@ -487,6 +487,7 @@ No issues found! 🎉
 
 **https://juhanarossi.github.io/helsinki-nyc-days/**
 
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
    * Text `9:20 am` overlaps with `5 h 56 min` at screen width 400
    * Text `5 h 56 min` overlaps with `3:16 pm` at screen width 400
@@ -529,6 +530,7 @@ No issues found! 🎉
     * *and 28 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
    * Text `1990` overlaps with `0.8` at screen width 400
+   * Text `1990` overlaps with `0.8` at screen width 900
 
 **https://juhanarossi.github.io/finnish-summer-cabin/**
 
@@ -828,6 +830,7 @@ No issues found! 🎉
 * All HTML files should be named `index.html`. If this is a personal project, move `Project5.html` into a folder (or repo) called `Project5`, then rename the file `index.html`. That way the project can be found at **/Project5** instead of **/Project5.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505) or how it works specifically with GitHub repos [on Fancy GitHub](https://jonathansoma.com/fancy-github/github-pages/#choosing-your-url)
 * Change URL to be all in lowercase
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 
 
@@ -994,7 +997,6 @@ No issues found! 🎉
 **https://rachel-el-p.github.io/disabilities_workers/**
 
 * Change URL to use `-` instead of spaces or underscores
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `COVID-19 starts` is too small at 9px
     * Text `Jan 2023` is too small at 8px
@@ -1050,13 +1052,13 @@ No issues found! 🎉
     * *and 21 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
    * Text `CARLYLE` overlaps with `105` at screen width 400
+   * Text `CARLYLE` overlaps with `105` at screen width 900
    * Text `California Public` overlaps with `California State` at screen width 1300
    * Text `Employees` overlaps with `Teachers’` at screen width 1300
    * Text `Retirement System` overlaps with `Retirement System` at screen width 1300
    * Text `California State` overlaps with `Washington State` at screen width 1300
    * Text `Teachers’` overlaps with `Board of Investment` at screen width 1300
-   * Text `Texas Teachers` overlaps with `Washington State` at screen width 1300
-   * *and 1 more*
+   * *and 2 more*
 
 **https://rachel-el-p.github.io/pe_game/**
 
@@ -1102,7 +1104,7 @@ No issues found! 🎉
    * Text `2013` overlaps with `2014` at screen width 400
    * Text `2014` overlaps with `2015` at screen width 400
    * Text `2015` overlaps with `2016` at screen width 400
-   * *and 57 more*
+   * *and 41 more*
 
 **https://shalakas.github.io/judiciary-project/**
 
@@ -1185,7 +1187,7 @@ No issues found! 🎉
    * Text `Product` overlaps with `1657` at screen width 400
    * Text `Founders` overlaps with `5291` at screen width 400
    * Text `Engineers` overlaps with `13960 jobs` at screen width 400
-   * *and 4 more*
+   * *and 5 more*
 
 **https://shivanireddy13.github.io/project4/html/**
 
@@ -1213,7 +1215,7 @@ No issues found! 🎉
    * Text `‘10` overlaps with `‘11` at screen width 400
    * Text `‘11` overlaps with `‘12` at screen width 400
    * Text `‘12` overlaps with `‘13` at screen width 400
-   * *and 46 more*
+   * *and 77 more*
 
 
 
