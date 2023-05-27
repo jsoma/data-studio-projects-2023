@@ -66,7 +66,7 @@ Quick checks to make sure our pages are looking their best.
    * Text `$6B` overlaps with `$5.9B` at screen width 400
    * Text `Singapore` overlaps with `$130B` at screen width 400
    * Text `and Mauritius` overlaps with `$130B` at screen width 400
-   * *and 21 more*
+   * *and 28 more*
 
 **https://ahanpenkar.github.io/my-dosa-project/**
 
@@ -94,7 +94,6 @@ No issues found! 🎉
    * Text `2021` overlaps with `2021` at screen width 400
    * Text `Madhya Pradesh and Chhattisgarh and Karnataka saw a nearly five-fold increase in violence` overlaps with `Madhya Pradesh and Chhattisgarh and Karnataka saw a nearly five-fold increase in violence` at screen width 400
    * Text `Uttar Pradesh has always been the most unsafe state for minorities` overlaps with `Uttar Pradesh has always been the most unsafe state for minorities` at screen width 900
-   * Text `Uttar Pradesh has always been the most unsafe state for minorities` overlaps with `Uttar Pradesh has always been the most unsafe state for minorities` at screen width 1300
 
 
 
@@ -529,7 +528,6 @@ No issues found! 🎉
     * *and 28 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
    * Text `1990` overlaps with `0.8` at screen width 400
-   * Text `1990` overlaps with `0.8` at screen width 900
 
 **https://juhanarossi.github.io/finnish-summer-cabin/**
 
@@ -663,6 +661,7 @@ No issues found! 🎉
 
 **https://kellywaldro.github.io/macron-agenda/**
 
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
    * Text `D` overlaps with `i` at screen width 400
    * Text `D` overlaps with `m` at screen width 400
@@ -691,14 +690,14 @@ No issues found! 🎉
 
 * Add a link to your project's GitHub repo, so people can review your code
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `1990` overlaps with `1992` at screen width 1300
-   * Text `1992` overlaps with `1994` at screen width 1300
-   * Text `1994` overlaps with `1996` at screen width 1300
-   * Text `1996` overlaps with `1998` at screen width 1300
-   * Text `1998` overlaps with `2000` at screen width 1300
-   * Text `2000` overlaps with `2002` at screen width 1300
-   * Text `2002` overlaps with `2004` at screen width 1300
-   * *and 8 more*
+   * Text `1990` overlaps with `1992` at screen width 900
+   * Text `1992` overlaps with `1994` at screen width 900
+   * Text `1994` overlaps with `1996` at screen width 900
+   * Text `1996` overlaps with `1998` at screen width 900
+   * Text `1998` overlaps with `2000` at screen width 900
+   * Text `2000` overlaps with `2002` at screen width 900
+   * Text `2002` overlaps with `2004` at screen width 900
+   * *and 23 more*
 
 **https://kellywaldro.github.io/processing-times/**
 
@@ -745,7 +744,7 @@ No issues found! 🎉
 
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `158` is too small at 10px
-    * Text `Cannular or` is too small at 7px
+    * Text `Cannular or ` is too small at 7px
     * Text `IV protection` is too small at 7px
     * Text `58` is too small at 5px
     * Text `Heating or` is too small at 8px
@@ -995,7 +994,6 @@ No issues found! 🎉
 **https://rachel-el-p.github.io/disabilities_workers/**
 
 * Change URL to use `-` instead of spaces or underscores
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `COVID-19 starts` is too small at 9px
     * Text `Jan 2023` is too small at 8px
@@ -1006,18 +1004,19 @@ No issues found! 🎉
     * Text `Apr 2021` is too small at 8px
     * *and 284 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `Apr 2020` overlaps with `Jul 2020` at screen width 400
-   * Text `ai2html-settings` overlaps with `ai2html-settings` at screen width 400
-   * Text `settings_version: 0.115.5` overlaps with `settings_version: 0.115.5` at screen width 400
-   * Text `image_format: auto` overlaps with `image_format: auto` at screen width 400
-   * Text `responsiveness: fixed` overlaps with `responsiveness: fixed` at screen width 400
-   * Text `output: one-file` overlaps with `output: one-file` at screen width 400
-   * Text `html_output_path: /ai2html-output/` overlaps with `html_output_path: /ai2html-output/` at screen width 400
-   * *and 320 more*
+   * Text `from COVID-19 highs, but still higher than those with no disabilities` overlaps with `People with disabilities are about twice as likely to be unemployed` at screen width 400
+   * Text `Jan 2023` overlaps with `Oct 2022` at screen width 400
+   * Text `Oct 2022` overlaps with `Apr 2022` at screen width 400
+   * Text `Oct 2020` overlaps with `Apr 2021` at screen width 400
+   * Text `Apr 2021` overlaps with `Oct 2021` at screen width 400
+   * Text `Oct 2021` overlaps with `Apr 2022` at screen width 400
+   * Text `More people with disabilities are entering the labor force` overlaps with `But people with disabilities are only half as likely to be employed` at screen width 400
+   * *and 323 more*
 
 **https://rachel-el-p.github.io/train_derailment_and_profits/**
 
 * Change URL to use `-` instead of spaces or underscores
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `Accidents are those recorded by the Federal Railroad Administration between 2017 and 2022` is too small at 9px
     * Text `The stock price percentage change is the difference between April 1 2023 and May 1 2018’s prices` is too small at 9px
@@ -1051,6 +1050,13 @@ No issues found! 🎉
     * *and 21 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
    * Text `CARLYLE` overlaps with `105` at screen width 400
+   * Text `California Public` overlaps with `California State` at screen width 1300
+   * Text `Employees` overlaps with `Teachers’` at screen width 1300
+   * Text `Retirement System` overlaps with `Retirement System` at screen width 1300
+   * Text `California State` overlaps with `Washington State` at screen width 1300
+   * Text `Teachers’` overlaps with `Board of Investment` at screen width 1300
+   * Text `Texas Teachers` overlaps with `Washington State` at screen width 1300
+   * *and 1 more*
 
 **https://rachel-el-p.github.io/pe_game/**
 
@@ -1096,7 +1102,7 @@ No issues found! 🎉
    * Text `2013` overlaps with `2014` at screen width 400
    * Text `2014` overlaps with `2015` at screen width 400
    * Text `2015` overlaps with `2016` at screen width 400
-   * *and 57 more*
+   * *and 41 more*
 
 **https://shalakas.github.io/judiciary-project/**
 
@@ -1108,6 +1114,7 @@ No issues found! 🎉
 
 **https://shalakas.github.io/water-crisis-salva-dut/**
 
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `24% rural ` is too small at 10px
     * Text `population` is too small at 10px
@@ -1118,14 +1125,14 @@ No issues found! 🎉
     * Text `population` is too small at 10px
     * *and 2 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `infested waters of river Gilo.` overlaps with `Forced Out of Ethiopia` at screen width 400
-   * Text `and found Ifo camp.` overlaps with `From Kakuma to Ifo` at screen width 400
-   * Text `thought was long dead.` overlaps with `Finding Mawien Dut Ariik` at screen width 400
-   * Text `Lost Boys of Sudan` overlaps with `Dut was shortlisted to be part of a` at screen width 400
-   * Text `‘Water for South Sudan’ (WFSS).` overlaps with `‘Water for Sudan’ to` at screen width 400
-   * Text `‘Water for South Sudan’` overlaps with `2011` at screen width 400
-   * Text `Today` overlaps with `Later in 2023, WFSS completes` at screen width 400
-   * *and 21 more*
+   * Text `9,831,000` overlaps with `Total:` at screen width 400
+   * Text `Total:` overlaps with `11,194,000` at screen width 400
+   * Text `2011` overlaps with `2012` at screen width 400
+   * Text `2012` overlaps with `2013` at screen width 400
+   * Text `2013` overlaps with `2014` at screen width 400
+   * Text `2014` overlaps with `2015` at screen width 400
+   * Text `2015` overlaps with `2016` at screen width 400
+   * *and 14 more*
 
 
 
@@ -1178,7 +1185,7 @@ No issues found! 🎉
    * Text `Product` overlaps with `1657` at screen width 400
    * Text `Founders` overlaps with `5291` at screen width 400
    * Text `Engineers` overlaps with `13960 jobs` at screen width 400
-   * *and 4 more*
+   * *and 5 more*
 
 **https://shivanireddy13.github.io/project4/html/**
 
