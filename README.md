@@ -93,8 +93,10 @@ No issues found! 🎉
    * Text `Uttar Pradesh has always been the most unsafe state for minorities` overlaps with `Uttar Pradesh has always been the most unsafe state for minorities` at screen width 400
    * Text `2021` overlaps with `2021` at screen width 400
    * Text `Madhya Pradesh and Chhattisgarh and Karnataka saw a nearly five-fold increase in violence` overlaps with `Madhya Pradesh and Chhattisgarh and Karnataka saw a nearly five-fold increase in violence` at screen width 400
+   * Text `2018` overlaps with `2018` at screen width 900
    * Text `Uttar Pradesh has always been the most unsafe state for minorities` overlaps with `Uttar Pradesh has always been the most unsafe state for minorities` at screen width 900
-   * Text `Uttar Pradesh has always been the most unsafe state for minorities` overlaps with `Uttar Pradesh has always been the most unsafe state for minorities` at screen width 1300
+   * Text `2021` overlaps with `2021` at screen width 900
+   * *and 2 more*
 
 
 
@@ -689,15 +691,6 @@ No issues found! 🎉
 **https://kellywaldro.github.io/remittances/**
 
 * Add a link to your project's GitHub repo, so people can review your code
-* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `1990` overlaps with `1992` at screen width 900
-   * Text `1992` overlaps with `1994` at screen width 900
-   * Text `1994` overlaps with `1996` at screen width 900
-   * Text `1996` overlaps with `1998` at screen width 900
-   * Text `1998` overlaps with `2000` at screen width 900
-   * Text `2000` overlaps with `2002` at screen width 900
-   * Text `2002` overlaps with `2004` at screen width 900
-   * *and 23 more*
 
 **https://kellywaldro.github.io/processing-times/**
 
@@ -820,7 +813,6 @@ No issues found! 🎉
 * All HTML files should be named `index.html`. If this is a personal project, move `Project4.html` into a folder (or repo) called `Project4`, then rename the file `index.html`. That way the project can be found at **/Project4** instead of **/Project4.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505) or how it works specifically with GitHub repos [on Fancy GitHub](https://jonathansoma.com/fancy-github/github-pages/#choosing-your-url)
 * Change URL to be all in lowercase
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://meganwordell.github.io/Project5.html**
 
@@ -1050,13 +1042,6 @@ No issues found! 🎉
     * *and 21 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
    * Text `CARLYLE` overlaps with `105` at screen width 400
-   * Text `CARLYLE` overlaps with `105` at screen width 900
-   * Text `California Public` overlaps with `California State` at screen width 1300
-   * Text `Employees` overlaps with `Teachers’` at screen width 1300
-   * Text `Retirement System` overlaps with `Retirement System` at screen width 1300
-   * Text `California State` overlaps with `Washington State` at screen width 1300
-   * Text `Teachers’` overlaps with `Board of Investment` at screen width 1300
-   * *and 2 more*
 
 **https://rachel-el-p.github.io/pe_game/**
 
@@ -1185,7 +1170,7 @@ No issues found! 🎉
    * Text `Product` overlaps with `1657` at screen width 400
    * Text `Founders` overlaps with `5291` at screen width 400
    * Text `Engineers` overlaps with `13960 jobs` at screen width 400
-   * *and 4 more*
+   * *and 5 more*
 
 **https://shivanireddy13.github.io/project4/html/**
 
