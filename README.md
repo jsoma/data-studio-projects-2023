@@ -225,6 +225,7 @@ No issues found! 🎉
 **https://itsliuhongyu.github.io/**
 
 * Add a link to your project's GitHub repo, so people can review your code
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://itsliuhongyu.github.io/1_Subway_change/**
 
@@ -436,6 +437,7 @@ No issues found! 🎉
     * Image `single_wave.gif` missing `alt` tag
     * Image `single_slit.gif` missing `alt` tag
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `Slits are 2 micrometers wide and 10 micrometers apart. Sensor is 200 micrometers away.` is too small at 10px
     * Text `More light` is too small at 8px
@@ -913,7 +915,7 @@ No issues found! 🎉
    * Text `11,311` overlaps with `11,311` at screen width 400
    * Text `2` overlaps with `2` at screen width 400
    * Text `11,311` overlaps with `11,311` at screen width 400
-   * *and 17 more*
+   * *and 20 more*
 
 **https://poojachaudhuri.github.io/diversity-in-indian-police-force/**
 
@@ -1016,6 +1018,7 @@ No issues found! 🎉
 **https://rachel-el-p.github.io/train_derailment_and_profits/**
 
 * Change URL to use `-` instead of spaces or underscores
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `Accidents are those recorded by the Federal Railroad Administration between 2017 and 2022` is too small at 9px
     * Text `The stock price percentage change is the difference between April 1 2023 and May 1 2018’s prices` is too small at 9px
@@ -1025,8 +1028,8 @@ No issues found! 🎉
     * Text `JAN` is too small at 5px
     * *and 109 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `2023 Apr: $205` overlaps with `APR` at screen width 400
-   * Text `2018 May: $152` overlaps with `250` at screen width 400
+   * Text `2021` overlaps with `In 2018, the same trains derailed 856 times,` at screen width 400
+   * Text `2018` overlaps with `2019` at screen width 400
    * Text `2021` overlaps with `In 2018, the same trains derailed 856 times,` at screen width 900
    * Text `2018` overlaps with `2019` at screen width 900
    * Text `2021` overlaps with `In 2018, the same trains derailed 856 times,` at screen width 1300
@@ -1049,13 +1052,6 @@ No issues found! 🎉
     * *and 21 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
    * Text `CARLYLE` overlaps with `105` at screen width 400
-   * Text `California Public` overlaps with `California State` at screen width 1300
-   * Text `Employees` overlaps with `Teachers’` at screen width 1300
-   * Text `Retirement System` overlaps with `Retirement System` at screen width 1300
-   * Text `California State` overlaps with `Washington State` at screen width 1300
-   * Text `Teachers’` overlaps with `Board of Investment` at screen width 1300
-   * Text `Texas Teachers` overlaps with `Washington State` at screen width 1300
-   * *and 1 more*
 
 **https://rachel-el-p.github.io/pe_game/**
 
@@ -1184,7 +1180,7 @@ No issues found! 🎉
    * Text `Product` overlaps with `1657` at screen width 400
    * Text `Founders` overlaps with `5291` at screen width 400
    * Text `Engineers` overlaps with `13960 jobs` at screen width 400
-   * *and 4 more*
+   * *and 5 more*
 
 **https://shivanireddy13.github.io/project4/html/**
 
@@ -1212,7 +1208,7 @@ No issues found! 🎉
    * Text `‘12` overlaps with `‘13` at screen width 400
    * Text `‘13` overlaps with `‘14` at screen width 400
    * Text `‘14` overlaps with `‘15` at screen width 400
-   * *and 115 more*
+   * *and 84 more*
 
 
 
