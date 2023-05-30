@@ -305,7 +305,7 @@ No issues found! 🎉
 **https://itsliuhongyu.github.io/6_sausage_kerbs/**
 
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-    * Image `./Visualization/Scrolly1/Monza-Step-1.jpg` missing `alt` tag
+    * Image `./Visualization/Scrolly1/Monza-Step-0.jpg` missing `alt` tag
 * Change URL to use `-` instead of spaces or underscores
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
@@ -528,7 +528,6 @@ No issues found! 🎉
     * *and 28 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
    * Text `1990` overlaps with `0.8` at screen width 400
-   * Text `1990` overlaps with `0.8` at screen width 900
 
 **https://juhanarossi.github.io/finnish-summer-cabin/**
 
@@ -610,11 +609,11 @@ No issues found! 🎉
    * Text `:` overlaps with `Source` at screen width 400
    * Text `:` overlaps with `Korea Forest Service` at screen width 400
    * Text `Source` overlaps with `Korea Forest Service` at screen width 400
-   * Text `:` overlaps with `Source` at screen width 900
-   * Text `:` overlaps with `Korea Forest Service` at screen width 900
+   * Text `area. This is equivalent to` overlaps with `16 times` at screen width 900
+   * Text `16 times` overlaps with `the size of` at screen width 900
+   * Text `Source` overlaps with `:` at screen width 900
    * Text `Source` overlaps with `Korea Forest Service` at screen width 900
-   * Text `area. This is equivalent to` overlaps with `16 times` at screen width 1300
-   * *and 4 more*
+   * *and 6 more*
 
 **https://junekim6.github.io/electric-disturbance-events/**
 
@@ -919,7 +918,6 @@ No issues found! 🎉
 **https://poojachaudhuri.github.io/diversity-in-indian-police-force/**
 
 * Add a link to your project's GitHub repo, so people can review your code
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `0` is too small at 10px
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
@@ -930,7 +928,7 @@ No issues found! 🎉
    * Text `Himachal Pradesh` overlaps with `29` at screen width 400
    * Text `55` overlaps with `West Bengal` at screen width 400
    * Text `A & N Islands` overlaps with `30` at screen width 400
-   * *and 17 more*
+   * *and 12 more*
 
 
 
@@ -1020,11 +1018,10 @@ No issues found! 🎉
 * Change URL to use `-` instead of spaces or underscores
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `Accidents are those recorded by the Federal Railroad Administration between 2017 and 2022` is too small at 9px
-    * Text ` ` is too small at 9px
     * Text `The stock price percentage change is the difference between April 1 2023 and May 1 2018’s prices` is too small at 9px
     * Text `Source: Yahoo! Finance, Federal Railroad Administration` is too small at 9px
     * Text `153 derailments annually between 2018 and 2022` is too small at 10px
-    * Text `yet stock price rose 35%` is too small at 8px
+    * Text `yet stock price rose 35% ` is too small at 8px
     * Text `JAN` is too small at 5px
     * *and 109 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
@@ -1043,12 +1040,12 @@ No issues found! 🎉
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `Source: Company filings` is too small at 10px
-    * Text `Note: Carlyle’s private equity assets under management only includes corporate ` is too small at 10px
-    * Text `private equity and excludes assets in real estate and natural resources ` is too small at 10px
+    * Text `Note: Carlyle’s private equity assets under management only includes corporate` is too small at 10px
+    * Text `private equity and excludes assets in real estate and natural resources` is too small at 10px
     * Text ` ` is too small at 10px
     * Text `Source: Company filings` is too small at 10px
-    * Text `Note: Carlyle’s private equity assets under` is too small at 10px
-    * Text `management only includes corporate private equity` is too small at 10px
+    * Text `Note: Carlyle’s private equity assets under ` is too small at 10px
+    * Text `management only includes corporate private equity ` is too small at 10px
     * *and 21 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
    * Text `CARLYLE` overlaps with `105` at screen width 400
@@ -1187,7 +1184,7 @@ No issues found! 🎉
    * Text `Product` overlaps with `1657` at screen width 400
    * Text `Founders` overlaps with `5291` at screen width 400
    * Text `Engineers` overlaps with `13960 jobs` at screen width 400
-   * *and 5 more*
+   * *and 4 more*
 
 **https://shivanireddy13.github.io/project4/html/**
 
@@ -1215,7 +1212,7 @@ No issues found! 🎉
    * Text `‘12` overlaps with `‘13` at screen width 400
    * Text `‘13` overlaps with `‘14` at screen width 400
    * Text `‘14` overlaps with `‘15` at screen width 400
-   * *and 84 more*
+   * *and 115 more*
 
 
 
