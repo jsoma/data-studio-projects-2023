@@ -75,7 +75,7 @@ No issues found! 🎉
 **https://ahanpenkar.github.io/transfer-analysis/**
 
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-    * Image `image5.jpeg` missing `alt` tag
+    * Image `image4.png` missing `alt` tag
 
 **https://ahanpenkar.github.io/violence-against-christians/**
 
@@ -314,9 +314,9 @@ No issues found! 🎉
    * Text `Imola` overlaps with `Mexico City` at screen width 400
    * Text `Imola` overlaps with `Sochi` at screen width 400
    * Text `Mexico City` overlaps with `Monaco` at screen width 400
-   * Text `Austin` overlaps with `Sochi` at screen width 900
-   * Text `Imola` overlaps with `Mexico City` at screen width 900
-   * Text `Imola` overlaps with `Sochi` at screen width 900
+   * Text `Autodromo Enzo e Dino Ferrari (Imola)` overlaps with `Autódromo Hermanos Rodríguez (Mexico City)` at screen width 900
+   * Text `Autodromo Enzo e Dino Ferrari (Imola)` overlaps with `Sochi Autodrom` at screen width 900
+   * Text `Autódromo Hermanos Rodríguez (Mexico City)` overlaps with `Circuit de Monaco` at screen width 900
    * *and 5 more*
 * Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
     * `"IBM Plex Serif"` font not found, used in 24 text objects. Example: _FIA issued slightly more out of track penalties to F1 drivers in the Circuit of the America, The number of out of track penalties FIA issued to drivers during Formula One races from 2014-2023, 5_
@@ -738,10 +738,11 @@ No issues found! 🎉
    * Text `Netherlands` overlaps with `Switzerland` at screen width 400
    * Text `Romania` overlaps with `N. Macedonia` at screen width 400
    * Text `N. Macedonia` overlaps with `Bulgaria` at screen width 400
-   * *and 7 more*
+   * *and 12 more*
 
 **https://laurabejder.com/knitting/**
 
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `158` is too small at 10px
     * Text `Cannular or` is too small at 7px
@@ -820,7 +821,6 @@ No issues found! 🎉
 * All HTML files should be named `index.html`. If this is a personal project, move `Project4.html` into a folder (or repo) called `Project4`, then rename the file `index.html`. That way the project can be found at **/Project4** instead of **/Project4.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505) or how it works specifically with GitHub repos [on Fancy GitHub](https://jonathansoma.com/fancy-github/github-pages/#choosing-your-url)
 * Change URL to be all in lowercase
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://meganwordell.github.io/Project5.html**
 
@@ -995,7 +995,6 @@ No issues found! 🎉
 **https://rachel-el-p.github.io/disabilities_workers/**
 
 * Change URL to use `-` instead of spaces or underscores
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `COVID-19 starts` is too small at 9px
     * Text `Jan 2023` is too small at 8px
@@ -1006,14 +1005,14 @@ No issues found! 🎉
     * Text `Apr 2021` is too small at 8px
     * *and 284 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `Apr 2020` overlaps with `Jul 2020` at screen width 400
-   * Text `ai2html-settings` overlaps with `ai2html-settings` at screen width 400
-   * Text `settings_version: 0.115.5` overlaps with `settings_version: 0.115.5` at screen width 400
-   * Text `image_format: auto` overlaps with `image_format: auto` at screen width 400
-   * Text `responsiveness: fixed` overlaps with `responsiveness: fixed` at screen width 400
-   * Text `output: one-file` overlaps with `output: one-file` at screen width 400
-   * Text `html_output_path: /ai2html-output/` overlaps with `html_output_path: /ai2html-output/` at screen width 400
-   * *and 320 more*
+   * Text `from COVID-19 highs, but still higher than those with no disabilities` overlaps with `People with disabilities are about twice as likely to be unemployed` at screen width 400
+   * Text `Jan 2023` overlaps with `Oct 2022` at screen width 400
+   * Text `Oct 2022` overlaps with `Apr 2022` at screen width 400
+   * Text `Oct 2020` overlaps with `Apr 2021` at screen width 400
+   * Text `Apr 2021` overlaps with `Oct 2021` at screen width 400
+   * Text `Oct 2021` overlaps with `Apr 2022` at screen width 400
+   * Text `More people with disabilities are entering the labor force` overlaps with `But people with disabilities are only half as likely to be employed` at screen width 400
+   * *and 323 more*
 
 **https://rachel-el-p.github.io/train_derailment_and_profits/**
 
@@ -1029,8 +1028,8 @@ No issues found! 🎉
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
    * Text `2023 Apr: $205` overlaps with `APR` at screen width 400
    * Text `2018 May: $152` overlaps with `250` at screen width 400
-   * Text `yet stock price rose 35%` overlaps with `250` at screen width 900
-   * Text `2023 Apr: $205` overlaps with `APR` at screen width 900
+   * Text `2021` overlaps with `In 2018, the same trains derailed 856 times,` at screen width 900
+   * Text `2018` overlaps with `2019` at screen width 900
    * Text `2021` overlaps with `In 2018, the same trains derailed 856 times,` at screen width 1300
    * Text `2018` overlaps with `2019` at screen width 1300
 
@@ -1051,6 +1050,8 @@ No issues found! 🎉
     * *and 21 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
    * Text `CARLYLE` overlaps with `105` at screen width 400
+   * Text `CARLYLE` overlaps with `105` at screen width 900
+   * Text `CARLYLE` overlaps with `105` at screen width 1300
 
 **https://rachel-el-p.github.io/pe_game/**
 
@@ -1179,7 +1180,7 @@ No issues found! 🎉
    * Text `Product` overlaps with `1657` at screen width 400
    * Text `Founders` overlaps with `5291` at screen width 400
    * Text `Engineers` overlaps with `13960 jobs` at screen width 400
-   * *and 4 more*
+   * *and 5 more*
 
 **https://shivanireddy13.github.io/project4/html/**
 
@@ -1191,7 +1192,7 @@ No issues found! 🎉
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
-    * Text `Each point represents the median fastest lap at that year’s Grand Prix. ` is too small at 9px
+    * Text `Each point represents the median fastest lap at that year’s Grand Prix.` is too small at 9px
     * Text `Monaco did not have a GP in 2020 due to the pandemic.` is too small at 9px
     * Text `Belgian Grand Prix` is too small at 7px
     * Text `Italian Grand Prix` is too small at 7px
@@ -1200,14 +1201,14 @@ No issues found! 🎉
     * Text `250` is too small at 6px
     * *and 173 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `‘07` overlaps with `‘06` at screen width 400
-   * Text `‘07` overlaps with `‘08` at screen width 400
    * Text `‘09` overlaps with `‘10` at screen width 400
    * Text `‘09` overlaps with `‘08` at screen width 400
-   * Text `‘10` overlaps with `‘11` at screen width 400
    * Text `‘11` overlaps with `‘12` at screen width 400
+   * Text `‘11` overlaps with `‘10` at screen width 400
    * Text `‘12` overlaps with `‘13` at screen width 400
-   * *and 46 more*
+   * Text `‘13` overlaps with `‘14` at screen width 400
+   * Text `‘14` overlaps with `‘15` at screen width 400
+   * *and 84 more*
 
 
 
