@@ -49,7 +49,6 @@ Quick checks to make sure our pages are looking their best.
 **https://ahanpenkar.github.io/foreign-direct-investment**
 
 * Add a link to your project's GitHub repo, so people can review your code
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `France` is too small at 10px
     * Text `Germany` is too small at 10px
@@ -97,7 +96,7 @@ No issues found! 🎉
    * Text `2018` overlaps with `2018` at screen width 900
    * Text `Uttar Pradesh has always been the most unsafe state for minorities` overlaps with `Uttar Pradesh has always been the most unsafe state for minorities` at screen width 900
    * Text `2021` overlaps with `2021` at screen width 900
-   * *and 1 more*
+   * *and 2 more*
 
 
 
@@ -228,7 +227,6 @@ No issues found! 🎉
 **https://itsliuhongyu.github.io/**
 
 * Add a link to your project's GitHub repo, so people can review your code
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://itsliuhongyu.github.io/1_Subway_change/**
 
@@ -532,15 +530,13 @@ No issues found! 🎉
     * *and 28 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
    * Text `1990` overlaps with `0.8` at screen width 400
-   * Text `1990` overlaps with `0.8` at screen width 900
-   * Text `1990` overlaps with `0.8` at screen width 1300
 
 **https://juhanarossi.github.io/finnish-summer-cabin/**
 
 * Needs a title, add a `<title>` tag to the `<head>`
 * Add a link to your project's GitHub repo, so people can review your code
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-    * Image `chimney.JPG` missing `alt` tag
+    * Image `privy.JPG` missing `alt` tag
 
 
 
@@ -667,15 +663,11 @@ No issues found! 🎉
 
 **https://kellywaldro.github.io/macron-agenda/**
 
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `D` overlaps with `i` at screen width 400
-   * Text `D` overlaps with `m` at screen width 400
-   * Text `D` overlaps with `a` at screen width 400
-   * Text `i` overlaps with `m` at screen width 400
-   * Text `i` overlaps with `a` at screen width 400
-   * Text `m` overlaps with `a` at screen width 400
-   * Text `m` overlaps with `n` at screen width 400
-   * *and 66 more*
+   * Text `2020` overlaps with `Jan` at screen width 400
+   * Text `2020` overlaps with `Jan` at screen width 900
+   * Text `2020` overlaps with `Jan` at screen width 1300
 
 **https://kellywaldro.github.io/medical_emigration/**
 
@@ -769,7 +761,7 @@ No issues found! 🎉
    * Text `O` overlaps with `S` at screen width 400
    * Text `O` overlaps with `N` at screen width 400
    * Text `S` overlaps with `A` at screen width 400
-   * *and 19 more*
+   * *and 6 more*
 
 **https://laurabejder.com/danish-court-cases/**
 
@@ -888,6 +880,7 @@ No issues found! 🎉
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
     * Image `images/month_year_image1.svg` missing `alt` tag
     * Image `images/month_year_image2.svg` missing `alt` tag
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `2000` is too small at 9px
     * Text `1500` is too small at 9px
@@ -919,7 +912,7 @@ No issues found! 🎉
    * Text `11,311` overlaps with `11,311` at screen width 400
    * Text `2` overlaps with `2` at screen width 400
    * Text `11,311` overlaps with `11,311` at screen width 400
-   * *and 17 more*
+   * *and 20 more*
 
 **https://poojachaudhuri.github.io/diversity-in-indian-police-force/**
 
@@ -1107,7 +1100,7 @@ No issues found! 🎉
    * Text `2017` overlaps with `2018` at screen width 400
    * Text `2018` overlaps with `2019` at screen width 400
    * Text `2019` overlaps with `2020` at screen width 400
-   * *and 65 more*
+   * *and 79 more*
 
 **https://shalakas.github.io/judiciary-project/**
 
@@ -1211,14 +1204,14 @@ No issues found! 🎉
     * Text `250` is too small at 6px
     * *and 173 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `‘07` overlaps with `‘06` at screen width 400
-   * Text `‘07` overlaps with `‘08` at screen width 400
    * Text `‘09` overlaps with `‘10` at screen width 400
    * Text `‘09` overlaps with `‘08` at screen width 400
-   * Text `‘10` overlaps with `‘11` at screen width 400
    * Text `‘11` overlaps with `‘12` at screen width 400
+   * Text `‘11` overlaps with `‘10` at screen width 400
    * Text `‘12` overlaps with `‘13` at screen width 400
-   * *and 46 more*
+   * Text `‘13` overlaps with `‘14` at screen width 400
+   * Text `‘14` overlaps with `‘15` at screen width 400
+   * *and 84 more*
 
 
 
