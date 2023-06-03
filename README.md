@@ -253,11 +253,6 @@ No issues found! 🎉
     * Text `63` is too small at 10px
     * Text `Manhattan` is too small at 10px
     * *and 3 more*
-* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `George` overlaps with `92` at screen width 400
-   * Text `Washington` overlaps with `92` at screen width 400
-   * Text `Frederick` overlaps with `91` at screen width 400
-   * Text `Law Olmsted` overlaps with `91` at screen width 400
 * Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
     * `LibreFranklinRoman` font not found, used in 56 text objects. Example: _Robert Moses was mentioned in more historical signs than anyone else, Top five most mentioned person on the historical signs made by NYC Parks and Recreation, 302_
 
@@ -314,9 +309,9 @@ No issues found! 🎉
    * Text `Imola` overlaps with `Mexico City` at screen width 400
    * Text `Imola` overlaps with `Sochi` at screen width 400
    * Text `Mexico City` overlaps with `Monaco` at screen width 400
-   * Text `Austin` overlaps with `Sochi` at screen width 900
-   * Text `Imola` overlaps with `Mexico City` at screen width 900
-   * Text `Imola` overlaps with `Sochi` at screen width 900
+   * Text `Autodromo Enzo e Dino Ferrari (Imola)` overlaps with `Autódromo Hermanos Rodríguez (Mexico City)` at screen width 900
+   * Text `Autodromo Enzo e Dino Ferrari (Imola)` overlaps with `Sochi Autodrom` at screen width 900
+   * Text `Autódromo Hermanos Rodríguez (Mexico City)` overlaps with `Circuit de Monaco` at screen width 900
    * *and 5 more*
 * Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
     * `"IBM Plex Serif"` font not found, used in 24 text objects. Example: _FIA issued slightly more out of track penalties to F1 drivers in the Circuit of the America, The number of out of track penalties FIA issued to drivers during Formula One races from 2014-2023, 5_
@@ -518,7 +513,6 @@ No issues found! 🎉
 **https://juhanarossi.github.io/project-pax-airliners-B737-A320/**
 
 * Change URL to be all in lowercase
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `Other types` is too small at 10px
     * Text `A320` is too small at 10px
@@ -530,7 +524,6 @@ No issues found! 🎉
     * *and 28 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
    * Text `1990` overlaps with `0.8` at screen width 400
-   * Text `1990` overlaps with `0.8` at screen width 900
 
 **https://juhanarossi.github.io/finnish-summer-cabin/**
 
@@ -612,11 +605,11 @@ No issues found! 🎉
    * Text `:` overlaps with `Source` at screen width 400
    * Text `:` overlaps with `Korea Forest Service` at screen width 400
    * Text `Source` overlaps with `Korea Forest Service` at screen width 400
-   * Text `:` overlaps with `Source` at screen width 900
-   * Text `:` overlaps with `Korea Forest Service` at screen width 900
+   * Text `area. This is equivalent to` overlaps with `16 times` at screen width 900
+   * Text `16 times` overlaps with `the size of` at screen width 900
+   * Text `Source` overlaps with `:` at screen width 900
    * Text `Source` overlaps with `Korea Forest Service` at screen width 900
-   * Text `area. This is equivalent to` overlaps with `16 times` at screen width 1300
-   * *and 4 more*
+   * *and 6 more*
 
 **https://junekim6.github.io/electric-disturbance-events/**
 
@@ -691,6 +684,16 @@ No issues found! 🎉
 **https://kellywaldro.github.io/remittances/**
 
 * Add a link to your project's GitHub repo, so people can review your code
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
+* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `1990` overlaps with `1992` at screen width 400
+   * Text `1992` overlaps with `1994` at screen width 400
+   * Text `1994` overlaps with `1996` at screen width 400
+   * Text `1996` overlaps with `1998` at screen width 400
+   * Text `1998` overlaps with `2000` at screen width 400
+   * Text `2000` overlaps with `2002` at screen width 400
+   * Text `2002` overlaps with `2004` at screen width 400
+   * *and 38 more*
 
 **https://kellywaldro.github.io/processing-times/**
 
@@ -758,7 +761,7 @@ No issues found! 🎉
    * Text `O` overlaps with `S` at screen width 400
    * Text `O` overlaps with `N` at screen width 400
    * Text `S` overlaps with `A` at screen width 400
-   * *and 19 more*
+   * *and 6 more*
 
 **https://laurabejder.com/danish-court-cases/**
 
@@ -1013,18 +1016,17 @@ No issues found! 🎉
 * Change URL to use `-` instead of spaces or underscores
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `Accidents are those recorded by the Federal Railroad Administration between 2017 and 2022` is too small at 9px
-    * Text ` ` is too small at 9px
     * Text `The stock price percentage change is the difference between April 1 2023 and May 1 2018’s prices` is too small at 9px
     * Text `Source: Yahoo! Finance, Federal Railroad Administration` is too small at 9px
     * Text `153 derailments annually between 2018 and 2022` is too small at 10px
-    * Text `yet stock price rose 35%` is too small at 8px
+    * Text `yet stock price rose 35% ` is too small at 8px
     * Text `JAN` is too small at 5px
     * *and 109 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
    * Text `2023 Apr: $205` overlaps with `APR` at screen width 400
    * Text `2018 May: $152` overlaps with `250` at screen width 400
-   * Text `2021` overlaps with `In 2018, the same trains derailed 856 times,` at screen width 900
-   * Text `2018` overlaps with `2019` at screen width 900
+   * Text `yet stock price rose 35%` overlaps with `250` at screen width 900
+   * Text `2023 Apr: $205` overlaps with `APR` at screen width 900
    * Text `2021` overlaps with `In 2018, the same trains derailed 856 times,` at screen width 1300
    * Text `2018` overlaps with `2019` at screen width 1300
 
@@ -1045,6 +1047,13 @@ No issues found! 🎉
     * *and 21 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
    * Text `CARLYLE` overlaps with `105` at screen width 400
+   * Text `CARLYLE` overlaps with `105` at screen width 900
+   * Text `California Public` overlaps with `California State` at screen width 1300
+   * Text `Employees` overlaps with `Teachers’` at screen width 1300
+   * Text `Retirement System` overlaps with `Retirement System` at screen width 1300
+   * Text `California State` overlaps with `Washington State` at screen width 1300
+   * Text `Teachers’` overlaps with `Board of Investment` at screen width 1300
+   * *and 2 more*
 
 **https://rachel-el-p.github.io/pe_game/**
 
@@ -1073,6 +1082,7 @@ No issues found! 🎉
 
 **https://shalakas.github.io/blueberry-production-peru/**
 
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `% Change in annual production percent (2012 to 2021)` is too small at 5px
     * Text `50` is too small at 5px
@@ -1083,14 +1093,14 @@ No issues found! 🎉
     * Text `World production` is too small at 5px
     * *and 69 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `True hemp` overlaps with `Blueberries` at screen width 400
    * Text `2013` overlaps with `2014` at screen width 400
    * Text `2014` overlaps with `2015` at screen width 400
    * Text `2015` overlaps with `2016` at screen width 400
    * Text `2016` overlaps with `2017` at screen width 400
    * Text `2017` overlaps with `2018` at screen width 400
    * Text `2018` overlaps with `2019` at screen width 400
-   * Text `2019` overlaps with `2020` at screen width 400
-   * *and 71 more*
+   * *and 45 more*
 
 **https://shalakas.github.io/judiciary-project/**
 
@@ -1185,7 +1195,7 @@ No issues found! 🎉
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
-    * Text `Each point represents the median fastest lap at that year’s Grand Prix. ` is too small at 9px
+    * Text `Each point represents the median fastest lap at that year’s Grand Prix.` is too small at 9px
     * Text `Monaco did not have a GP in 2020 due to the pandemic.` is too small at 9px
     * Text `Belgian Grand Prix` is too small at 7px
     * Text `Italian Grand Prix` is too small at 7px
@@ -1201,7 +1211,7 @@ No issues found! 🎉
    * Text `‘12` overlaps with `‘13` at screen width 400
    * Text `‘13` overlaps with `‘14` at screen width 400
    * Text `‘14` overlaps with `‘15` at screen width 400
-   * *and 84 more*
+   * *and 115 more*
 
 
 
