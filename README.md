@@ -225,6 +225,7 @@ No issues found! 🎉
 **https://itsliuhongyu.github.io/**
 
 * Add a link to your project's GitHub repo, so people can review your code
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://itsliuhongyu.github.io/1_Subway_change/**
 
@@ -313,9 +314,9 @@ No issues found! 🎉
    * Text `Imola` overlaps with `Mexico City` at screen width 400
    * Text `Imola` overlaps with `Sochi` at screen width 400
    * Text `Mexico City` overlaps with `Monaco` at screen width 400
-   * Text `Autodromo Enzo e Dino Ferrari (Imola)` overlaps with `Autódromo Hermanos Rodríguez (Mexico City)` at screen width 900
-   * Text `Autodromo Enzo e Dino Ferrari (Imola)` overlaps with `Sochi Autodrom` at screen width 900
-   * Text `Autódromo Hermanos Rodríguez (Mexico City)` overlaps with `Circuit de Monaco` at screen width 900
+   * Text `Austin` overlaps with `Sochi` at screen width 900
+   * Text `Imola` overlaps with `Mexico City` at screen width 900
+   * Text `Imola` overlaps with `Sochi` at screen width 900
    * *and 5 more*
 * Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
     * `"IBM Plex Serif"` font not found, used in 24 text objects. Example: _FIA issued slightly more out of track penalties to F1 drivers in the Circuit of the America, The number of out of track penalties FIA issued to drivers during Formula One races from 2014-2023, 5_
@@ -517,6 +518,7 @@ No issues found! 🎉
 **https://juhanarossi.github.io/project-pax-airliners-B737-A320/**
 
 * Change URL to be all in lowercase
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `Other types` is too small at 10px
     * Text `A320` is too small at 10px
@@ -610,11 +612,11 @@ No issues found! 🎉
    * Text `:` overlaps with `Source` at screen width 400
    * Text `:` overlaps with `Korea Forest Service` at screen width 400
    * Text `Source` overlaps with `Korea Forest Service` at screen width 400
-   * Text `area. This is equivalent to` overlaps with `16 times` at screen width 900
-   * Text `16 times` overlaps with `the size of` at screen width 900
-   * Text `Source` overlaps with `:` at screen width 900
+   * Text `:` overlaps with `Source` at screen width 900
+   * Text `:` overlaps with `Korea Forest Service` at screen width 900
    * Text `Source` overlaps with `Korea Forest Service` at screen width 900
-   * *and 6 more*
+   * Text `area. This is equivalent to` overlaps with `16 times` at screen width 1300
+   * *and 4 more*
 
 **https://junekim6.github.io/electric-disturbance-events/**
 
@@ -733,6 +735,7 @@ No issues found! 🎉
 
 **https://laurabejder.com/knitting/**
 
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `158` is too small at 10px
     * Text `Cannular or` is too small at 7px
@@ -1008,13 +1011,13 @@ No issues found! 🎉
 **https://rachel-el-p.github.io/train_derailment_and_profits/**
 
 * Change URL to use `-` instead of spaces or underscores
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `Accidents are those recorded by the Federal Railroad Administration between 2017 and 2022` is too small at 9px
+    * Text ` ` is too small at 9px
     * Text `The stock price percentage change is the difference between April 1 2023 and May 1 2018’s prices` is too small at 9px
     * Text `Source: Yahoo! Finance, Federal Railroad Administration` is too small at 9px
     * Text `153 derailments annually between 2018 and 2022` is too small at 10px
-    * Text `yet stock price rose 35% ` is too small at 8px
+    * Text `yet stock price rose 35%` is too small at 8px
     * Text `JAN` is too small at 5px
     * *and 109 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
@@ -1033,22 +1036,15 @@ No issues found! 🎉
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `Source: Company filings` is too small at 10px
-    * Text `Note: Carlyle’s private equity assets under management only includes corporate ` is too small at 10px
-    * Text `private equity and excludes assets in real estate and natural resources ` is too small at 10px
+    * Text `Note: Carlyle’s private equity assets under management only includes corporate` is too small at 10px
+    * Text `private equity and excludes assets in real estate and natural resources` is too small at 10px
     * Text ` ` is too small at 10px
     * Text `Source: Company filings` is too small at 10px
-    * Text `Note: Carlyle’s private equity assets under` is too small at 10px
-    * Text `management only includes corporate private equity` is too small at 10px
+    * Text `Note: Carlyle’s private equity assets under ` is too small at 10px
+    * Text `management only includes corporate private equity ` is too small at 10px
     * *and 21 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
    * Text `CARLYLE` overlaps with `105` at screen width 400
-   * Text `California Public` overlaps with `California State` at screen width 1300
-   * Text `Employees` overlaps with `Teachers’` at screen width 1300
-   * Text `Retirement System` overlaps with `Retirement System` at screen width 1300
-   * Text `California State` overlaps with `Washington State` at screen width 1300
-   * Text `Teachers’` overlaps with `Board of Investment` at screen width 1300
-   * Text `Texas Teachers` overlaps with `Washington State` at screen width 1300
-   * *and 1 more*
 
 **https://rachel-el-p.github.io/pe_game/**
 
@@ -1094,7 +1090,7 @@ No issues found! 🎉
    * Text `2017` overlaps with `2018` at screen width 400
    * Text `2018` overlaps with `2019` at screen width 400
    * Text `2019` overlaps with `2020` at screen width 400
-   * *and 61 more*
+   * *and 71 more*
 
 **https://shalakas.github.io/judiciary-project/**
 
@@ -1165,11 +1161,19 @@ No issues found! 🎉
 **https://shivanireddy13.github.io/project3/docs**
 
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `Product` is too small at 10px
     * Text `1657 ` is too small at 9px
     * Text `3227 ` is too small at 10px
+* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `Marketing` overlaps with `Product` at screen width 400
+   * Text `Marketing` overlaps with `1657` at screen width 400
+   * Text `Marketing` overlaps with `3227` at screen width 400
+   * Text `Investors` overlaps with `7649` at screen width 400
+   * Text `Product` overlaps with `1657` at screen width 400
+   * Text `Founders` overlaps with `5291` at screen width 400
+   * Text `Engineers` overlaps with `13960 jobs` at screen width 400
+   * *and 5 more*
 
 **https://shivanireddy13.github.io/project4/html/**
 
@@ -1325,7 +1329,7 @@ No issues found! 🎉
 **https://xinyitu.github.io/precinct-parking/**
 
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-    * Image `image/84th-map.png` missing `alt` tag
+    * Image `image/94th-map.png` missing `alt` tag
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `September, 2013 via Google StreetView` is too small at 6px
