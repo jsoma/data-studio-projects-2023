@@ -66,7 +66,7 @@ Quick checks to make sure our pages are looking their best.
    * Text `$6B` overlaps with `$5.9B` at screen width 400
    * Text `Singapore` overlaps with `$130B` at screen width 400
    * Text `and Mauritius` overlaps with `$130B` at screen width 400
-   * *and 28 more*
+   * *and 21 more*
 
 **https://ahanpenkar.github.io/my-dosa-project/**
 
@@ -676,7 +676,8 @@ No issues found! 🎉
 
 * Change URL to use `-` instead of spaces or underscores
 * Minimum font size should be 12px, enlarge text in Illustrator
-    * Text `246 medical visas granted*` is too small at 10px
+    * Text `246 medical visas granted*
+              ` is too small at 10px
 
 **https://kellywaldro.github.io/pharmacies/**
 
@@ -688,15 +689,16 @@ No issues found! 🎉
 **https://kellywaldro.github.io/remittances/**
 
 * Add a link to your project's GitHub repo, so people can review your code
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `1990` overlaps with `1992` at screen width 900
-   * Text `1992` overlaps with `1994` at screen width 900
-   * Text `1994` overlaps with `1996` at screen width 900
-   * Text `1996` overlaps with `1998` at screen width 900
-   * Text `1998` overlaps with `2000` at screen width 900
-   * Text `2000` overlaps with `2002` at screen width 900
-   * Text `2002` overlaps with `2004` at screen width 900
-   * *and 23 more*
+   * Text `1990` overlaps with `1992` at screen width 400
+   * Text `1992` overlaps with `1994` at screen width 400
+   * Text `1994` overlaps with `1996` at screen width 400
+   * Text `1996` overlaps with `1998` at screen width 400
+   * Text `1998` overlaps with `2000` at screen width 400
+   * Text `2000` overlaps with `2002` at screen width 400
+   * Text `2002` overlaps with `2004` at screen width 400
+   * *and 38 more*
 
 **https://kellywaldro.github.io/processing-times/**
 
@@ -1049,13 +1051,6 @@ No issues found! 🎉
     * *and 21 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
    * Text `CARLYLE` overlaps with `105` at screen width 400
-   * Text `California Public` overlaps with `California State` at screen width 1300
-   * Text `Employees` overlaps with `Teachers’` at screen width 1300
-   * Text `Retirement System` overlaps with `Retirement System` at screen width 1300
-   * Text `California State` overlaps with `Washington State` at screen width 1300
-   * Text `Teachers’` overlaps with `Board of Investment` at screen width 1300
-   * Text `Texas Teachers` overlaps with `Washington State` at screen width 1300
-   * *and 1 more*
 
 **https://rachel-el-p.github.io/pe_game/**
 
