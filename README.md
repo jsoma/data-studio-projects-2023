@@ -49,7 +49,6 @@ Quick checks to make sure our pages are looking their best.
 **https://ahanpenkar.github.io/foreign-direct-investment**
 
 * Add a link to your project's GitHub repo, so people can review your code
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `France` is too small at 10px
     * Text `Germany` is too small at 10px
@@ -67,7 +66,7 @@ Quick checks to make sure our pages are looking their best.
    * Text `$6B` overlaps with `$5.9B` at screen width 400
    * Text `Singapore` overlaps with `$130B` at screen width 400
    * Text `and Mauritius` overlaps with `$130B` at screen width 400
-   * *and 28 more*
+   * *and 21 more*
 
 **https://ahanpenkar.github.io/my-dosa-project/**
 
@@ -76,7 +75,7 @@ No issues found! 🎉
 **https://ahanpenkar.github.io/transfer-analysis/**
 
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-    * Image `image4.png` missing `alt` tag
+    * Image `image5.jpeg` missing `alt` tag
 
 **https://ahanpenkar.github.io/violence-against-christians/**
 
@@ -226,6 +225,7 @@ No issues found! 🎉
 **https://itsliuhongyu.github.io/**
 
 * Add a link to your project's GitHub repo, so people can review your code
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://itsliuhongyu.github.io/1_Subway_change/**
 
@@ -392,7 +392,6 @@ No issues found! 🎉
 **https://jakeneenan.github.io/boston-wealth/**
 
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `In the greater Boston area, white households are vastly more wealthy than` is too small at 9px
     * Text `nonwhite households ` is too small at 9px
@@ -403,7 +402,7 @@ No issues found! 🎉
     * Text `Puerto ` is too small at 5px
     * *and 201 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `2.0` overlaps with `Cape Verdean` at screen width 900
+   * Text `2.0` overlaps with `Cape Verdean` at screen width 400
 
 **https://jakeneenan.github.io/bpd_project/**
 
@@ -488,7 +487,6 @@ No issues found! 🎉
 
 **https://juhanarossi.github.io/helsinki-nyc-days/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
    * Text `9:20 am` overlaps with `5 h 56 min` at screen width 400
    * Text `5 h 56 min` overlaps with `3:16 pm` at screen width 400
@@ -531,7 +529,6 @@ No issues found! 🎉
     * *and 28 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
    * Text `1990` overlaps with `0.8` at screen width 400
-   * Text `1990` overlaps with `0.8` at screen width 900
 
 **https://juhanarossi.github.io/finnish-summer-cabin/**
 
@@ -692,15 +689,6 @@ No issues found! 🎉
 **https://kellywaldro.github.io/remittances/**
 
 * Add a link to your project's GitHub repo, so people can review your code
-* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `1990` overlaps with `1992` at screen width 900
-   * Text `1992` overlaps with `1994` at screen width 900
-   * Text `1994` overlaps with `1996` at screen width 900
-   * Text `1996` overlaps with `1998` at screen width 900
-   * Text `1998` overlaps with `2000` at screen width 900
-   * Text `2000` overlaps with `2002` at screen width 900
-   * Text `2002` overlaps with `2004` at screen width 900
-   * *and 23 more*
 
 **https://kellywaldro.github.io/processing-times/**
 
@@ -1088,6 +1076,7 @@ No issues found! 🎉
 
 **https://shalakas.github.io/blueberry-production-peru/**
 
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `% Change in annual production percent (2012 to 2021)` is too small at 5px
     * Text `50` is too small at 5px
@@ -1098,14 +1087,14 @@ No issues found! 🎉
     * Text `World production` is too small at 5px
     * *and 69 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `True hemp` overlaps with `Blueberries` at screen width 400
    * Text `2013` overlaps with `2014` at screen width 400
    * Text `2014` overlaps with `2015` at screen width 400
    * Text `2015` overlaps with `2016` at screen width 400
    * Text `2016` overlaps with `2017` at screen width 400
    * Text `2017` overlaps with `2018` at screen width 400
    * Text `2018` overlaps with `2019` at screen width 400
-   * Text `2019` overlaps with `2020` at screen width 400
-   * *and 61 more*
+   * *and 55 more*
 
 **https://shalakas.github.io/judiciary-project/**
 
